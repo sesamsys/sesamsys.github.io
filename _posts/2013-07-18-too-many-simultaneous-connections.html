@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Too many simultaneous connections
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 3948
+wordpress_url: http://sesam.hu/?p=3948
+date: '2013-07-18 13:00:07 +0200'
+date_gmt: '2013-07-18 11:00:07 +0200'
+tags:
+- OS X
+- GMail
+- Mail
+- Tech &amp; Gizmos
+comments: []
+---
+<p>Ma <a href="https://twitter.com/sesam/status/357799438472847362">kiírtam Twitterre</a> egy parancsot, amivel kilépésre lehet bírni bármilyen OS X alkalmazást parancssorból. A fene gondolta, de nagyon népszerű lett.</p>
+<p>A háttér, hogy a céges emailünk Google Apps alapú, amit én minden gépemen Mail.app-ban nézek. Gyakran előfordul, hogy az otthoni gépen is bekapcsolva marad a Mail.app. Ez azért lehet gond, mert ha túl sok kérés esik be a Gmailhez, (konkrétan több, mint 15 IMAP kapcsolat fiókonként) akkor <a href="https://support.google.com/mail/answer/97150?hl=en">Too many simultaneous connections</a> hibát dob. Egy kliens pedig a háttérben több kapcsolatot is nyithat.</p>
+<p>Igény van rá tehát, hogy a munkahelyről ki lehessen lépni az otthoni Mail.app-ból. Ehhez szükség van ssh elérésre, amit simán be lehet kapcsolni az OS X beállításaiban, egy port átirányításra az otthoni routerben, és az otthoni IP címre, amit én a <a href="http://dyn.com/dns/">Dyn</a> ingyenes DNS szolgáltatásával kötöttem össze.</p>
+<p>Ha már bent vagyunk, elég lenne egy sima kill parancsot kiadni, de az nem túl elegáns. Sokkal szebb az:</p>
+<p><code>osascript -e 'tell application "Mail" to quit'</code></p>

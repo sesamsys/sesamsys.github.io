@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: iCloud sync on iPhone 3G
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 3127
+wordpress_url: http://sesam.hu/?p=3127
+date: '2011-11-16 10:26:59 +0100'
+date_gmt: '2011-11-16 09:26:59 +0100'
+tags:
+- Android
+- apple
+- iphone
+- MobileMe
+- iOS
+- iCloud
+- Tech &amp; Gizmos
+comments: []
+---
+<p>Bár az <a href="http://www.apple.com/ios/">iOS 5</a> nem kompatibilis az eredeti iPhone-nal és az iPhone 3G-vel, az új <a href="http://www.apple.com/icloud/">iCloud</a> szinkronizációs rendszer email, naptár és kontaktlista szolgáltatása ugyanúgy használható kézi beállítással. Sőt, bármilyen <strong>IMAP</strong>, <strong>CalDav</strong> és <strong>CardDav</strong> protokollt támogató szoftverrel együttműködik: nekem az Androidon is sikerült iCloud emailt csiholnom.</p>
+<p>iOS alatt a <code>Settings &gt; Mail, Contacts, Calendar &gt; Add Account… &gt; Other</code> menüben lehet beállítani mindhárom szolgáltatást.</p>
+<p>A szükséges adatok a következők:</p>
+<ul>
+<li>Bejövő IMAP szerver: <code>imap.mail.me.com</code></li>
+<li>Kimenő SMTP szerver: <code>smtp.mail.me.com</code></li>
+<li>Naptár szerver: <code>caldav.icloud.com</code></li>
+<li>Kontakt szerver: <code>contacts.icloud.com</code></li>
+<li>Felhasználónév: <code>az iCloud email cím</code></li>
+</ul>
+<p>A <a href="http://wyctim.com/icloud-sync-regebbi-rendszereken/">neten fellelhető leírásokban</a> említett <code>p01-p03</code> prefixekre saját tapasztalatom alapján nincs szükség, ezt az iOS automatikusan kitölti a szerver ellenőrzése közben.</p>
+<p>Fontos viszont odafigyelni, hogy <strong>ha valakinek a régi <code>@mac.com</code> email címe is él, akkor azt írja be felhasználónévnek</strong>. Nekem mind a naptár mind a kontaktlista szinkronizáció csak így működött, a <code>@me.com</code> végű címmel nem.</p>

@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: How to fix TinyMCE (visual editor) for WordPress in Firefox
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 778
+wordpress_url: http://sesam.hu/2007/06/21/how-to-fix-tinymce-visual-editor-for-wordpress-in-firefox/
+date: '2007-06-21 13:21:35 +0200'
+date_gmt: '2007-06-21 04:21:35 +0200'
+tags:
+- Tech &amp; Gizmos
+comments: []
+---
+<p>For starters, I have upgraded the site to <a href="http://wordpress.org/download/">WP 2.2</a> from 2.0.5. The usual favour applies: if something doesn't seem to function, please do <a href="http://sesam.hu/contact/">contact</a> me.</p>
+<p>One reason of the upgrade was that I hoped for the visual editor to somehow "un-bug" itself and actually work. However, it didn't happen.  Searching for the reason resulted in a lot of complaints from people using Firefox, meanwhile everyone claimed it worked flawlessly under IE. That's when I thought of <a href="http://adblockplus.org/en/">AdBlock Plus</a>... the usual reason behind stuff mysteriously breaking in websites, also one of the most widely used Firefox plug-ins. And boy was I right. Some of the visual editor's (a.k.a. TinyMCE) scripts were caught in ABP's filters.</p>
+<p>As a quick fix simply add the following exception to your ABP rules:</p>
+<p style="font-family: monospace; line-height: 1.1em">@@http://&lt;path-to-WordPress&gt;/wp-includes/js/tinymce/</p>
+<p>And that's it, full featured visual editor welcomes you after refresh.</p>
+<p>Two features that I instantly loved: tabbed editor, one for Visual and one for Code, for those who like to hack even more formatting in their posts. (Like the different styling of the code above.) And regular automatic save of the posts.  (Raise your hand if you bothered saving every now and then, just to be safe. Raise your other hand if you've ever lost a post by some stupid mistake, like hitting reload accidentally. Okay, you can put your hands down. Those days are over.)</p>

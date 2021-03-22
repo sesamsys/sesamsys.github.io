@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: iStat Pro fix
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 3576
+wordpress_url: http://sesam.hu/?p=3576
+date: '2013-01-02 16:27:17 +0100'
+date_gmt: '2013-01-02 15:27:17 +0100'
+tags:
+- Bjango
+- fix
+- OS X
+- widget
+- iStat
+- Tech &amp; Gizmos
+comments: []
+---
+<p>Régóta használom az <a href="https://www.apple.com/downloads/dashboard/status/istatpro.html">iStat Pro</a> widgetet OS X-en. Kiváló arra, hogy egy gyors mozdulattal rá lehessen tekinteni a szabad tárhelyre, a memória állapotára, vagy hogy melyik processz zabálja épp a CPU-t. Mivel a Dashboardon ül, máskor nem zavar fölöslegesen ezekkel.</p>
+<p>Sajnos a Bjango már nem fejleszti a terméket, a kiváltására ajánlott <a href="http://bjango.com/mac/istatmenus/">iStat Menus</a> pedig nekem nem tetszik, és drága is. Viszont Mountain Lion alatt eltört a widget folyamatokat listázó része...</p>
+<p>Szerencsére <a href="http://forums.macrumors.com/showpost.php?p=15332289&amp;postcount=20">találtam egyszerű javítást hozzá</a>:</p>
+<ol>
+<li><span style="line-height: 14px;">Keresd meg a widgetet a <strong>~/Library/Widgets</strong> (esetleg a <strong>/Library/Widgets</strong>) könyvtárban.<br />
+Ha nem megy, Finderben a Shift + Command + G nyitja meg ezeket.</span></li>
+<li>Jobb kattintás után válaszd a <strong>Show Package Contents</strong> opciót.</li>
+<li>Nyisd meg a <strong>Wide.js</strong> (horizontális nézet) vagy a <strong>Tall.js</strong> (vertikális nézet) filet.</li>
+<li>Az alábbi sorokban a "<strong>PID|$1</strong>" részeknél a pipe | után kell írni egy spacet: "<strong>PID| $1</strong>"
+<pre>if(p.v("processes_sort_mode") == 'cpu')
+		widget.system('ps -arcwwwxo "pid %cpu command" | egrep "<strong>PID| $1</strong>" | grep -v grep | ' + exclude + ' head -7 | tail -6 | awk \'{print ""$1""$2""$3,$4,$5""}\'', function(data){ _self.updateProcessesOut(data);});
+	else
+		widget.system('ps -amcwwwxo "pid rss command"  | egrep "<strong>PID| $1</strong>" | grep -v grep | ' + exclude + ' head -7 | tail -6 | awk \'{print ""$1""$2""$3,$4,$5""}\'', function(data){ _self.updateProcessesOut(data);});
+}</pre>
+</li>
+<li>Mentés után a widget eltávolításával, majd újra Dashboardhoz adásával már helyesen listázódnak a processzek.</li>
+</ol>

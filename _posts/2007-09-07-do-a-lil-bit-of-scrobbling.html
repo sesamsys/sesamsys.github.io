@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: do a lil bit of scrobbling
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 829
+wordpress_url: http://sesam.hu/2007/09/07/do-a-lil-bit-of-scrobbling/
+date: '2007-09-07 02:17:50 +0200'
+date_gmt: '2007-09-06 17:17:50 +0200'
+tags:
+- Music
+- Tech &amp; Gizmos
+comments:
+- id: 805
+  author: Vale
+  author_email: valerauko@gmail.com
+  author_url: http://blog.valerauko.net/
+  date: '2007-09-07 04:41:36 +0200'
+  date_gmt: '2007-09-06 19:41:36 +0200'
+  content: i suppose another $ret[$i]['artist-url'] should be there soon after. i'll
+    check this one out if i have some free time, i like diving into long complicated
+    scripts.
+- id: 806
+  author: Stefan Ernst
+  author_email: k@thxbye.de
+  author_url: http://www.thxbye.de/
+  date: '2007-09-11 04:41:21 +0200'
+  date_gmt: '2007-09-10 19:41:21 +0200'
+  content: Now we'll just need that same thing for Typo3. ;)
+---
+<p>Eagle-eyed readers might have noticed that the now playing ticker now changed to display last.fm links as well. I really would have switched this option on earlier, but the artist link was bugged in the latest <a href="http://leflo.de/projects/scrobbler">scrobbler add-on for WP</a>.</p>
+<p>Turned out the "bug" was really just a minor issue and took <a href="http://sld.interhost.hu/sld/">sld</a> about 30 seconds to fix. Here's what you should change in your phpScrobbler.php file, provided that you're using version 2.2.7 of the add-on:</p>
+<p align="left"><code>$ret[$i]['artist-url'] = "http://www.last.fm/explore/search.php?q=";</code><br />
+should be<br />
+<code>$ret[$i]['artist-url'] = "http://www.last.fm/music/";</code><br />
+and just comment out the following line<br />
+<code>// $ret[$i]['artist-url'] .= "&amp;m=artists";</code></p>
+<p>Violá, bug fixed, %artist-url% now displays the correct link when used on the configuration panel.</p>

@@ -1,0 +1,77 @@
+---
+layout: post
+status: publish
+published: true
+title: How to make a linux server appear in Finder
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 1551
+wordpress_url: http://sesam.hu/?p=1551
+date: '2009-04-10 20:41:02 +0200'
+date_gmt: '2009-04-10 11:41:02 +0200'
+tags:
+- AFP
+- Avahi
+- filesharing
+- Gentoo
+- linux
+- Mac
+- netatalk
+- osx
+comments: []
+---
+<p><strong>Update 1:</strong> Added <code>nss-mdns</code> service and runlevel defaults.</p>
+<p>For a while now I've been battling with the router my ISP gave me. In the name of user-friendliness it has a Japanese administration interface with a lot of katakana for the IT terms. More importantly it simply doesn't offer IP issuance over DHCP based on MAC addresses. Which means with the linux box and the MacBook switched on and off randomly they'd get completely different IP addresses and I have nothing to prevent that.</p>
+<p><img src="http://img.skitch.com/20090410-ju8j24exceer5c6ma3y397f5tt.png" alt="router" /></p>
+<p>(The MAC Address Filtering only works if the wireless extension is installed, not with wired LAN.)</p>
+<p>Now that started being a major nuisance after I shared everything via NFS. OS X can connect to NFS shares with the Command+K  "Connect to Server..." option in Finder but it needs the IP address of the machine. I also set up the NFS server to accept connections only from the IP of the MacBook - I don't like open doors - but then that had to be changed as well every time the bloody machines swapped IPs after a restart.</p>
+<p>Not too sophisticated.</p>
+<p>It recently occurred to me that there must be some implementation of the <a href="http://en.wikipedia.org/wiki/Zeroconf">zero configuration networking</a> technology of Apple called Bonjour. The idea behind this is that no matter what their IP is machines broadcast the services they offer and find each other on the network without any user interaction whatsoever.</p>
+<p>A prime example is when there are two Macs on a network and you set up file sharing on one of them in matter of seconds it will pop up at the "Shared" section of the other's Finder. With Leopard this feature has been extended so Windows machines are recognised automatically as well. When I visited home upon connecting to the LAN the public shares of all the Windows PCs in our house appeared almost instantly. After supplying the usernames and passwords of the respective computers I could browse the files without configuring anything. (You need to set up Samba - well not as much set up more like tick a checkbox in the System Preferences - if you want Windows computers to see Mac shares over the network.)</p>
+<p>I think we can all agree that the zeroconf approach is pretty cool. But what if you have a linux box?</p>
+<p>Surprisingly it didn't take long at all to figure out a solution. I wonder why I didn't do it earlier to be honest. Here's how it should go on a Gentoo box:</p>
+<p><strong>Step 1</strong>, Set up <strong>netatalk</strong>, the open source implementation of <a href="http://en.wikipedia.org/wiki/Apple_Filing_Protocol">AFP</a>, Apple's file sharing protocol. After emerging it needs a few tweaks. In <code>/etc/netatalk/netatalk.conf</code> some protocols are better switched off.</p>
+<p><code>ATALKD_RUN=no<br />
+PAPD_RUN=no<br />
+CNID_METAD_RUN=yes<br />
+AFPD_RUN=yes<br />
+TIMELORD_RUN=no<br />
+A2BOOT_RUN=no</code></p>
+<p>Now add the last line to <code>/etc/netatalk/afpd.conf</code> to configure the AFP daemon. (Make sure it is one line with no line break.)</p>
+<p><code>- -transall -uamlist uams_randnum.so,uams_dhx.so -nosavepassword -advertise_ssh</code></p>
+<p>Then proceed on configuring the shares. They can be added at <code>/etc/netatalk/AppleVolumes.default</code> but I just went with the default sharing of the home folder.</p>
+<p>With the following command add the netatalk daemon to the default runlevel (so it autostarts every time with the machine) and start it.</p>
+<p><code>rc-update add atalk default<br />
+/etc/init.d/atalk start</code></p>
+<p><strong>Step 2</strong>, Configure <strong>Avahi</strong>, the open source replacement of Bonjour (zero configuration networking). AFP shares is one thing but if you want them to pop in Finder without any hassle you need Bonjour to advertise their presence on the network. Apple has its own source code available for linux but I found mDNSResponder vastly inferior to Avahi. (i.e. I had no idea how it worked...)</p>
+<p>Avahi needs a config file at <code>/etc/avahi/services/afpd.service</code> to contain the following:</p>
+<p><code>&lt;?xml version="1.0" standalone='no'?&gt;&lt;!--*-nxml-*--&gt;<br />
+&lt;!DOCTYPE service-group SYSTEM "avahi-service.dtd"&gt;<br />
+&lt;service-group&gt;<br />
+&lt;name replace-wildcards="yes"&gt;%h&lt;/name&gt;<br />
+&lt;service&gt;<br />
+&lt;type&gt;_afpovertcp._tcp&lt;/type&gt;<br />
+&lt;port&gt;548&lt;/port&gt;<br />
+&lt;/service&gt;<br />
+&lt;service&gt;<br />
+&lt;type&gt;_device-info._tcp&lt;/type&gt;<br />
+&lt;port&gt;0&lt;/port&gt;<br />
+&lt;txt-record&gt;model=Xserve&lt;/txt-record&gt;<br />
+&lt;/service&gt;<br />
+&lt;/service-group&gt;</code></p>
+<p>The txt-record entry specifies the type of machine OS X will think your share is on. This will result in OS X machines to display your linux box with a nice Xserve icon. Undefined shares get an Apple monitor icon or a Windows CRT with BSOD on it as far as I know.</p>
+<p>Update 1: In order to be able to use machine names instead of IP addresses from the linux box you will need to emerge the <code>nss-mdns</code> package too. In <code>/etc/nssswitch.conf</code> find the line starting with <code>hosts:</code> and add <code>mdns</code> to the end of the line. Mine looks like this now:</p>
+<p><code>hosts: files dns mdns</code></p>
+<p>Finally add to the default runlevel and start Avahi as well.</p>
+<p><code>rc-update add avahi-daemon default<br />
+/etc/init.d/avahi-daemon start</code></p>
+<p><strong>Step 3</strong>, <strong>profit</strong>. That's all to it because after starting Avahi an icon for the linux box will appear in matters of seconds in Finder. Press Shift-Command-K to go directly to the Networks location and wait for your server there. When it pops a double click will result in a can't connect error but <em>don't panic</em>. Just use the "Connect As..." button and specify your linux username and password. Congratulations, you can now browse the linux server as if it was any other Mac on the network.</p>
+<p><img src="http://img.skitch.com/20090410-bqkpw3c2gqwkmpb5rwhdm7ds63.png" alt="lillemor in osx" /></p>
+<p>If you want to use more types of services the <a href="http://en.gentoo-wiki.com/wiki/Avahi">Gentoo Wiki page on Avahi</a> can help with the configurations. If you'd like to use the linux server as a Time Machine backup location <a href="http://www.kremalicious.com/2008/06/ubuntu-as-mac-file-server-and-time-machine-volume/">Matthias Kertschmann's guide</a> explains that as well. My post is based upon his guide except I changed the file locations to their Gentoo equivalents.</p>
+<p>It is important to mention that if you run any firewalls on the machines they need to be disabled or adjusted to work with Bonjour/AFP. This mainly means you have to allow communications over port 548 and 5353.</p>

@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: sshfs
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 776
+wordpress_url: http://sesam.hu/2007/06/19/sshfs/
+date: '2007-06-19 00:02:18 +0200'
+date_gmt: '2007-06-18 15:02:18 +0200'
+tags:
+- Tech &amp; Gizmos
+comments: []
+---
+<p>Egy ideje helyhiánnyal küszködök a linuxon - filmgyűjtési szokásaimat ismerők gondolom nem csodálkoznak. Lényeg ami lényeg gondoltam utilizálni volna célszerű a laptopon lévő helyet is, ideiglenesen felfér 1-2 mozi oda is. Az egyetlen gond az volt, hogyan nézzem meg a filmeket a laptopról a PC monitorán. 19" mégsem 13.3" ugye. Sajnos a MacBook Mini DVI csatlakozójához nincs teljes méretű DVI-re átalakítóm, se másik kábelem, hogy direktben ráköthessem a monitorra. Valamilyen filemegosztásra volt tehát szükségem.</p>
+<p><a href="http://en.wikipedia.org/wiki/Network_file_system">NFS</a> ugye már fut a linuxon, tehát a Macről gond nélkül elérem az összes linuxos meghajtóm, viszont ez visszafelé nem működik. És nem igazán fűllött a fogam ahhoz, hogy a MacBookon is elindítsak valamilyen fileszervert, mégiscsak midenféle ilyen-olyan hálózatra kapcsolódok vele, fő a biztonság. Egyetlen dolog ami állandóan fut az az ssh. (Bár opciókból egy klikkel azt indít amit nem szégyellek, előre konfigurálva.)</p>
+<p>Na így találtam rá a <a href="http://en.wikipedia.org/wiki/Filesystem_in_Userspace">FUSE</a>-alapú <a href="http://fuse.sourceforge.net/sshfs.html">sshfs</a>-re. Gentoon mindössze annyi a teendő, hogy emergeljük a fuse és sshfs-fuse ebuildeket. Aztán egy modprobe fuse elindítja a kernel modult. Innentől userként sshfs host: mountpoint és violá, ssh-n keresztül úgy érhető el a host merevlemeze, mintha csak a gépben csücsülne. Figyelem, nem kell hozzá LAN-on lenni, akár a világ másik feléről is tökéletes. Értsd: elegendő sávszéllel Magyarországról nézhetném a filmeket a japán linux-gépről, ha nem lenne a KDDI-nek is idióta firewall beépítve a szolgáltatásába...</p>
+<p>Úgy mellesleg ezt is honfitársunknak köszönhetjük. :)</p>
+<p><a href="http://lifehacker.com/software/ssh/geek-to-live--mount-a-file-system-on-your-mac-over-ssh-246129.php">Ezen cikket követve</a> pedig visszafelé, Macről is megoldható a dolog, frontenddel.</p>

@@ -1,0 +1,80 @@
+---
+layout: post
+status: publish
+published: true
+title: The ROFLcopter
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 1148
+wordpress_url: http://sesam.hu/?p=1148
+date: '2008-06-01 00:41:32 +0200'
+date_gmt: '2008-05-31 15:41:32 +0200'
+tags:
+- lollerskates
+- roflcopter
+- fun
+comments:
+- id: 1321
+  author: Vale
+  author_email: valerauko@gmail.com
+  author_url: http://blog.valerauko.net/
+  date: '2008-06-01 04:53:21 +0200'
+  date_gmt: '2008-05-31 19:53:21 +0200'
+  content: aranyos =)
+- id: 1322
+  author: VladDracul
+  author_email: vladdracul@chello.hu
+  author_url: ''
+  date: '2008-06-01 05:44:45 +0200'
+  date_gmt: '2008-05-31 20:44:45 +0200'
+  content: Ez naggyonbeteeeg! Kiváncsian várom a lollerskates-t...
+- id: 1323
+  author: foodlfg
+  author_email: foodlfg@gmail.com
+  author_url: ''
+  date: '2008-06-01 15:50:25 +0200'
+  date_gmt: '2008-06-01 06:50:25 +0200'
+  content: ":Đ .."
+---
+<p>I really was thinking hard how to introduce this, but I'm at a loss for words. I think the experience speaks for itself. So without further ado, I present thee <strong>the moving ROFLcopter made entirely with CSS and JavaScript</strong>.</p>
+<p>
+<!--// Supercool ROFLCOPTER snippet by Stefan Ernst ( http://www.thxbye.de/ ) - YAY WE BEGIN //--></p>
+<pre class="roflcopter">
+<span id="rofl_main_left">ROFL:ROFL</span>:LOL:<span id="rofl_main_right">ROFL:ROFL</span>
+           |
+  <span id="rofl_small_top">L</span>   /---------------------------
+ <span id="rofl_small_left">L</span>O<span id="rofl_small_right">L</span>===       []\
+  <span id="rofl_small_bottom">L</span>    \         \
+        \_________\
+          |     |
+       --------------------------------------/</pre>
+<p><script type="text/javascript"><br />
+//<![CDATA[<br />
+        function rofl_chop_left () {<br />
+            document.getElementById('rofl_main_left').style.visibility = 'visible';<br />
+            document.getElementById('rofl_main_right').style.visibility = 'hidden';<br />
+            document.getElementById('rofl_small_right').style.visibility = 'hidden';<br />
+            document.getElementById('rofl_small_left').style.visibility = 'hidden';<br />
+            document.getElementById('rofl_small_top').style.visibility = 'visible';<br />
+            document.getElementById('rofl_small_bottom').style.visibility = 'visible';<br />
+            setTimeout('rofl_chop_right()', 125);<br />
+        }<br />
+        function rofl_chop_right () {<br />
+            document.getElementById('rofl_main_left').style.visibility = 'hidden';<br />
+            document.getElementById('rofl_main_right').style.visibility = 'visible';<br />
+            document.getElementById('rofl_small_right').style.visibility = 'visible';<br />
+            document.getElementById('rofl_small_left').style.visibility = 'visible';<br />
+            document.getElementById('rofl_small_top').style.visibility = 'hidden';<br />
+            document.getElementById('rofl_small_bottom').style.visibility = 'hidden';<br />
+            setTimeout('rofl_chop_left()', 125);<br />
+        }<br />
+//]]><br />
+        rofl_chop_left();<br />
+</script><!--// Supercool ROFLCOPTER snippet by Stefan Ernst ( http://www.thxbye.de/ ) - YAY THE END //--></p>
+<p>The <a href="http://www.thxbye.de/javascript/create-your-own-rofl-copter-purely-in-javascript-and-css.html">source code is here</a> and it's free to use by anybody, but make sure to <a href="http://www.thxbye.de/">give credit</a> where it's due.</p>

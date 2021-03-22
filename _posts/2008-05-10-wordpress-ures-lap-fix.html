@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: WordPress üres lap fix
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 1109
+wordpress_url: http://sesam.hu/?p=1109
+date: '2008-05-10 22:13:58 +0200'
+date_gmt: '2008-05-10 13:13:58 +0200'
+tags:
+- blank page
+- fix
+- wordpress
+- Tech &amp; Gizmos
+comments: []
+---
+<p>Technoblabla következik, súlyosbítva a ténnyel, hogy nem vagyok szakértő, tehát lehet hogy hülyeség lesz.</p>
+<p>A weboldal hibájára a következőképpen jöttünk rá. Gyanús lett, hogy a print_r( headers_list( ) ); üresen jön vissza. (Már nem nekem, sLD-nek. :D ) Ráadásul egy szimpla átirányítást végző php file gond nélkül lefutott.</p>
+<p>Ezután visszaállítottam a weboldal témáját az előző minimal designra, és láss csodát azzal nem jött elő a fehérlap-probléma.</p>
+<p>Innentől egyenes út vezetett a témában legutóbb szerkesztett functions.php filehoz, ahol két &lt;?php ... ?&gt; között lévő üres sor bizonyult a ludasnak.</p>
+<p>Mi a teendő tehát ha üres lapokat kezd megjeleníteni a WordPress?</p>
+<ol>
+<li>Deaktiváld az összes plugint. Hibás plugin könnyen okozhat ilyen hibát.</li>
+<li>Cseréld ki a használt témát. Ha az új témával eltűnnek az üres oldalak, nézd át a kódot üres sorok után a php hívások körül.</li>
+<li>Ellenőrizd a WordPress config.php fileját üres sorokat keresve a végén.</li>
+</ol>
+<p>A StartLogic - úgy fest - nem tehet semmiről. (Hacsak arról nem, hogy elnyomják a hibákat, és bűvészkedni kell.) Egyedül engem terhel a felelősség, én írtam át a nevezett fájlt hibásan. Tanulság: túlságosan forrófejű vagyok. (És nem értek a php-hez.)</p>
+<p>Az RSS feed is emiatt volt tele kérdőjelekkel. Nekem már megjavult.</p>

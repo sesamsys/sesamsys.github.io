@@ -1,0 +1,67 @@
+---
+layout: post
+status: publish
+published: true
+title: 'WordPress hiba: eltűntek a kategóriák'
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 1134
+wordpress_url: http://sesam.hu/?p=1134
+date: '2008-05-22 12:34:55 +0200'
+date_gmt: '2008-05-22 03:34:55 +0200'
+tags:
+- malfunction
+- StartLogic
+- Tech &amp; Gizmos
+comments:
+- id: 1284
+  author: Youkai
+  author_email: youkai@t-online.hu
+  author_url: http://youkai.wordpress.com/
+  date: '2008-05-22 14:17:01 +0200'
+  date_gmt: '2008-05-22 05:17:01 +0200'
+  content: |-
+    Remélem volt mentésed, én anno ezért húztam el az extra.hu-ról mert mesebeli volt a müködése, tudod, hol volt, hol nemvolt... pedig az ingyenes volt...
+    A host üzemeltetőjének már ment e-mail, melyben az édesanyját emlegeted negatív jelzős szerkezetben?
+- id: 1285
+  author: sld
+  author_email: david.lantos@gmail.com
+  author_url: http://sld.interhost.hu/sld/
+  date: '2008-05-22 16:09:49 +0200'
+  date_gmt: '2008-05-22 07:09:49 +0200'
+  content: Read-only az adott mount point ahol ezek a fileok vannak. Lehet RAID vezérlő
+    hiba, lemezhiba, de nem akarok találgatni... Elég gáz ez fizetős szerveren.
+- id: 1286
+  author: SeSam
+  author_email: petersz@mac.com
+  author_url: http://sesam.hu/
+  date: '2008-05-22 22:02:34 +0200'
+  date_gmt: '2008-05-22 13:02:34 +0200'
+  content: Hát kurvára örülök neki. Annak meg főképp, hogy semmit sem tudok tenni,
+    csak várni, hogy esetleg megjavítják...
+- id: 1287
+  author: Vale
+  author_email: valerauko@gmail.com
+  author_url: http://blog.valerauko.net/
+  date: '2008-05-23 02:20:24 +0200'
+  date_gmt: '2008-05-22 17:20:24 +0200'
+  content: 'sld: nem kicsit gáz. de nekem még jobb: néha totál leáll az sql, se kép,
+    se hang. a cpanel meg olyan sebességgel tölt, mintha dial-upon lennék. na az gáz
+    fizetős szerveren.'
+---
+<p>Nem vagyok ideges.</p>
+<p>Először az tűnt fel, hogy a<strong> blogroll nincs a helyén</strong>. Azután összeomlott az egész: <strong>a címkék hiányoznak a bejegyzésekből</strong>, egyúttal <strong>eltűnt az összes kategória</strong>, minden visszanullázódot "uncategorised" alá.</p>
+<p>Nem vagyok ideges.</p>
+<p>A legrelevánsabbnak tűnő információ, amit a Google kidobott, hogy <a href="http://www.top10tech.com/web/2008/03/07/blogging-tips/wordpress/holy-crap-my-wordpress-categories-disappeared/">indítsam újra az SQL szervert</a>. Hát persze.</p>
+<p>Közben a phpmyadmin-on keresztül belenéztem az adatbázisba, de az meg ilyeneket köp vissza:</p>
+<p style="font-family: monospace;">#1 - Can't create/write to file '/tmp/#sql_1301_0.MYI' (Errcode: 13)</p>
+<p>Az "Errcode: 13" pedig "permission denied", tehát jogosultsági hiba vagy valami prózaibb: megtelt a lemez.</p>
+<p>Mindenesetre remélem, hogy csak ennyi (szar SQL szerver), és nem maradandó a károsodás...</p>
+<p>Megismételném: NEM VAGYOK IDEGES</p>
+<p><strong>Update:</strong> Most jó lett. Nálam okosabbak szerint az SQL hiba egy indexfájl írási hibáját jelenti. Tehát az ok feltehetőleg valamilyen filerendszer probléma lehetett: RAID rakoncátlankodás vagy read-only mount point, ilyesmik.</p>

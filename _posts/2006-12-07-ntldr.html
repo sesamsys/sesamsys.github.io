@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: NTLDR
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 640
+wordpress_url: http://sesam.hu/2006/12/07/ntldr/
+date: '2006-12-07 21:30:43 +0100'
+date_gmt: '2006-12-07 12:30:43 +0100'
+tags:
+- Tech &amp; Gizmos
+comments: []
+---
+<p>Windows XP (nem)install története, avagy hogyan csesszünk el órákat az életünkből teljesen fölöslegesen.</p>
+<p>Mivel meguntam, hogy az Anarchy Online úton útfélen crashel wine alatt, meg amúgy is minden játékot nyomorult winre írnak, teszek fel egy XP-t, ott egye a fene. Meg ahogy azt én elképzeltem... Ugye hely nincs, nosza, méretezzük át a root partíciónkat: resize_reiserfs, fdisk, gyönyörűen működik mind, és lőn egy 20G-s partíció NTFS-nek.</p>
+<p>Win CD betesz, bootol, persze nem látja a SATA vinyót, mert miért is. Alaplap CD-jén van driver persze, na de hogy? Egy DOS-os program másolja fel exe fileokból a kislemezre a drivert. Ez felveti, hogy egy szűz gépen ugyan hogy másolok én CD-ről... mindegy. Linuxon sehogy. Norbi szerencsére átmásolta nekem a cuccot lemezre a MENU.EXE csodálatos találmány segítségével. Köszönjük, Gigabyte, hogy a Winen kívül gondol más OS-ekre is...</p>
+<p>Kislemez készenlétben, Win CD bootol... vagy mégsem. Akkor egyszer, mikor először próbáltam indult is el a telepítő. Azóta "Inspecting your hardware configuration" és fekete képernyő. Mint azt a google elmesélte ez akkor van ha az NTLDR nem szokványos FAT táblát vagy MBR-t talál. Szokványoson kettőt kell érteni: XP által kreált vagy gyári új. Vicces, hogy még az Win 95/98 esetén is képes így befagyni, pedig az házon belüli cucc. Ez ám a konkurrencia kiütése: már az installer se indul el ha a gyanúja is felmerül más OS-nek a gépen.</p>
+<p>A javasolt megoldás: Low level format, új vinyó, wines fdisk...</p>
+<p>Itt fogyott el a türelmem, hogy rohadna el az NTLDR meg úgy egyáltalán az XP...</p>

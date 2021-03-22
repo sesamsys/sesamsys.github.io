@@ -1,0 +1,83 @@
+---
+layout: post
+status: publish
+published: true
+title: Hopping on the history meme bandwagon
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 1149
+wordpress_url: http://sesam.hu/?p=1149
+date: '2008-06-01 11:14:49 +0200'
+date_gmt: '2008-06-01 02:14:49 +0200'
+tags:
+- history
+- linux
+- meme
+- fun
+- Tech &amp; Gizmos
+comments:
+- id: 1324
+  author: Vale
+  author_email: valerauko@gmail.com
+  author_url: http://blog.valerauko.net/
+  date: '2008-06-01 17:17:56 +0200'
+  date_gmt: '2008-06-01 08:17:56 +0200'
+  content: bár működne a linuxom...
+- id: 1325
+  author: Ardin
+  author_email: tenuki@citromail.hu
+  author_url: http://tenuki.freeblog.hu
+  date: '2008-06-02 18:39:30 +0200'
+  date_gmt: '2008-06-02 09:39:30 +0200'
+  content: Bár érteném, mi ez... :D
+- id: 1326
+  author: SeSam
+  author_email: petersz@mac.com
+  author_url: http://sesam.hu/
+  date: '2008-06-02 18:42:34 +0200'
+  date_gmt: '2008-06-02 09:42:34 +0200'
+  content: Gyakorlatilag egy statisztika arról, hogy milyen parancsokat használsz
+    a legtöbbször. Ha hozzá tudsz férni valamilyen *nix géphez, próbáld ki a history
+    parancsot. :)
+- id: 1327
+  author: SeSam
+  author_email: petersz@mac.com
+  author_url: http://sesam.hu/
+  date: '2008-06-02 18:48:40 +0200'
+  date_gmt: '2008-06-02 09:48:40 +0200'
+  content: Az <em>mplayer</em> elég egyértelmű, a <em>startx</em>-el indítom a grafikus
+    felületet (nem használok garfikus logint), a <em>su</em> jelentése switch user,
+    és root felhasználóba válthatok vele. A <em>cd</em> a DOS cd parancssal egyenértékű.
+    Az <em>mc</em> a Midnight Commander, egy Norton Commander klón. Az <em>ls</em>
+    a DOS dir parancsához hasonlóan működik. Az <em>sshfs</em> egy speciális program,
+    amivel ssh-n keresztül lehet távoli filerendszereket elérni a hálózaton (én a
+    MacBook vinyóját nézegetem vele).  A <em>screen</em> kicsit bonyolult, gyakorlatilag
+    egy konzolablakból csinál többet. A <em>df</em>-el a merevlemez kihasználtságát
+    lehet listázni, és végül az <em>rm</em> a törlés parancsa. :)
+- id: 1328
+  author: Ardin
+  author_email: tenuki@citromail.hu
+  author_url: http://tenuki.freeblog.hu
+  date: '2008-06-02 21:23:06 +0200'
+  date_gmt: '2008-06-02 12:23:06 +0200'
+  content: Köszönöm a felhomályosítást ;)
+---
+<p style="text-align: left;"><code><span style="color: #32cd32;">sesam@lillemor</span> <span style="color: #3366ff;">~ $</span> uname -a<br />
+Linux lillemor 2.6.24-gentoo-r4 #1 SMP Tue Apr 8 12:07:37 JST 2008 x86_64 AMD Athlon(tm) 64 X2 Dual Core Processor 4200+ AuthenticAMD GNU/Linux<br />
+<span style="color: #32cd32;"> sesam@lillemor</span> <span style="color: #3366ff;">~ $</span> history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head<br />
+128 mplayer<br />
+49 startx<br />
+48 su<br />
+31 cd<br />
+30 mc<br />
+29 ls<br />
+17 sshfs<br />
+15 screen<br />
+14 df<br />
+11 rm</code></p>

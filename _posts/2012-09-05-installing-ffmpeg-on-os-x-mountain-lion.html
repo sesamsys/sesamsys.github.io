@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: Installing FFmpeg on OS X Mountain Lion
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+author_login: sesam
+author_email: petersz@me.com
+author_url: http://sesam.hu
+wordpress_id: 3488
+wordpress_url: http://sesam.hu/?p=3488
+date: '2012-09-05 11:13:55 +0200'
+date_gmt: '2012-09-05 09:13:55 +0200'
+tags:
+- howto
+- OS X
+- Mountain Lion
+- FFmpeg
+- Xcode
+- Tech &amp; Gizmos
+comments:
+- id: 10082
+  author: 'Underwater Video Tips: Working with AVCHD 2.0 and 1080p60 or 1080p50 files
+    in iMovie &laquo; Interceptor121 Underwater Video'
+  author_email: ''
+  author_url: http://interceptor121.wordpress.com/2013/02/02/underwater-video-tips-working-with-avchd-2-0-and-1080p60-or-1080p50-files-in-imovie/
+  date: '2013-02-02 22:37:33 +0100'
+  date_gmt: '2013-02-02 21:37:33 +0100'
+  content: "[...] http://sesam.hu/2012/09/05/installing-ffmpeg-on-os-x-mountain-lion/
+    [...]"
+---
+<p>From time to time I need to do simple jobs with videos, such as a container change. I used to use mencoder for that back on linux and I still think that the versatility of a command line tool is unparalleled by any GUI solution. So I set out to get FFmpeg on my Mac.</p>
+<p>There is <a href="http://www.evermeet.cx/ffmpeg/">a static build available</a> from the FFmpeg website, but I decided to take a somewhat more complicated approach and compile it from source myself.</p>
+<p>To do so, one first needs <strong>Xcode</strong>, available from the Mac App Store. The current versions, however, do not contain the command line tools needed. A separate package called <strong>Command Line Tools</strong> needs to be installed from either navigating to the Downloads for Apple Developers site from Xcode by <em>Xcode</em> &gt; <em>Open Developer Tool</em> &gt; <em>More Developer Tools...</em> or using the built-in package manager at <em>Xcode</em> &gt; <em>Preferences...</em> on the <em>Downloads</em> tab.</p>
+<p>Two packages need to be installed separately first: <a href="http://sourceforge.net/projects/lame/files/">LAME</a> for mp3 encoding (compulsory) and <a href="http://www.audiocoding.com/downloads.html">FAAC</a> for AAC (optional). The tar.gz files can be unpacked by, for example:</p>
+<pre>tar -xzvf faac-1.28.tar</pre>
+<p>Then enter their respective directories and issue:</p>
+<pre>./configure
+make
+sudo make install</pre>
+<p>Finally, check out the latest source code of FFmpeg:</p>
+<pre>git clone git://source.ffmpeg.org/ffmpeg.git ffmpeg</pre>
+<p>Compile it with LAME and FAAC enabled (the latter only if it's installed). The <code>--enable-nonfree</code> switch is required by FAAC and I got an error unless I disabled Yasm.</p>
+<pre>./configure --enable-libmp3lame --enable-shared --enable-libfaac --enable-nonfree --disable-yasm
+make
+sudo make install</pre>
+<p>That's all, FFmpeg is ready to use:</p>
+<pre>Daenerys:Downloads sesam$ ffmpeg
+ffmpeg version N-44141-g9de7622 Copyright (c) 2000-2012 the FFmpeg developers
+  built on Sep  4 2012 16:10:11 with llvm-gcc 4.2.1 (LLVM build 2336.11.00)
+  configuration: --enable-libmp3lame --enable-shared --enable-libfaac --enable-nonfree --disable-yasm
+  libavutil      51. 70.100 / 51. 70.100
+  libavcodec     54. 55.100 / 54. 55.100
+  libavformat    54. 25.104 / 54. 25.104
+  libavdevice    54.  2.100 / 54.  2.100
+  libavfilter     3. 15.103 /  3. 15.103
+  libswscale      2.  1.101 /  2.  1.101
+  libswresample   0. 15.100 /  0. 15.100
+Hyper fast Audio and Video encoder
+usage: ffmpeg [options] [[infile options] -i infile]... {[outfile options] outfile}...
+
+Use -h to get full help or, even better, run 'man ffmpeg'</pre>
