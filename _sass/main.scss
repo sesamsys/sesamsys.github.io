@@ -1,7 +1,7 @@
 $font-stack: 'Gentium Book Basic', Georgia, serif;
-$primary-color: #444;
-$secondary-color: #aaa;
-$link-color: #09b;
+$primary-color: #333;
+$secondary-color: #595959;
+$link-color: rgb(214, 44, 125);
 $border-color: #ddd;
 
 body {
@@ -126,6 +126,7 @@ blockquote {
     padding: 0;
     border: none;
     font-style: italic;
+    color: $secondary-color;
 }
 
 img, video {
@@ -136,6 +137,7 @@ img, video {
   
 figcaption {
     text-align: center;
+    color: $secondary-color;
 }
 
 .pagination {

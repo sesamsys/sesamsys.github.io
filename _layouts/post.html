@@ -2,7 +2,9 @@
 layout: default
 ---
 <main>
-    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-    <p class="meta">{{ page.date | date_to_string }} - {{ page.author.display_name }}</p>
-    {{ content }}
+    <article>
+        <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+        <p class="meta">{{ page.date | date_to_string }} - {{ page.author.display_name }}</p>
+        {{ content }}
+    </article>
 </main>
