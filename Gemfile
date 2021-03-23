@@ -16,6 +16,7 @@ gem "github-pages", "~> 212", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate", "~> 1.1"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -30,5 +31,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Workaround for Ruby 3.0.0
 # https://github.com/jekyll/jekyll/issues/8523
-gem "webrick"
-gem "jekyll-paginate", "~> 1.1"
+gem "webrick", "~> 1.7"

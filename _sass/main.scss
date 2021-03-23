@@ -1,8 +1,9 @@
 $font-stack: 'Gentium Book Basic', Georgia, serif;
 $primary-color: #333;
 $secondary-color: #595959;
+$inverse-primary-color: #ddd;
+$background-color: #fff;
 $link-color: rgb(214, 44, 125);
-$border-color: #ddd;
 
 body {
   font: 100% $font-stack;
@@ -114,7 +115,7 @@ article {
       
     blockquote {
         padding-left: 1em;
-        border-left: 1px solid $border-color;
+        border-left: 1px solid $inverse-primary-color;
     }
       
     ul, ol {
@@ -134,6 +135,15 @@ img, video {
     max-width: 100%;
     border-radius: 5px;
 }
+
+figure {
+    pre {
+        padding: 10px 0.5em;
+        border-radius: 5px;
+        color: $inverse-primary-color;
+        overflow: auto;
+    }
+}
   
 figcaption {
     text-align: center;
@@ -152,4 +162,8 @@ figcaption {
     .next {
         float: right;
     }
-  }
+}
+
+code {
+    font-size: 15px;
+}
