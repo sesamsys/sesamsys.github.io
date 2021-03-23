@@ -28,7 +28,7 @@ twitter_username: sesam
 github_username:  sesamsys
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
