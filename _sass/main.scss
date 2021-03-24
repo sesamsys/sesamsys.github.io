@@ -28,6 +28,10 @@ h2 {
     a {
         color: $primary-color;
     }
+
+    a:hover {
+        color: $link-color;
+    }
 }
   
 h3 {
@@ -68,9 +72,10 @@ p, ul, ol {
 a {
     color: $link-color;
     text-decoration: none;
-    :hover {
-        text-decoration: underline;
-    }
+}
+
+a:hover {
+    text-decoration: underline;
 }
   
 header {
