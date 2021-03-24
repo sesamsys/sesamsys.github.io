@@ -27,6 +27,9 @@ url: "https://sesam.hu" # the base hostname & protocol for your site, e.g. http:
 twitter_username: sesam
 github_username:  sesamsys
 
+# Google Analytics
+google_analytics: UA-757059-1
+
 # Build settings
 # theme: minima
 plugins:
