@@ -166,7 +166,7 @@ code {
     font-size: 15px;
 }
 
-footer {
+.tags {
     ul li {
         display: inline-block;
         margin-right: 1em;
@@ -223,3 +223,20 @@ footer {
         float: right;
     }
 }
+
+footer {
+    text-align: center;
+    
+    ul li {
+        display: inline-block;
+    } 
+}
+
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: $primary-color;
+    padding: 5px 3px 2px 5px;
+    vertical-align: text-bottom;
+  }

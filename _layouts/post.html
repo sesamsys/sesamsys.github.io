@@ -7,9 +7,9 @@ layout: default
         <p class="meta">{{ page.date | date: "%A, %e %B, %Y" }} - {{ page.author.display_name }}</p>
         {{ content }}
     </article>
-    <footer>
+    <div class="tags">
         {% if page.tags %}
             {% include tags.html %}
         {% endif %}
-    </footer>
+    </div>
 </main>
