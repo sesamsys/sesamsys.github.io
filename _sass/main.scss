@@ -152,6 +152,10 @@ figure {
         color: $inverse-primary-color;
         overflow: auto;
     }
+
+    a {
+        border-bottom: none;
+    }
 }
   
 figcaption {
