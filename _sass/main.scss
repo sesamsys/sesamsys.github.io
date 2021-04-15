@@ -60,6 +60,7 @@ a {
     color: $primary-color;
     text-decoration: none;
     border-bottom: 2px solid $link-color;
+    transition: color .4s ease-in-out;
 }
 
 a:hover  {
