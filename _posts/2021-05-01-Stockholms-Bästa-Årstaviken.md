@@ -17,7 +17,9 @@ Az eseménysorozat nyolc útvonalból áll a város különböző pontjain, a le
 
 [Az április végi 7,5 kilométeres etap hazai pálya](https://runnersworld.se/stockholmsbasta/lopp/arstaviken/){:target="_blank"}: a Tantolunden parkból induva az **Årstaviken** körül vezet, és a vasúti hídon tér vissza a rajthoz. Számtalanszor futottam már erre.
 
-<figure><iframe src="https://stockholmsbasta.racemaps.se/arstaviken" allow="geolocation" allowfullscreen="allowfullscreen" width="100%" height="500px"></iframe></figure>
+<div class="iframe-container">
+  <iframe src="https://stockholmsbasta.racemaps.se/arstaviken" allow="geolocation" allowfullscreen="allowfullscreen" width="100%"></iframe>
+</div>
 
 Akkor kezdett el érdekelni a dolog, amikor megjelentek a kapuk. Ezt a hírlevélben nem olvastam el rendesen anno, de az időmérés úgy működik, hogy az indulók postán kapnak egy rajtszámot, amit több versenyen is használhatnak. A rajtszámon van chip, a pályán pedig időmérő pontok vannak felállítva, mint egy igazi versenyen. Nevezéskor rajtidőpontot is kell választani, ami után maximum tíz perccel kell megkezdeni a futást. Gondolom, van valami limit, hányan indulhatnak egy időpontban, de amióta nyitva az időablak, rendszeresen találkoztam rajtszámot viselő, izzadt futók kisebb-nagyobb csoportjával a pályán.
 
