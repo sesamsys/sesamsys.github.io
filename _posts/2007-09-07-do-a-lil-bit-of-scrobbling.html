@@ -37,7 +37,7 @@ comments:
   content: Now we'll just need that same thing for Typo3. ;)
 ---
 <p>Eagle-eyed readers might have noticed that the now playing ticker now changed to display last.fm links as well. I really would have switched this option on earlier, but the artist link was bugged in the latest <a href="http://leflo.de/projects/scrobbler">scrobbler add-on for WP</a>.</p>
-<p>Turned out the "bug" was really just a minor issue and took <a href="http://sld.interhost.hu/sld/">sld</a> about 30 seconds to fix. Here's what you should change in your phpScrobbler.php file, provided that you're using version 2.2.7 of the add-on:</p>
+<p>Turned out the "bug" was really just a minor issue and took <a href="http://sld.interhost.hu/sld">sld</a> about 30 seconds to fix. Here's what you should change in your phpScrobbler.php file, provided that you're using version 2.2.7 of the add-on:</p>
 <p align="left"><code>$ret[$i]['artist-url'] = "http://www.last.fm/explore/search.php?q=";</code><br />
 should be<br />
 <code>$ret[$i]['artist-url'] = "http://www.last.fm/music/";</code><br />

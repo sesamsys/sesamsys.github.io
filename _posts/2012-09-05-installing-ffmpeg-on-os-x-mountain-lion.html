@@ -34,9 +34,9 @@ comments:
     [...]"
 ---
 <p>From time to time I need to do simple jobs with videos, such as a container change. I used to use mencoder for that back on linux and I still think that the versatility of a command line tool is unparalleled by any GUI solution. So I set out to get FFmpeg on my Mac.</p>
-<p>There is <a href="http://www.evermeet.cx/ffmpeg/">a static build available</a> from the FFmpeg website, but I decided to take a somewhat more complicated approach and compile it from source myself.</p>
+<p>There is <a href="http://www.evermeet.cx/ffmpeg">a static build available</a> from the FFmpeg website, but I decided to take a somewhat more complicated approach and compile it from source myself.</p>
 <p>To do so, one first needs <strong>Xcode</strong>, available from the Mac App Store. The current versions, however, do not contain the command line tools needed. A separate package called <strong>Command Line Tools</strong> needs to be installed from either navigating to the Downloads for Apple Developers site from Xcode by <em>Xcode</em> &gt; <em>Open Developer Tool</em> &gt; <em>More Developer Tools...</em> or using the built-in package manager at <em>Xcode</em> &gt; <em>Preferences...</em> on the <em>Downloads</em> tab.</p>
-<p>Two packages need to be installed separately first: <a href="http://sourceforge.net/projects/lame/files/">LAME</a> for mp3 encoding (compulsory) and <a href="http://www.audiocoding.com/downloads.html">FAAC</a> for AAC (optional). The tar.gz files can be unpacked by, for example:</p>
+<p>Two packages need to be installed separately first: <a href="http://sourceforge.net/projects/lame/files">LAME</a> for mp3 encoding (compulsory) and <a href="http://www.audiocoding.com/downloads.html">FAAC</a> for AAC (optional). The tar.gz files can be unpacked by, for example:</p>
 <pre>tar -xzvf faac-1.28.tar</pre>
 <p>Then enter their respective directories and issue:</p>
 <pre>./configure

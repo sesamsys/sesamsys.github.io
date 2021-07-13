@@ -19,8 +19,8 @@ tags:
 - Tech &amp; Gizmos
 comments: []
 ---
-<p>For starters, I have upgraded the site to <a href="http://wordpress.org/download/">WP 2.2</a> from 2.0.5. The usual favour applies: if something doesn't seem to function, please do <a href="http://sesam.hu/contact/">contact</a> me.</p>
-<p>One reason of the upgrade was that I hoped for the visual editor to somehow "un-bug" itself and actually work. However, it didn't happen.  Searching for the reason resulted in a lot of complaints from people using Firefox, meanwhile everyone claimed it worked flawlessly under IE. That's when I thought of <a href="http://adblockplus.org/en/">AdBlock Plus</a>... the usual reason behind stuff mysteriously breaking in websites, also one of the most widely used Firefox plug-ins. And boy was I right. Some of the visual editor's (a.k.a. TinyMCE) scripts were caught in ABP's filters.</p>
+<p>For starters, I have upgraded the site to <a href="http://wordpress.org/download">WP 2.2</a> from 2.0.5. The usual favour applies: if something doesn't seem to function, please do <a href="http://sesam.hu/contact">contact</a> me.</p>
+<p>One reason of the upgrade was that I hoped for the visual editor to somehow "un-bug" itself and actually work. However, it didn't happen.  Searching for the reason resulted in a lot of complaints from people using Firefox, meanwhile everyone claimed it worked flawlessly under IE. That's when I thought of <a href="http://adblockplus.org/en">AdBlock Plus</a>... the usual reason behind stuff mysteriously breaking in websites, also one of the most widely used Firefox plug-ins. And boy was I right. Some of the visual editor's (a.k.a. TinyMCE) scripts were caught in ABP's filters.</p>
 <p>As a quick fix simply add the following exception to your ABP rules:</p>
 <p style="font-family: monospace; line-height: 1.1em">@@http://&lt;path-to-WordPress&gt;/wp-includes/js/tinymce/</p>
 <p>And that's it, full featured visual editor welcomes you after refresh.</p>
