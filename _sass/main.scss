@@ -2,6 +2,7 @@ $font-stack: 'Gentium Book Basic', Georgia, serif;
 $primary-color: #333;
 $secondary-color: #595959;
 $inverse-primary-color: #ddd;
+$inverse-secondary-color: #a6a6a6;
 $background-color: #fff;
 $link-color: rgb(214, 44, 125);
 
@@ -263,3 +264,31 @@ footer {
     padding: 5px 3px 2px 5px;
     vertical-align: text-bottom;
 }
+
+/* dark mode */
+@media screen and (prefers-color-scheme: dark) {
+    body {
+      background-color: $primary-color;
+      color: $inverse-primary-color;
+      
+      a {
+        color: $inverse-primary-color;
+      }
+
+      main {
+            .meta {
+                color: $inverse-secondary-color;
+            }
+      }
+      
+      header {
+            p {
+                color: $inverse-secondary-color;
+            }
+      }
+
+      figcaption {
+        color: $inverse-secondary-color;
+      }
+    }
+  }
