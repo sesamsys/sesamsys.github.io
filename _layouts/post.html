@@ -12,4 +12,13 @@ layout: default
             {% include tags.html %}
         {% endif %}
     </div>
+    <nav class="post-navigation">
+        {% if page.previous %}
+          <a href="{{ page.previous.url }}" class="previous-post">← {{ page.previous.title }}</a>
+        {% endif %}
+      
+        {% if page.next %}
+          <a href="{{ page.next.url }}" class="next-post">{{ page.next.title }} →</a>
+        {% endif %}
+    </nav>
 </main>

@@ -244,6 +244,19 @@ code {
     }
 }
 
+.post-navigation {
+    margin-top: 4em;
+    text-align: center;
+    
+    .previous-post {
+        float: left;
+    }
+      
+    .next-post {
+        float: right;
+    }  
+}
+
 footer {
     text-align: center;
     
