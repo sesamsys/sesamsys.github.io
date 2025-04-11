@@ -19,7 +19,12 @@ Carlos G. Lowroad75 online képregénye volt az egyike azon keveseknek, amiket [
 
 Azonban örömmel jelenthetem, hogy a Lowroad - más formában ugyan - de visszatért. Magam sem tudom miért, talán megszokásból, de ellátogattam a comic régi oldalára. Ekkor fedeztem fel, hogy új sorozat indult új szereplőkkel, és már a második fejezetnél tart: [The Smashing Adventures Of The Bottomleys](http://lowroad75.comicgenesis.com).
 
-[![The Smashing Adventures Of The Bottomleys](http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/05/thecat.jpg)](http://lowroad75.comicgenesis.com)
+<figure>
+  <a href="http://lowroad75.comicgenesis.com">
+    <img src="http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/05/thecat.jpg" alt="The Smashing Adventures Of The Bottomleys">
+  </a>
+  <figcaption>The Smashing Adventures Of The Bottomleys</figcaption>
+</figure>
 
 Egyúttal a site címe is átalakult a nemhivatalos Schrödinger fanclubbá. (A fenti [macskából](http://en.wikipedia.org/wiki/Schrodinger%27s_cat "Schrödinger's cat") ki lehetett találni.) A régi szereplőket hiányolóknak jó hír: Natasha ebben is szerepel, mint CD-bolt tulajdonos. Frissítés minden hétfőn és pénteken.
 

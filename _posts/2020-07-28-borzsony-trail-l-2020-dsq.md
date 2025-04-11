@@ -39,11 +39,17 @@ Fortunately, at that point finishing was as easy as following a hiking sign to t
 
 Börzsöny — as always — was stunning, but unforgiving.
 
-![](https://sesam.hu/wp-content/uploads/2020/07/IMG_2990-1024x768.jpeg)  
-Kámor
+<figure>
+  <img src="https://sesam.hu/wp-content/uploads/2020/07/IMG_2990-1024x768.jpeg" alt="View from Kámor">
+  <figcaption>Kámor</figcaption>
+</figure>
 
-![](https://sesam.hu/wp-content/uploads/2020/07/IMG_2993-1024x768.jpeg)  
-Csóványos
+<figure>
+  <img src="https://sesam.hu/wp-content/uploads/2020/07/IMG_2993-1024x768.jpeg" alt="View from Csóványos">
+  <figcaption>Csóványos</figcaption>
+</figure>
 
-![](https://sesam.hu/wp-content/uploads/2020/07/IMG_2994-1024x768.jpeg)  
-green stripe hiking route
+<figure>
+  <img src="https://sesam.hu/wp-content/uploads/2020/07/IMG_2994-1024x768.jpeg" alt="Green stripe hiking route">
+  <figcaption>green stripe hiking route</figcaption>
+</figure>

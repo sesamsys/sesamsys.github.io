@@ -66,7 +66,12 @@ comments:
 
 Atya. Úr. Isten. Mit meg nem mer lépni a Microsoft: [tiltja az MSN-ben a YouTube-linkeket](http://webisztan.blog.hu/2008/05/10/a_microsoft_tiltja_az_msn_ben_a_youtube_linkeket). Épp ma csodálkoztam rá, hogy miért nem tudok linket küldeni tesómnak...
 
-[![Az MSN tiltja a hálózatán a Youtube-linkeket.](http://sesam.hu/wp-content/uploads/2008/05/msn-ban-300x260.png)](http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/05/msn-ban.png)
+<figure>
+  <a href="http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/05/msn-ban.png">
+    <img src="http://sesam.hu/wp-content/uploads/2008/05/msn-ban-300x260.png" alt="Az MSN tiltja a hálózatán a Youtube-linkeket.">
+  </a>
+  <figcaption>Az MSN tiltja a hálózatán a Youtube-linkeket.</figcaption>
+</figure>
 
 Felhívnám a figyelmet, hogy a fenti kliens _nem hivatalos MSN_ , hanem [Pidgin](http://pidgin.im). Tehát a tiltás nem a felhasználónál, hanem valahol a hálózaton vagy a protokollban történik (service level).
 

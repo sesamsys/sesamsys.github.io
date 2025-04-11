@@ -34,6 +34,11 @@ comments:
 
 _"Japan announced at the annual meeting of the International Whaling Commission (IWC) that it will extend its strictly scientific whale_ _hunting_ _research program to the relatively rare species of the so called[fail whale](http://www.nytimes.com/2009/02/15/magazine/15wwln_consumed-t.html?_r=3), Kyodo News reports."_
 
-[![twitterinjapan](http://img.skitch.com/20090714-8bgqi3arp8ngg37mwxmc8d1jid.jpg)](http://www.ricardogimenes.com/blog/?p=299)
+<figure>
+  <a href="http://www.ricardogimenes.com/blog/?p=299">
+    <img src="http://img.skitch.com/20090714-8bgqi3arp8ngg37mwxmc8d1jid.jpg" alt="twitterinjapan">
+  </a>
+  <figcaption>twitterinjapan</figcaption>
+</figure>
 
 via [@tapir](http://twitter.com/tapir/status/2610814967)

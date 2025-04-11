@@ -17,4 +17,7 @@ comments: []
 
 Szegény Gábor küldte a kórházból. Jobban mondva leleplezett, igazából csak hülyülök itt az egyetemmel, enyém pár kórházi eszközöket gyártó cég Japánban...
 
-![SeSam Pharmaceuticals](http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/04/keitai-pic-0062.jpg)
+<figure>
+  <img src="http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/04/keitai-pic-0062.jpg" alt="SeSam Pharmaceuticals">
+  <figcaption>SeSam Pharmaceuticals</figcaption>
+</figure>
