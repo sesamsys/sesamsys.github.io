@@ -18,6 +18,8 @@ comments: []
 
 Basszameg, erről lemaradtam...
 
-[iframe id="https://www.youtube.com/embed/RUk9HR0G358?rel=0"]
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/RUk9HR0G358?rel=0" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Meg akkor már legyen itt az [Endless Sea](https://www.youtube.com/watch?v=iPE3j6Gg_r4) is.

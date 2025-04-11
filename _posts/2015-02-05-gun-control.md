@@ -19,4 +19,6 @@ comments: []
 
 Today's WoW raid had to be cancelled due to "technical issues" on Blizzard's side. However, with everyone gathered up on Mumble we had the opportunity to just kill time talking about whatever that happened to came up. Including gun control, which marked the appearance of this video. That's how I learned about a new stand-up comedian I have to follow.
 
-[youtube id="7OZIOE6aMBk"]
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/7OZIOE6aMBk" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

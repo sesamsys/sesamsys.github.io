@@ -19,4 +19,6 @@ comments: []
 
 Ha a magyar közszolgálati tévébe nem is, [a németbe belefért a Magyar Kétfarkú Kutya Párt plakátkampánya](http://www.daserste.de/information/politik-weltgeschehen/weltspiegel/videos/ungarn-mit-satire-und-humor-fuer-menschlichkeit-in-der-asyldebatte-100.html). (Amúgy milyen jól hangzik már németül: Die Partei des zweischwänzigen Hundes.)
 
-[iframe id="http://hls.daserste.de/i/videoportal/Film/c_560000/560385/format,656133,656141,656132,656142,656291,.mp4.csmil/master.m3u8"]
+<div class="iframe-container">
+<iframe src="http://hls.daserste.de/i/videoportal/Film/c_560000/560385/format,656133,656141,656132,656142,656291,.mp4.csmil/master.m3u8" width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>

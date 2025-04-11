@@ -17,4 +17,6 @@ comments: []
 
 [March 3](https://www.facebook.com/events/1022339707818907/1087546571298220/) can't come fast enough.
 
-[youtube id="rcxgJkV6-h8"]
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/rcxgJkV6-h8" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

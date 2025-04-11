@@ -38,6 +38,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+# Pagination settings
 paginate: 10
 
 host: 0.0.0.0

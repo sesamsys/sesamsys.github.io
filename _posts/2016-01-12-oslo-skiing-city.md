@@ -23,4 +23,6 @@ comments: []
 
 It's always special to find places in a video that I've visited. I will need to find a way to try ski touring ([skigåing](https://no.wikipedia.org/wiki/Skigåing), [langrenn](https://no.wikipedia.org/wiki/Langrenn)), too.
 
-[youtube id="YcC23jIpn7w"]
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/YcC23jIpn7w" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

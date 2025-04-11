@@ -16,4 +16,6 @@ tags:
 comments: []
 ---
 
-[vimeo id="115116490"]
+<div class="iframe-container">
+<iframe src="https://player.vimeo.com/video/115116490?h=0c0c0c0c0c" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>

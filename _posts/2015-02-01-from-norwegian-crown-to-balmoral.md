@@ -28,4 +28,6 @@ comments:
 
 They cut a cruise ship in two and insert a piece. Problem?
 
-[iframe id="https://www.youtube.com/embed/mwG7z_aowKw?rel=0"]
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/mwG7z_aowKw?rel=0" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

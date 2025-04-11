@@ -24,7 +24,9 @@ During my birthday weekend we visited Bad Hofgastein where my brother was attend
 
 And not even without an aim: thanks to a brochure we stumbled upon a local equivalent of the Hungarian [Blue Trail](/2016/06/02/blue-trail-14) called the [Salzburger Almenweg](https://www.salzburger-almenweg.at/en). The Almenweg is a 350 kilometre long circular route divided into 31 stages from one alpine hut to the other. Alm translates to alpine pasture, land covered with grass suitable for grazing animals.
 
-[youtube id="krRQaJ-RkmA"]
+<div class="iframe-container">
+<iframe src="https://www.youtube.com/embed/krRQaJ-RkmA" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 A notable difference from the Blue Trail is that [rewards are tiered](https://www.salzburger-almenweg.at/en/stages/hiking-pins) and even completing just one stage already allows the purchase of a hiking pin showing the gentian flower, the symbol of the Almenweg.
 

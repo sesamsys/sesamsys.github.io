@@ -18,4 +18,6 @@ comments: []
 
 > [Höga Kusten Trail](http://www.hogakustentrail.se) är ett upplevelselopp som tar dig genom världsarvet Höga Kusten absoluta höjdpunkter. Du har 12 timmar på dig att ta dig 43 kilometer genom Skuleskogen, över Stampberget och Slåttdalsberget, genom Slåttdalskrevan och längst den skimrande kusten innan du avslutar genom att följa Höga Kustenleden upp för det mäktiga Skuleberget. Höga Kusten Trail passar både elitmotionärer och dig som vill jogga eller snabbvandra fram genom en storslagen miljö. Välkommen till 43 kilometer av upplevelser!
 
-[iframe id="https://player.vimeo.com/video/114155646"]
+<div class="iframe-container">
+<iframe src="https://player.vimeo.com/video/114155646" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
