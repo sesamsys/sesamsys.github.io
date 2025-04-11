@@ -1,0 +1,21 @@
+---
+layout: post
+title: postal services
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2006-10-20 13:30:58 +0200'
+date_gmt: '2006-10-20 04:30:58 +0200'
+tags:
+- Japan
+- Human Interest
+comments: []
+---
+
+Kezd kicsit elegem lenni a postából. Elmentem feladni az iskolalátogatásijaimat (de szép szó) és elfaxolni a bőröndválasztásom a British Airwaysnek. (Ezek is, Istenem, a 21. században faxon várják a választ.) A postásleányzó közölte, itt nem lehet ám faxolni. Esetleg kombiniben. Ezek szerint a japán postán a következő dolgokat nem lehet csinálni: bélyeget venni, borítékot venni és faxolni. (Nem vicc.) Nyugodtan átnevezhetnék bankra, komolyan.
+
+Elmentem tehát... a koli office-ába. Csak kicsit lepődtem meg amikor kérdésemre válaszként kivágtak egy komplett faxgépet a pultra: vigyem fel a szobába és faxoljak. Persze előtte töltsem fel a prepaid telefonkártyát amit belső használatra adtak beköltözéskor. (A mögöttes ötlet az, hogy a szegény külföldiek felhívhassák a családjukat. A probléma csak az, hogy a bevezetett KDDI vonal szerintem Japán legdrágább telefonvonala. Komolyan, még az is olcsóbb ha a mobilomról telefonálok haza. Szóval a kártya - MY PREPAY CARD van ráírva full nagybetűvel - ideköltözésem óta ott pihent a borítékban.) Na a faxszal szenvedtem egy sort... de (szerintem) elküldtem a választ a BA-nek.
+
+Most várom a következő questet.

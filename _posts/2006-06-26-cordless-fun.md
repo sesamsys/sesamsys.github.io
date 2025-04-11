@@ -1,0 +1,26 @@
+---
+layout: post
+title: Cordless Fun
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2006-06-26 11:53:23 +0200'
+date_gmt: '2006-06-26 02:53:23 +0200'
+tags:
+- Human Interest
+- MMOG
+- Tech &amp; Gizmos
+comments: []
+---
+
+I'm sitting in the computer room of the uni, so be prepared for more English.
+
+Although now even at home I have a keyboard with Japanese layout. The whole thing started with cleaning my room... I decided to do it extensively which involved cleaning the keyboard as well. I suppose everyone who owns a computer is familiar with the way keyboards get stuff stuck between the keys regardless of even the most careful treatment. Apparently I have applied water too extensively to the keyboard in question which as a response stopped working. Not entirely though, only parts of it. For example the "m" key which has the unfortunate side effect of preventing me from logging in, my username surprisingly being "sesam".
+
+All in all, I had to buy a new one. It'd haver been a pity to spoil the tradition of buying the most expensive one there is. (Actually there were more expensive ones...) So now I'm a happy owner of a 'spensive Microsoft Cordless Desktop - Comfort Edition. Until now only the mouse batteries died at the worst time they could choose, so now I'm preparing for the keyboard to stop working when - say - tanking something with Silq or writing an essay. This time I'm prepared though, 10 batteries are ready in my drawer!
+
+Yesterday I even indulged in some very relaxed dpsing in ST, leaned back in my chair with the keyboard on my lap. Luckily melee classes can be played without ever touching the mouse really. At least that's how I play. I'm sure the CS fapper 12-year-olds rarely use anything other than WASD. (I was actually daydreaming about one of those massage chairs they sell for a couple hundred thousand yen. That, and a bigger display - a widescreen HDTV for example - and there you go, the perfect WoW-station...)
+
+Also it was great relief to see that linux had no problem whatsoever with recognising the hardware. I didn't have to configure anything actually, just plugged and played. I was half-expecting some red light to flash up somewhere on the keyboard saying "Rogue OS found, self-destruct in 10 secs" or something. But I was spared. MS makes questionable software but their hardware are good.

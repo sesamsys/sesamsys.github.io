@@ -1,0 +1,46 @@
+---
+layout: post
+title: Hong Kongba utazóknak
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2008-04-20 14:59:43 +0200'
+date_gmt: '2008-04-20 05:59:43 +0200'
+tags:
+- guide
+- Hong Kong
+- reader letter
+- Travel
+comments:
+- id: 1189
+  author: Riddick
+  date: '2008-04-20 16:09:45 +0200'
+  date_gmt: '2008-04-20 07:09:45 +0200'
+  content: Köszi az infókat. :)
+---
+
+Riddick fedőnevű olvasóm küldött egy emailt: Hong Kongba utazna a nyáron, és ezzel kapcsolatban érdeklődik. Nos tekintettel a személyiségi jogokra, stb, nem idézem a kérdéseket, viszont igyekszem mindre választ adni az alábbi bejegyzésben. Így aztán hátha később másnak is segíthet a post.
+
+Amúgy nagyon megtisztelő, hogy engem kérdezel, de szinte minden tudásom [a Wikitravel releváns szekciójából](http://wikitravel.org/en/Hong_Kong) származik. :)
+
+Nem egy, hanem 3 napot voltam ott, és a következő bejegyzésekben adtam számot a "kaladokról": [Hong Kong](http://sesam.hu/2005/12/16/hong-kong), [Day 2](http://sesam.hu/2005/12/17/day-2), [Hong Kong - revisited](http://sesam.hu/2006/01/25/hong-kong-revisited), [Hong Kong - part 2](http://sesam.hu/2006/02/02/hong-kong-part-2). (Most nézem, sikerült szép következetesen megcímezni a postokat...)
+
+A légitársaságok között szerintem nincs nagy eltérés, ha a tengerentúli járatokat nézzük. Néha ki lehet fogni akciókat, de nem jelentős. Drága a kerozin. Szolgáltatásban is körülbelül egyformák. Ha az embernek szerencséje van, jobb gépet fog ki (pl. saját monitor), maximum ennyi.
+
+A kézipoggyász igen vicces dolog, mert a mérete számít csak. Fel kell hogy férjen ugyanis a fej feletti csomagtartóba, tehát ha túl nagy, akkor pampoghatnak érte. Persze láttam én már kerekes nem is olyan kis táskát kézipoggyászként. Viszont amit akézipoggyásznál nem néznek az a súlya, tehát meg lehet tömni. Van persze limit, de sohasem nézik. Sőt check-innél ha a bőrönd túlsúlyos, javasolják is, hogy pakolj át a kézipoggyászba. A gép összsúlya ettől nem lesz kisebb, de szebben mutat a statisztikán gondolom. (Esetleg az egyensúly miatt számíthat még.)
+
+Kaját felvihetsz amennyit akarsz, csak folyadékot nem. (Ha engem kérdezel, ordító kisgyereket nem illik a gépre vinni, mégis csinálják, szóval ezen nem érdemes aggódni.) Köszönhetően az elharapózó terrorizmusnak, az új mánia, hogy semmi folyékony halmazállapotú cuccot nem lehet a fedélzetre vinni. Persze marhaság, ha valaki robbantani akar, úgyis tud, de mindegy. Minimális mennyiséget be lehet zacskózni, de annyi előírásnak kell megfelelni, hogy nem éri meg a hercehurcát. Na meg amit nem eszel meg azt potenciálisan elkobozzák az országba belépéskor, pl a japánok a húsokra érzékenyek. Hong Kongról nem tudok semmit. Pár szenya még belefér.
+
+De amúgy adnak ám enni, csak nem sokat. De nem éheztetik az embert 18 óráig. Jól is nézne ki ennyi pénzért.
+
+Átszállásnál a bőröndöt nem kell felvenni, automatikusan átrakják. Legalábbis ez az ideális. Én már jártam úgy, hogy később küldték utánam, ami roppant kellemetlen, de nem lehet mit csinálni. Ha elég idő van az átszállásra, akkor persze nem fordulhat elő ilyesmi.
+
+Az árak. Nos én örültem, hogy kifizettem a repjegyet, tehát a három napra volt 1000HKD-m. Ennek a felét (!) a hotel rögtön lenyúlta valami biztonsági letétnek, amiről persze előzetesen nem tájékoztattak... Az árak amúgy nem vészesek, illetve nem sokkal drágább a hely, mint Magyarország. Japánnál például olcsóbb, bár ez nem művészet. A McDonald's mint kajálási lehetőség közel otthoni árakon elérhető. De ha már ott vagy, érdemes kipróbálni pár helyi tengeri herkentyűt.
+
+Utazni az _Octopus Card_ nevű találmánnyal érdemes. Ez egy mágneskártya. Ha megveszed 3 napig ingyen metrózhatsz vele, ami már megéri. Valamint a 300HKD-s árából valamennyit el is lehet költeni egyéb közlekedésre. Lehet vele fizetni majdnem mindenhol, olyan mint egy kis bankkártya. Ráadásul feltölthető zsetonnal a metróállomások automatáinál, ha kifogy. Ja, és még a reptérről is jogosult vagy egyszer ingyen bevonatozni vele a városba.
+
+Az én hotelem egy teljesen noname vacak volt Kowloon belsejében apró szobával, de úgyis csak aludni jártam oda...
+
+Kb ennyi. Most elolvastam én is a saját bejegyzéseimet, és teljesen 懐かしい... Valamint a post örömére feltöltöttem [a Hong Kongi képeket flickr](http://www.flickr.com/photos/sesamsys/sets/72157604630180098)-re.

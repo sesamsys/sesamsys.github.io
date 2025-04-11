@@ -1,0 +1,66 @@
+---
+layout: post
+title: Earth Celebration 2005, Sadogashima
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2005-08-23 22:46:51 +0200'
+date_gmt: '2005-08-23 13:46:51 +0200'
+tags:
+- Japan
+- Music
+comments:
+- id: 167
+  author: Benu
+  date: '2007-12-08 11:05:06 +0100'
+  date_gmt: '2007-12-08 02:05:06 +0100'
+  content: |-
+    Ahol két blog találkozik :)
+    osaka.freeblog.hu ...
+    hihetetlen, hogy ismered Attilát, es hogy Japánban egyutt lófráltatok... én meg egy suliba jártam vele. rohadt pici a világ
+- id: 168
+  author: SeSam
+  date: '2007-12-08 11:22:40 +0100'
+  date_gmt: '2007-12-08 02:22:40 +0100'
+  content: Attilát mindenki ismeri. :P
+---
+
+Nos, visszaértünk. Nem lesz egyszerű összefoglalni az élményeket és tapasztalatokat, de megpróbálom...
+
+18-án indultunk délután, egy nappal a fesztivál kezdete előtt. Nem tudtunk volna úgy odaérni, hogy még aznap át is kompozzunk a szigetre, úgyhogy inkább úgy döntöttünk, hogy egy nap csőlakást iktatunk be. Az útvonal Kobe > Osaka > Kyoto > Maibara > Fukui > Kanazawa > Naoetsu volt. Láthatóan kifelé haladtunk a civilizációból. Először a gyorsvonat váltott személyvonatra, majd Fukuitól a vonatok is átváltottak negyvenéves koszlottakra. De még a legöregebb vonaton is tisztaság volt és volt papír a WC-ben. JR vs. MÁV 1:0 A Seishun18kippu nevű csodával utaztunk: 24 órán keresztül korlátlan távolságra és vonalra érvényes. Magyarországon ezzel átutaznánk az országot hosszában de Japánban azért ez nem ilyen egyszerű. Zsu tesztje alapján el lehet vele jutni innen Sendai-ig.
+
+Induláskor ketten voltunk Magdival, majd Kyotoban becsatlakozott Attila. Gyuriék lekésték a vonatot, így hármasban utaztunk Naoetsu-ig. Kilenc óra vonat és három átszállás kicsit megviselt minket. (Főleg én jártam rosszul a hét kilós sátorral. Négyszemélyes, gondolom úgy tervezték, nem egy ember viszi. Nameg bepakoláskor voltam kénytelen konstatálni, hogy nincs itt az a sporttáskám, amiről én azzt hittem, nálam van. Úgyhogy Diogenész-módon pakoltam, csak a legszükségesebbeket... sátor, ruha, egy bögre.) Az utolsó szakaszon dobozos Asahi Super Dry-al megtámogatva emeltük a vasúti kocsi hangulatát amit csak az a tény rombolt kissé, hogy Magdi sátrát útközben elhagytuk egy azóta is ismeretlen helyen és módon.
+
+Naoetsu kis város, de elvárásainkat messze meghaladva rendelkezett karaokeval. Még a vonaton kitaláltuk Attilával, hogy ott a legegyszerűbb eltölteni az éjszakát. Zsuzsit, aki Sendaiból érkezett el is indítottuk felfedezőútra emailen, így mire odaértünk, csak követni kellett. Kihasználtuk a maximum időt kettőig: Shima no Uta, Love Psychidelyco Magdival és Gangsta's Paradise Attilával... Felfedeztem, hogy a karaoke igazán japánul poén. Nyugovóra a költői JR Naoetsu állomás csomagmegőrzőjében tértünk (nagyon)sok koktél után. Reggel viszont az első komppal át kellett menni ami igencsak (fej)fájdalmas korai kelést eredményezett. Nameg jöttek az emberek az állomásra élükön a takarítókkal. Megérkeztek Gyuriék is, azaz Gyuri és Márti valamint a meglepetésember: a szlovén Klara. (Szegénynek néha igencsak megerőltető lehetett a sok magyar beszéd.)
+
+Befizettünk egy taxira és folytattuk az alvást a kompon. A japán kompban ugyanis szépen kidolgozott padló van, ahol a társaság nagy része fekve/alva tölti a két és fél órás hajóutat. Mondjuk valóban nem túl eseménydús az út... Ogiba érkeztünk, onnan busszal végre elértünk Sobama Beach-et ahol a kempingünk leledzett. Rögtön megegyeztünk: megérte. A sátorhelytől sokat mondok ha 50 méterre gyönyörű homokos tengerpart mélykék vízzel. A sátorverés után (jó sátrat vettem, nem kellett 10 perc sem a teljes összeállításhoz) azonnal ki is próbáltuk a fürdést. Délutánra bementünk Ogiba felfedezni a várost.
+
+Ogi kompkikötője mellett egy füves téren bolhapiacnak nevezett sátortáborban árultak midnenfélét. Kinézetében a magyar majálisra, esszenciájában a amolyan global village-re emlékeztetett. A világ midnen tájáról - de főleg ázsiából - különféle kézművesek és előadóművészek állítottak fel pavilont. Ételek széles választékához is hozzá lehetett jutni, sajnos húzós árakon. Viszont a hangulat kiválóra sikerült.
+
+Mint midnen este ezután, héttől kezdődött a koncert a Shiroyama Parkban. Ez egy templom feletti hegyen lévő tisztás. Már a felvezető út is megadta az alaphangot: lampionokkal kivilágított szerpentinen sétáltunk felfelé. Első nap a [Kodo](http://www.kodo.or.jp) taiko-koncertjét nézhettük. A Kodo szó szerint a dob gyermekeit jelenti, de ugyanez a kiejtés más jelekkel írva szívdobbanást is jelenthet, mintegy szójátékként. 1981-ben debütáltak, érdekes módon Berlinben. 1988-ban költöztek Sado szigetére, ahol egy komplett Kodo-falu van felépítve a tagoknak. Egy kétszáz éves farmházat alakítottak át és bővítettek ki lakhelyül. Szintén 1988 óta tartják meg az Earth Celebration-t, de csak tavaly óta Sadogashimán.
+
+Ha valaki Kodo-tag akar lenni, először két évet kell eltölteni a szigeten a Kodo-faluban amolyan kiképzésként. Azután válhat valaki úgynevezett Junior Member-ré, amiként plusz egy év után van lehetőség a teljes jogú tagság megszerzésére. Az új tagok beszervezése teljesen ötletszerű, van olyan év, hogy többen is, van, hogy senki sem csatlakozik. A taiko-dobok kezelése hatalmas fizikai erőt is igényel, így az ügyesség nem elég a tagsághoz. A tapasztaltabb Kodosok már nem a faluban élnek, hanem szerte a szigeten, saját házaikban. valamint a Kodo kb egyharmada végzi csak munkáját a szigeten. A fennmaradó egyharmad-egyharmad Japánban és külföldön turnézik rendszeresen.
+
+Ők koncerteztek nekünk tehát pénteken. Nagyok voltak az elvárások, hiszen Magdi ódákat zengett a Kodóról. És meg kell hogy mondjam, nem alaptalanul. Félelmetes ahogyan a dobokat kezelik. Mintha robotok lennének, nem tévesztenek el semmit, ezen felül fáradhatatlanok. Pedig némelyik számuk kifejezetten hosszú. Nekem volt alkalmam kipróbálni ezeket a dobokat még egy gaidaios kirándulás alkalmával és bár mi csak 2-3 perces ritmussal próbálkoztunk, a végére majd' leszakadt a kezem. Valamint a dobok visszarúgó erejének köszönhetően szép vízhólyagokat is fejlesztettem. Én aláírom, hogy nem a fizikei erőmről vagyok híres, de akkor sem egyszerűek ezek a dobok.
+
+Sajnos a koncerteken nem lehetett fényképezni. Utánagondolva egyrészt legtöbbször úgyis a leesett államat keresgéltem a fűben, másrészt tök sötét volt, tehát állvány nélkül esélytelen lett volna minden próbálkozás. Meg amúgy is a dobokkal voltam elfoglalva. Az egész koncert végén visszatapsolás után midnenféle méretű és hangú dobbal egy olyan hihetetlen darabot adtak elő amit talán a 'féktelen ünneplés' szókapcsolat írhat le. A dobok mellet a _fue_ nevű furulya és a sokhúros _koto_ is megszólalt, a táncoslány legyezőket lengetve lejtett a színpadon, miközben a fiatalabbak óriási rudakra szerelt pom-pomokat lengettek. Körülbelül ez volt az üzenete számomra: "Itt élünk egy szigeten, ahol türkizkék a tenger és méregzöldek a rizstáblák, mi vagyunk a világelső taiko-dobbanda, így bulizunk mi." Átjött...
+
+A második napon a reggeli kötelező tengerben való úszás során megtámadtak a medúzák. Azt hiszem allergiás lehetek a medúzára, mert csak nekem lett tele sárga hólyagokkal a csípés helye, ellentétben midnenki mással.A jobb karomon még most is nyoma van egynek. Ezt követően ismét Ogiba mentünk, mivel [Kakinuma Koji](http://www.kakinumakoji.com), Attila kedvenc kalligráfusa szabadtéri rajzolást rendezett a global village előtti téren. Persze őt is a Kodo vezette fel egy félórás banzáj keretében. Itt nem viselték a szokásos fellépőruhát, így még emberközelibb lett az egész. Lassan már arcról felismertük őket, tudtuk, ki melyik hangszeren játszik... Ezután bemasírozott Kakinuma és a dobokkal kísérve nekilátott a négy méterszer öt méteres lepelre festeni. Az ecsete festékbe mártva meghaladja a negyven kilót. A tűző napon ezzel dolgozni nem egyszerű feladat, jött is a végére a kakinumás nagyhalál, amikor fülig festékesen összecsuklik a vászon mellett, miközben a dobosok rituálisan körbetáncolják.
+
+Magdi és Atilla - mint néptáncosok - elmentek egy táncos workshopba én meg kóricáltam a városban. Követve a zene hangjait rátaláltam a templomkertben rátaláltam egy workshopra, ahol Kojima Chieko, a Kodo táncosa adott elő táncokat. Élmény volt nézni és fényképezni. A legötletesebb egy bambusztábla-szerű eszköze volt, amit kihajtogatva faággá varázsolt, majd kicsit eltolva Sado szigetének térképévé alakított. A japán kommentárokból úgy értettem, ez egy helyi találmány.
+
+Esti koncert: [Carlos Nuñez](http://www.carlos-nunez.com). Különfél kelta dallamokat játszott dudán buzuki, hegedű és dobkísérettel. A Kodo-hoz képest elég kommersz zenéjük volt, olyan, mit az ember akkor hallgat amikor épp dolgozik, és nem figyel rendesen. Engem külön zavart, hogy az ír zenéknek még a hengszerelése is ugyanolyan volt, mint egyes Corrs számoknak, és nem éreztem úgy, hogy Carlosék jobban csinálnák. Caroline például kifejezetten jobb bodhran-on, mint Carlos dobosa. (Meg jobban is néz ki.) Azért elhallgattuk, és a koncert második felében a nyolc Kodós közreműködésével végre sikerült ritmust és életet lehelni a zenébe, igazi partyhangulatot teremtve. A zárótaps szerintem 80%-ban a Kodonak szólt. :)
+
+Este a kempingben tengerparti tábortűznézés volt a program. A kempingezők jelentős hányada hozzánk hasonló külföldi volt, japánt elvétve lehetett látni. Egyesek egyből a tenger mellé települtek a sátraikkal. Éjszakába nyúlóan doboltak és táncoltak (némelyek kifejezetten illumináltan) a tüzek körül.
+
+Vasárnap el akartunk menni a helyi aranybányába (A hely híres az aranyat tartalmazó hegyéről: _kinzan_ ) de a buszok olyan ritkán jártak, hogy megoldhatatlannak bizonyult a túra. Helyette meglátogattuk a Kodo-falut. A tréning valószínűleg embertelenül megerőltető, de a hely maga nagyon tetszett. Igyekeztek megőrizni az eredeti tradicionális környezetet. Az erdőben minden ember ültet egy fát, amit fel is cimkéznek a nevével. Mostanában amúgy mellékesen bútorokat is gyártanak és iskolákban előadásokat tartanak az erdőgazdálkodás fontosságáról.
+
+Mivel a falunézés csak egy óráig tartott, elhatároztunk, hogy nem megyünk vissza Ogiba, hanem letetetjük magunkat a buszról hazafelé az egyik szépnek tűnő tengerparti részen. Nem is kellett csalódnunk, a Japán-tenger valóban gyönyörű. Itt derült fény a sziget keletkezésére is. A tengerpart itt közel sem homokos, hanem inkább egy holdbéli tájra emlékeztetett. Végül annyira megtetszett a kirándulás dolgo, hogy az ellenkező irányba tartó buszra szálltunk, és kimentünk a sziget egyik csücskére a Sawasaki nevű faluig. Nagy hegy- és sziklamászást csaptunk a part vulkanikus kövein, csináltunk párszáz fotót és nem győztünk ámulni a természeti csodákon.
+
+Hazafelé félútig sétálva mentünk időnként meg-megállva a parti sziklák széleire telepített rizsföldeknél vagy egy-egy szebb hídnál, ölbölbeli falunál. A zárókoncert kezdetére épp visszabuszoztunk, és a csepergő eső is elállt, minden tökéletes volt tehát a fináléhoz. A zárókoncerten mindhárman felléptek: Kodo, Nunez és Kakinuma. Watanabe Kaoru, a Kodo művészeti igazgatója brilliáns munkát végzett az összehangolásban. Nunez együttesének midnen tagja játszott a Kodoval közösen szólóban és együtt is, Kakinuma pedig dobaláfestéssel rajzolt két kalligráfiát, melyeket elkészültük után rögtön felhúztak a színpad háttereként. A zárás ha lehet még fergetegesebbre sikerült, a Kodo kiegészülve Nunez zenészeivel nagyot alakított. Még Kakinuma is táncra perdült a színpadon. :)
+
+Hazaérkezés után fedeztem fel, hogy a Kodo-tagok [blogot](http://heartbeat.cocolog-nifty.com/kodo_blog) is írnak japánul, míg Kaouru [angolul ír](http://heartbeat.cocolog-nifty.com/kodo_blog/english) koncertbeszámolókat. Ehhez kapcsolódik a hazautunk, amikor is dobolásra lettünk figyelmesek a ferryn sétálva. A Kodo kijött minket búcsúztatni! Még énekeltek is. Sőt, akkor sem hagyták abba, amikor midnen előzmény nélkül hatalmas nyári zápor kezdett el esni olyan hévvel, hogy azalatt lettem csuromvizes amíg megpróbáltam kinézni a hajó oldalán, ott vannak-e még a Kodósok. Itt a [képi bizonyíték](http://heartbeat.cocolog-nifty.com/kodo_blog/2005/08/ec2005__82a2.html), hogy bizony ott voltak. Én pedig ott ültem azon a hajón a képen... :D
+
+Az eső a magyarázata annak is, hogy az utolsó [képeken](http://sesam.hu/.gallery/ec2005) miért vagyunk vizesek.

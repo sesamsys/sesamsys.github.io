@@ -1,0 +1,85 @@
+---
+layout: post
+title: Three Words
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2011-01-04 21:30:23 +0100'
+date_gmt: '2011-01-04 20:30:23 +0100'
+tags:
+- '3'
+- SMO
+- social media
+- three
+- words
+- Human Interest
+comments:
+- id: 2290
+  author: Youkai
+  date: '2011-01-05 14:07:07 +0100'
+  date_gmt: '2011-01-05 13:07:07 +0100'
+  content: Nah, ezt most komolyan gondolod ? :D
+- id: 2291
+  author: SeSam
+  date: '2011-01-05 15:57:13 +0100'
+  date_gmt: '2011-01-05 14:57:13 +0100'
+  content: Azt, hogy kitettem ide, vagy hogy kíváncsi vagyok? Mindkettőt komolyan.
+    Divatmajom is vagyok meg nárcisztikus. :]
+- id: 2292
+  author: Youkai
+  date: '2011-01-06 08:40:58 +0100'
+  date_gmt: '2011-01-06 07:40:58 +0100'
+  content: Ok írtam  2* is, én valahogy nehezen tudok jellemezni egy embert 3 szóban,
+    bár ha asszociálnom kell gyorsan, akkor ez jut eszembe :)
+- id: 2293
+  author: SeSam
+  date: '2011-01-06 11:45:19 +0100'
+  date_gmt: '2011-01-06 10:45:19 +0100'
+  content: Ezek szerint csak három embert mozgatott meg a dolog, mondhatni fiaskó.
+- id: 2294
+  author: Youkai
+  date: '2011-01-06 14:18:34 +0100'
+  date_gmt: '2011-01-06 13:18:34 +0100'
+  content: Alapvetően szerintem nem, mert mint már előbb is kifejtettem, 3 szóban
+    valakit jellemezni a magyar nyelvben, nagyon nehéz. Amúgy anno halálom volt ez
+    a jellemezze magát 3 szóval szarság anno felvételi elbeszélgetésnél alkalmazták
+    előszeretettel . Amúgy ha nem vagyok indiszkrét mennyi a napi látogatója a sesam.hu-nak
+    , anyukák/tesók/vérrokonok nem érnek :)
+- id: 2295
+  author: SeSam
+  date: '2011-01-07 09:40:31 +0100'
+  date_gmt: '2011-01-07 08:40:31 +0100'
+  content: Az Analytics napi 20-80 egyedi látogatót mutat az utóbbi hónapban, szóval
+    elhanyagolható. Nem tudom, ebből mennyi a rokon. A japán éveim alatt volt ez sokkal
+    több is, de elvándoroltak az anime mániások azóta.
+- id: 2296
+  author: Youkai
+  date: '2011-01-07 17:06:23 +0100'
+  date_gmt: '2011-01-07 16:06:23 +0100'
+  content: Hát az elvándorlókat vissza lehet hozni, gondolom japánul nem felejtettél
+    annyit, mint én anno az oroszból :( Szóval olvasod a japán indexet, meg hasonlókat
+    azt lehet fordítani és kirakni szépen :) Vagy politizálhatsz, azt jönnek a kedves
+    kommentelők s anyukád csuklani fog.
+- id: 2297
+  author: SeSam
+  date: '2011-01-08 13:34:47 +0100'
+  date_gmt: '2011-01-08 12:34:47 +0100'
+  content: Szerintem az igazán érdekes tartalomhoz kint kellene élni. :]
+- id: 2298
+  author: Draquar
+  date: '2011-01-31 08:24:32 +0100'
+  date_gmt: '2011-01-31 07:24:32 +0100'
+  content: |-
+    Nem tudlak három szóval jellemezni úgy, hogy utána ne kelljen fél oldalon keresztül magyarázkodni.
+    De szerintem örülj ennek, mert akiket le lehet írni három szóval, azok ált. kevés valódi jelentősséggel bírnak. :o)
+
+    Lásd: idióta hülye picsa és társai...
+---
+
+[Jellemezz három szóval.](http://threewords.me/sesam) Ez a legújabb vírusként terjedő haszontalanság a szociális médiában. Kötelező kör, hogy amúgy nem szoktam ilyenekben részt venni, továbbküldeni, stb...
+
+De az az igazság, hogy meglehetősen kíváncsi vagyok.
+
+Lehet névtelenül is, szóval szedegethetitek fel a macskakövet.

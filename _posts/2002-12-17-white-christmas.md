@@ -1,0 +1,18 @@
+---
+layout: post
+title: white christmas
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2002-12-17 14:22:00 +0100'
+date_gmt: '2002-12-17 15:22:00 +0100'
+tags:
+- Human Interest
+comments: []
+---
+
+It is snowing for 2 days now, and this makes me much more happier than I were without snow. Well, apart from the little accident I had with ice-covered steps at my accomodation the world is much greater covered in snow. What more I just realised, that I haven't seen Budapest in winter ever. It is good! :) Trams are sloooow and drivers seem to reduce the inasne speed they usually drive their cars. For me everything seems much more relaxed and joyful. And really in this great Christmas atmosphere who cares about late buses and trams. ;)
+
+I am going to buy presents for my family now. Fun, fun, fun. :)

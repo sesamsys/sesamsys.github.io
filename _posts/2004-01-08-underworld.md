@@ -1,0 +1,21 @@
+---
+layout: post
+title: Underworld
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2004-01-08 23:25:00 +0100'
+date_gmt: '2004-01-09 00:25:00 +0100'
+tags:
+- Human Interest
+- Movies &amp; TV
+comments: []
+---
+
+I've been trying my best to study lately. I'd better pass my macroeconomics exam this time because I really don't want to spend my whole January studying again. However it is not that easy to make myself do what I have to as my previous - grammar school - experiences made me used to having excellent test results without a hard time studying. 
+
+I have many things to do once freed from the burden of studies. I can't wait to see The Return of the King in the cinema and I need to fix my computer as well. However new it is apparently the computer case - or more precisely the power supply - is malfunctioning and that is why my Windows freezes completely on random occasions. Meaning I have to buy a new case... I'll look into the problem tomorrow - after the examination took place. 
+
+I allowed only little fun for myself these days one of which was watching Underworld. It is a movie that surprised me at many points. For one it was completely shot in Hungary and there are even Hungarian actors and actresses in it - though they never speak. Naturally half of the crew is also Hungarian. And guess what, this movie hasn't been shown in Hungary yet at all! If it weren't for the Internet I wouldn't have even heard about it. It gained almost no publicity around here despite of the impressive proportion of Hungarian work in it. I don't know if it would ever be in Hungarian cinemas.

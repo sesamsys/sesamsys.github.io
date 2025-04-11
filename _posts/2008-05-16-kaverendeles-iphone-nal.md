@@ -1,0 +1,30 @@
+---
+layout: post
+title: Kávérendelés iPhone-nal
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2008-05-16 19:25:35 +0200'
+date_gmt: '2008-05-16 10:25:35 +0200'
+tags:
+- iphone
+- location-based content
+- Tech &amp; Gizmos
+comments:
+- id: 1255
+  author: Youkai
+  date: '2008-05-16 21:16:33 +0200'
+  date_gmt: '2008-05-16 12:16:33 +0200'
+  content: |-
+    Ahhh, elképzelem, ahogy áll ott a kis japán, s nagyon hadar. "Kérek egy X23-t egy kis P45-t hozzá egy K05-t jah és még kérnék még egy S04-t és lehet az egész super size-ban "  Amúgy lassan nem tudom, hogy mi az amit nem fog tudni az iphone, jah mms-t küldeni :) (Tudom gonosz vagyok :P ) Amúgy múltkor kb 2 órát nyomorgattam egy ismerős iphon-ját, hááát inkább egy N95-t vagy inkább valami japán Ntt-s sharp mint az ipho...
+    Amire én használnám (telefon, sms, mms, e-mail) na arra alkalmatlan 3G nincs, wifi van az meg Mo-n nincs nagyon. Amire meg nem használnám MP3, na arra tökéletes, csak akkor már inkább veszek a Touchot, s nem idegelem fel magamat, hogy megint nem tudok sms-t írni :(
+    Amúgy ezek a fejlesztések nem lennének rossz dolgok, csak nem kéne nagyon iphone only vonalon gondolkodni, mert ha nincs iphone-od akkor másodrangú ember vagy ??? Engem csak ez zavar az iphonban, hogy csak trendi, de tudása mint teló nagyon is konvergál egy alap 3310-es nokia tudásához, mondjuk az iphone jobban néz ki mint a 3310-es nokia  :)
+---
+
+A [MacRumorson olvastam](http://www.macrumors.com/2008/05/15/apple-explores-delivering-location-based-content-to-iphone-users), hogy az Apple helyi tartalmakkal kísérletezik.
+
+Mit is jelent ez? Ha például az ember besétál egy Starbucksba és rácsatlakozik a helyi vezetéknélküli hálóra, a telefonján is összerakhatja a rendelését akár. És csak azt kell megvárnia, hogy elkészítsék. A lehetőségek határtalanok: repülőtereken vagy állomásokon utazási információkat ajánlhatnak például.
+
+Japánban már van hasonló. A McDonaldsban főleg a fiatalabb japánok rendszeresen a telefonjukon választanak menüt. Minden burgerfajtát elláttak egy kóddal, így elég a kódot bemondani a pénztárnál. Mondjuk ez nem sokkal gyorsabb, mint elsorolni a rendelést magát, de legalább próbálkoznak.

@@ -1,0 +1,76 @@
+---
+layout: post
+title: Life is a series of ordinary days
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2009-07-05 21:09:18 +0200'
+date_gmt: '2009-07-05 12:09:18 +0200'
+tags:
+- life
+- Human Interest
+comments:
+- id: 1968
+  author: Yuki
+  date: '2009-07-06 01:40:35 +0200'
+  date_gmt: '2009-07-05 16:40:35 +0200'
+  content: |-
+    Dehogynem. Az életben nincs elvesztegetett idő. Csak idő, amit mindenki másképp tölt el, ezért más élményei vannak, amit különféleképp tud hasznosítani.
+    A blogolást pedig nem szabad abbahagynod. :P
+    Az egyetlen dolog, amivel igazán maradandót alkothat az ember az az, hogy kapcsolatba lép másokkal. Ezáltal formál és formáltatja magát. A világ pedig ettől lesz olyan a jövőben, amilyen.
+    Ha például nincsenek a zseniknek szüleik, akkor az ő zsenialitásuk sincs és akkor...... :) teccikérteni
+- id: 1969
+  author: Vale
+  date: '2009-07-06 08:14:48 +0200'
+  date_gmt: '2009-07-05 23:14:48 +0200'
+  content: azt hiszem ezt egy szokásos robot japán írta, aki mentegetni akarta szánalmas
+    életvitelét.
+- id: 1970
+  author: Vale
+  date: '2009-07-06 08:16:10 +0200'
+  date_gmt: '2009-07-05 23:16:10 +0200'
+  content: |-
+    mármint értendő ez az első mondatra, nem a bejegyzésedre.
+    blogolni pedig kell, neked legalábbis, mert jól csinálod.
+- id: 1971
+  author: SeSam
+  date: '2009-07-07 16:02:22 +0200'
+  date_gmt: '2009-07-07 07:02:22 +0200'
+  content: |-
+    Actually...
+
+    "...és bár kissé közhelyesen tálalják a problémát, de azért elmondják benne azt, amit én is gondolok. Tudniillik, hogy az életünk hétköznapok sorozata, és persze, van, akinek az is fontos, hogy legyen benne cél, vagy valami eszmei háttér vagy értelem vagy karrier, hatalom, megfelelni vágyás, népszerűség, nárcizmus, de alapvetően az életünk az, hogy mivel töltjük az időnket." - <a href="http://isolde.hu/archives/2009/02/07/Days_of_our_lives/" rel="nofollow">isolde</a>
+- id: 1972
+  author: SeSam
+  date: '2009-07-07 16:17:12 +0200'
+  date_gmt: '2009-07-07 07:17:12 +0200'
+  content: |-
+    As for the rest of my post it originates from <a href="http://money.cnn.com/magazines/fortune/fortune_archive/2006/10/30/8391794/index.htm?postversion=2006101715?" rel="nofollow">an article in Fortune</a>:
+
+    "Well, folks, it's not so simple. For one thing, you do not possess a natural gift for a certain job, <strong>because targeted natural gifts don't exist</strong>. [...] You are not a born CEO or investor or chess grandmaster. <strong>You will achieve greatness only through an enormous amount of hard work over many years. And not just any hard work, but work of a particular type that's demanding and painful</strong>.
+
+    [...]
+
+    The best people in any field are those who <strong>devote the most hours to what the researchers call "deliberate practice."</strong> It's activity that's explicitly intended to improve performance, that reaches for objectives just beyond one's level of competence, provides feedback on results and <strong>involves high levels of repetition</strong>." - via <a href="http://doransky.hu/?p=344" rel="nofollow">doransky</a>
+- id: 1973
+  author: Yuki
+  date: '2009-07-07 18:01:09 +0200'
+  date_gmt: '2009-07-07 09:01:09 +0200'
+  content: |-
+    "because targeted natural gifts don't exist"
+    Ezek szerint a családfája és a barátai is csupa tehetségtelen emberből áll. :)
+
+    Adjon valaki a kezébe egy genetika könyvet, és csapja a fel a tehetség öröklődése résznél, egy pszichológiát pedig a sorskönyv és fixációk címkéknél, aztán vegyék el a billentyűzetet tőle örökre....
+- id: 1974
+  author: Vale
+  date: '2009-07-12 12:51:09 +0200'
+  date_gmt: '2009-07-12 03:51:09 +0200'
+  content: tény, dolgozni kell, ha el akarsz érni valamit. de ha dolgozol, akkor szinte
+    akármit elérhetsz. nekem például célom lett jobb eredményeket elérni az őszi vizsgán,
+    mint a koreai srác, aki már most ikkyuu fölött van, és a todai-esélyes. (annak
+    ellenére, hogy kansaiba akarok menni egyetemre.)
+---
+
+I read that in order to excel at something the first and foremost thing to do is spend an inordinate amount of time at it. Talent comes into play of course, but not so much as rigorous, disciplined, day-to-day work. There is no such thing as success without an effort. In light of this: since I don't work hard at anything whatsoever, I really shouldn't be writing these silly blog posts either. There is no added value.

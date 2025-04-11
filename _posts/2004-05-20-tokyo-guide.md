@@ -1,0 +1,30 @@
+---
+layout: post
+title: Tokyo guide
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2004-05-20 14:01:28 +0200'
+date_gmt: '2004-05-20 05:01:28 +0200'
+tags:
+- Japan
+comments: []
+---
+
+Megirtuk a teszteket. Annyira nem voltak nehezek, foleg a nyelvtan. Nehany hibamrol tudok, de ezen kivul szerintem jok lettek a dolgozataim. A kanjiteszt egyszeruen volt felepitve. Elso korben hiraganaval irt mondatokat kellett kanjikkal atirni, utana pedig kanjikat kellett furiganaval (kanji fole irt hiragana) ellatni. A nyelvtan pedig rendes nyelvi feladatsor volt, gap filling-el, partikulavalasztassal, stb. Jopofa volt, mert a H osztallyal voltunk egy teremben, akik 20 perc alatt megcsinaltak az egeszet es testuletileg kivonultak.
+
+Adtam Vladanak hozzaferest a galeriahoz, ugyhogy lassan elkeszul az osszes kep leirasa. Hogy lehessen erteni a kepek helyszineit, meselek egy kicsit a kornyekrol. A lakcimem Tokyo University of Foreign Studies Tokyo, Fuchu-shi, Asahi-cho 3-11-1 International Students' House. Tokyo egyertelmuen a varos, Fuchu a varosresz es Asahi a korzet, majd utana a 3-11-1 a haztomb. Az utcaknak nincs nevuk, hanem szamuk es a hazszamok sem sorban vannak, hanem epulesi sorrend szerint. Egy cimet megtalalni Tokyoban nem semmi feladat... Asahi felkelo napot jelent amugy.
+
+Hozzank legkozelebb a Tama station van, ami a JR (Japanese Railways) allomasa. Nem sokat hasznaljuk, mert a vagany nem a JR-e, ezert ketszer annyiba kerul vele az utazas. Az allomas mellett viszont van kombini azaz Convenience Store, ami 7/24 nyitva van viszont draga. Az ilyen boltokban tenyleg mindent meg lehet csinalni, lehet kajat venni, vannak elore elkeszitett talak is, amiket megmegelgitenek es lehet venni elore sutott husokat is. Plusz minden boltban van cash dispenser, azaz ATM es itt lehet befizetni a viz/villany/telefon szamlakat is.
+
+Kb 10 perc setara van az Ajinomoto stadion es egy kicsit tovabb a Tobitakyu station. Ez a Keio ceg vonala, sokkal olcsobb, mint a JR, szoval ezt hasznaljuk. Altalaban biciklivel megyunk az allomasig es utana vonatozunk. Az uton van meg 2 kombini es egy kinai etterem, ami japanositott (ertsd nem csipos) kinai kajakkal szolgal. A stadion a Tokyo FC hazai stadionja es a Foci VB-re epitettek. Szombatonkent hatalmas tomeg szokott lenni a stadion es az allomas kornyeken. Itt a focimeccsek csaladi szorakozasok es a meccs utan nem egyszer lattam a szembenallo felek szurkoloit egymas tarsasagaban bekesen hazamenni. Tobitakyunal van McDonalds, az a meccsek napjan voros-kekbe oltozik es az utcarol is lehet rendelni kajat a meccsre. Budapesthez szokott lelkemnek nehez volt megbaratkozni azzal, hogy a meki itt nyolckor bezar...
+
+Hozzank a legkozelebb Chofu van. Tobitakyutol 2 megallo Keio-sennel vagy biciklivel 15 perc. Ide lehet menni bevasarolni, mert van Seiyu (a helyi Tesco) es Hyakuen (100 yen shop). Itt is van japan etterem, ahova jarni szoktunk. Chofu az atszallohely is. Tobitakyu kis allomas es csak a 'local' azaz helyi vonatok allnak meg. Egy helyi vonattal messzebre menni viszont onkinzas ezert Chofuban at kell szallni 'semi-special express'-re vagy 'special express'-re. Ezek gyorsabb vonatok es csak a fo allomasokon allnak meg. A vonatokat inkabb ugy kell elkepzelni, mint otthon a HEV-et. A varoson belul kozlekedik es a varosreszeket koti ossze.
+
+Kicsit messzebb es az ellenkezo iranyba van Fuchu, a varosreszunk kozpontja. Itt egy olcso elektronikai bolt van valamint egy buddhista templom. Itt talalhato a varoshaza is, ahonnan az [i]alien registration card[/i]-unk szarmazik. Az utcai felvonulas a Golden Weeken is itt kapott helyet. Lathatoan kisebb kozpont, mint Shinjuku vagy Shibuya, a tornyok alacsonyabbak es kevesebb van beloluk.
+
+Chofutol vonattal vagy biciklivel egyarant egy-haromnegyed orara van Shinjuku. Igazi Tokyo feeling, toronyhazakkal, rengeteg fenyreklammal es hatalmas embertomeggel. Tokyo erdekessege, hogy a fenyreklamok nem rekednek meg az elso nehany emelet szintjen, hanem a tornyok teljes magassagat beboritjak. Shinjukuban van a Kinokuniya konyvesbolt, egy hatalmas vasutallomas (HEV) es rengeteg bolt. A boltok tobbemeletesek es gyakran uvegfaluk van: le lehet latni az utcara.
+
+Shibuya a legnagyobb kozpont, ahol eddig voltam. Ha valaki latta a Lost in translation (Elveszett jelentes) cimu filmet, akkor latta Shibuyat. Ez az a hely, ahol a dinoszaurusz atsetal egy haz falara szerelt gigantikus vetiton. Allitolag a foter utkeresztezodesen a vilagon a legtobb ember megy at naponta. Hetvegen estenkent rengeteg ember tolong itt, az utcan zeneszek adnak elo es mindent elarasztanak a fenyreklamok. Shibuyaban is vannak boltok, de foleg ettermek es szorakozohelyek. Innen van kapcsolat a metrokhoz es tavolsagi vonatokhoz. Shibuyaba szinten Tobitakyubol Meidaimae-ben attszalva (Irokashira-sen) lehet eljutni.

@@ -1,0 +1,60 @@
+---
+layout: post
+title: Out and About
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2009-07-14 15:05:25 +0200'
+date_gmt: '2009-07-14 06:05:25 +0200'
+tags:
+- food
+- life
+- waribashi
+- yoshinoya
+- Japan
+comments:
+- id: 1977
+  author: Vale
+  date: '2009-07-14 20:04:14 +0200'
+  date_gmt: '2009-07-14 11:04:14 +0200'
+  content: én csak akkor használok ilyet ha rámjön az ötperc és bentót  (sankichi
+    rulz) vagy instant rament veszek... különben a menzán is csak a műanyagot.
+- id: 1978
+  author: zombunny
+  date: '2009-07-14 21:51:15 +0200'
+  date_gmt: '2009-07-14 12:51:15 +0200'
+  content: |-
+    http://www.youtube.com/watch?v=0PbPdjWlB9k
+    :D
+- id: 1979
+  author: SeSam
+  date: '2009-07-14 21:55:48 +0200'
+  date_gmt: '2009-07-14 12:55:48 +0200'
+  content: あぁ〜　あずまんが大王！
+- id: 1980
+  author: youkai
+  date: '2009-07-15 05:24:21 +0200'
+  date_gmt: '2009-07-14 20:24:21 +0200'
+  content: Végre, ahogy mondanák, azt hiszem régen (talán volt már 5 éve is) olvastam
+    a HVG-ben, hogy komplett erdőségeket irtanak ki a pálcikák miatt, mondjuk , hogy
+    ez kezd bejönni a köztudatba, japánban, nem sok változás lesz, mert Kínában és
+    Koreában is szép mennyiséget használnak fel, ami aztán hulladék lesz. Amúgy tényleg
+    Sesam, japánban kultiválják a hulladék égetést, ha már annyit maceráltak a szelektív
+    hulladék gyűjtögetés miatt, nyilatkozhatnál róla..
+---
+
+Tegnap teljesen atipikusan olyan korán sikerült felkelnem, hogy óra előtt elmásztam a nem is olyan közeli Yoshinoyába reggelizni. Újaknak: a Yoshinoya a legnagyobb japán rizseshústál-lánc. Olyasmi, mint egy helyi McDonald's. Nem túl gyakran járok, mert a választék azért nem egetrengető, úgyhogy csodálkozva vettem tudomásul, hogy a megszokott eldobhatók helyett csúnya fekete műanyag pálcikák voltak az asztalon.
+
+![gyudon](http://img.skitch.com/20090714-ci4m7qcdcurfwd6tj8ca9b35st.jpg)
+
+A pálcikásdoboz oldalán volt a rejtély megfejtése: környezetvédelmi okból tértek át az egyszerhasználatos fáról az elmosható műanyagra. A felirat tanúsága szerint ilyen módon évente 6,350 tonna szén-dioxiddal kevesebb jut a légkörbe. Persze nem is lenne Japán, ha nem hangsúlyoznák, hogy az antibakteriális szerekkel elmosogatott evőeszközök abszolút _biztonságosak_. Valamint ha valaki mégis inkább a fa pálcikákat kultiválja, akkor tartanak abból is azért.
+
+![hashi-box](http://img.skitch.com/20090714-1nidcaxc37ci2nfkwidfgg5m74.jpg)
+
+Igazából érthető a változtatás, bele se merek gondolni naponta hány eldobható pálcikát használ el a sziget lakossága. Viszont abból a szempontból sajnálatos, hogy ezekkel a lakkozatlan fa pálcikákkal a legkönnyebb szerintem enni. A műanyag mosható és a lakkozott fa verziók is csúsznak. Arról nem is szólva, hogy ezzel vége a legjobb Yoshinoya-sportnak, a friss pálcikák kettétörésében való versenyzésnek. Az eldobható pálcika japánul _waribashi_ （割り箸）, ami szó szerinti fordításban elválasztható pálcikát jelent. A papírtasakból kivéve egy darabban van ugyanis a két pálcika. Középen majdnem végig be van fűrészelve, de a végén egy kis szakaszon kapcsolódik. Az étkező feladata kettétörni, és ebből fakad általában a móka: mennyire sikerül pontosan egyformára szétválasztani a darabokat. A nagyon csáléra tört pálcika használója a vesztes.
+
+![waribashi](http://img.skitch.com/20090714-jyix3jwqa3d5rb25ne1ay5pyq1.jpg)
+
+A fenti képen saját kezűleg törtem ketté egy szerkesztőségi raktár pálcikát (a boltban is adnak ha az ember azonnal ehető dolgokat vesz). Szép szálkás lett.

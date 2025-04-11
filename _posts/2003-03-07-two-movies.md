@@ -1,0 +1,22 @@
+---
+layout: post
+title: two movies
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2003-03-07 23:38:00 +0100'
+date_gmt: '2003-03-08 00:38:00 +0100'
+tags:
+- Movies &amp; TV
+comments: []
+---
+
+I was wondering if I should have written this post before having a shower or after. I decided to choose the former no matter showers proved to have a boosting effect on my thinking. After shower I will be just more tired and longing for a soft bed than now.
+
+I have seen two movies lately: Death Ship and The Sweetest Thing. Death Ship reminded me much like Blood 2. you know, the computer game famous for having sooo much blood in it that turned out to be ridiculous at the end. Death Ship wasn't bad really but the story could have been stronger. There was more in the story than revealed. It lost being interesting at the end and didn't keep up the tension. The ending wasn't very much to my liking either.
+
+The Sweetest Thing I watched because I didn't want to do anything serious this morning. It was exactly what I expected though at some points a tad too dumb... I guess the movie is aimed to be funny and romantic out of which fun is sometimes there but no romance at all. If you just came out of an exam, your brain is flushed empty and you want nothing more than sit in an armchair and switch yourself odd to standby mode, this is your film to see.
+
+Ok, I am off to bath. And then sleep. Sleep long, undisturbed and deep. /The last word is written in a manner as if the owner of the diary had jumped instantly from his seat, putting the pen down and closing the book in an instance. A spot of dropped ink is visible, too./

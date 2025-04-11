@@ -1,0 +1,111 @@
+---
+layout: post
+title: Through gritted teeth
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2009-04-02 17:07:53 +0200'
+date_gmt: '2009-04-02 08:07:53 +0200'
+tags:
+- credits
+- degree
+- epic fail
+- fail
+- kobe-u
+- QQ
+- university
+- Human Interest
+comments:
+- id: 1811
+  author: Komavary
+  date: '2009-04-02 17:46:56 +0200'
+  date_gmt: '2009-04-02 08:46:56 +0200'
+  content: |-
+    Rá se ránts,  másokkal is megesik az ilyesmi.  :fütyürészve félrenéz:
+
+    Nézd a jó oldalát:  eddig nem kellet feltétlenül baitóznod, most viszon lesz rá időd és indítékod is. Nagyon jó élményeket lehet szerezni. (Nem pont a polcpakolós fajtával.)
+
+    Plusz, kevés szakma van, ahol a van-e diplomád után elhangzik a na és, milyen?
+- id: 1812
+  author: Youkai
+  date: '2009-04-03 02:54:36 +0200'
+  date_gmt: '2009-04-02 17:54:36 +0200'
+  content: Hali üdv a Klubban! Ez előferdül, mondjuk én egy magyar fősulin voltak
+    "könyvtár-büfé "szakos Khm, khm, ... Alapvetően szerintem az a gond, hogy neked
+    nem japánba kellet volna menne, hanem az USA/Anglia vonalon mozogni , mert inkább
+    az angolszász gondolkodásmód, nyelv vonz jobban téged, mint a japán (tudom, tudom,
+    csata után okos a magyar... ). Amúgy a diploma kérédés, hát jó volt amikor végre
+    megvolt, de kb a hátsómat törölhetem vele, főleg ha nem akarsz egy multinál officerat
+    lenni, mert nem az kell a boldoguláshoz, ami előnyöd, hogy tudsz még 3 nyelvet
+    a magyaron kívül, szóval én a helyedben ez irányban indulnék.
+- id: 1813
+  author: Szak1
+  date: '2009-04-03 07:00:11 +0200'
+  date_gmt: '2009-04-02 22:00:11 +0200'
+  content: |-
+    Egy picit hadd bátorítsalak én is... Szerintem addig jó, amíg egyetemista vagy. Utána nincs nyári szünet, nincs olyan, hogy reggel eleged van a világból is kihagyod az órát, satöbbi. Nekem ugyan összejött minden félévem (megbukni jövő héten fogok véges elemekből), viszont egy évet eleve vesztettem a francia projekt miatt, most meg egy másodikat az indonéz szakmai gyakorlattal. Aztán még szeretnék az életben egszer eljutni Ázsiába, tehát nincs kizárva egy szingapúri phd sem, de ha ezt a vonalat kihagyjuk, akkor is legkorábban 3 év múlva lehet diplomám - látod, vén csont leszek már én is, viszont pont ez a célom.
+
+    Abban, hogy még egy szemesztert lehúzol Japánban, összesen két rossz dolog van: az egyik, hogy gondolom rosszul esik, hogy akikkel anno együtt kezdtél, már hazamentek, másrészt, hogy az ösztöndíj elfogyott. Utóbbin nem tudsz viszonylag könnyen segíteni? Nincsenek béndzsó, angolul tanulni akaró japán diákok, akik a birkatürelmedért cserébe egész jó órabért fizetnének?
+
+    Amúgy Youkaira reagálva: a Monbushut elvileg arra találták ki, hogy utána ottmaradj Japánban, és adó/tudás formájában törleszd, amit az állam rád költött. Ha jól veszem ki, erről szó sincs, te minél hamarabb lépnél már le.
+    Ezt abból a szempontból megértem, hogy Ázsiában elég gagyi a felsőoktatás, meg Kóbe amúgy sem egy izgalmas hely (meg én 8 órát sétáltam az utcáin anélkül, hogy egy szép embert vagy neadj'isten egy jó nőt láttam volna), viszont a blogodat olvasva régóta átjön némi Japán-ellenesség, vagy mondjuk úgy, hogy kirekesztés.
+
+    Japánban ezer olyan hely van, ahova sokan sokat adnának, hogy eljussanak... ha jól tudom, még mindig nem voltál Hokkaidón vagy Kyúshun, sem hosszabban kirándulni a hegyekben. Tudom, hogy a honeymoon feeling hamar elmúlik, de én teljesen le voltam nyűgözve egy olyan helytől, ahol az erdő közepén es kis fából ácsolt onszen van, ahol mellesleg egy japán prof fürdik, aki már tanított Veszprémben.
+
+    Talán emlékszel még arra a videóra, amit te posztoltál (This is Japan) - akkor azt írtad, hogy még azt hinnénk, hogy Japán egy király hely... ...én értem, hogy a benne élő emberekkel való napi érintkezés elég lehangoló, de az okos döntés az, hogy az utolsó percig kihasználod a hátralevő fél évet. Mert haza fogsz jönni, és rájössz, hogy Magyarország nem olyan rózsás 2009-ben.
+
+    Úgyhogy gyerünk, mozdulj ki, utazz, teszem azt szállj fel az Oszaka-Szöul kompra, vagy menj el egy két hetes biciklitúrára, fényképezz és oszdd meg velünk. Utolsó 6 hónapod Ázsiában - sok sikert hozzá.
+- id: 1814
+  author: Komaváry
+  date: '2009-04-03 08:23:32 +0200'
+  date_gmt: '2009-04-02 23:23:32 +0200'
+  content: |-
+    "Amúgy Youkaira reagálva: a Monbushut elvileg arra találták ki, hogy utána ottmaradj Japánban, és adó/tudás formájában törleszd, amit az állam rád költött"
+
+    Hát, elvileg nem erre találták ki. :p (Pl. semmilyen formában sem támogatják, hogy Japánban elhelyezkedj végzés után.)
+
+    Sesam: Nem voltál még Hokkaidón? Ejnye!
+- id: 1815
+  author: Depner
+  date: '2009-04-05 03:26:01 +0200'
+  date_gmt: '2009-04-04 18:26:01 +0200'
+  content: Mondjuk én annyira nem sietnék haza. Mi fog történni? Hazajössz, elmész
+    dolgozni, veszel egy lakást. Ez utóbbit hitelre. Lesz szép, havi minimum 80.000
+    Ft-os törlesztőd (de ugye a hitel EUR alapú, tehát ez erősen változhat - inkább
+    fölfelé.) Ha multinál dolgozol, akkor minden nap úgy mész be, hogy megvan-e még
+    az állásod? Ha az államnak, akkor úgy, hogy megint mennyivel csökkent a fizetésed?
+    (Mert ugye már azt a maradék "13. havit" is elveszik.) De a számlákat ugyanúgy
+    ki kell fizetni, ott nincs pardon. Jelentem, hogy "Pelikán elvtárs, az élet nem
+    egy habostorta"- itt sem.
+- id: 1816
+  author: Vale
+  date: '2009-04-05 13:12:41 +0200'
+  date_gmt: '2009-04-05 04:12:41 +0200'
+  content: |-
+    én meg se szólalok, mert az elmúlt négy napban amióta itt vagyok még nem volt egy órám se, szóval nincs semmi tapasztalatom -- viszont én az utca emberét nem érzem egyáltalán kirekesztőnek, mindenki nagyon kedvesen igazít útba amikor gyatra (és gondolom piszok udvariatlan) japánsággal kérdezem meg, hol van ez meg az...
+    de kitartás! (ganbatte!)
+---
+
+It's been a bit hard writing to this journal lately, because I wasn't sure about sharing what really was on my mind. After all once something is out there is bits and bytes there will always be a way to retrieve it. There's no going back, and eventually too much honesty will surely just blow up in my face.
+
+Anyway, readers with a keen eye to details should already have asked themselves: if the first posts from Japan are dated from April 2004 and the scholarship is for 5 years then what the hell is he still doing over there?
+
+Well, the reason is that I have failed. At the end of my eighth semester I didn't have the required number of credits to graduate.
+
+Just writing this down is hard, because I wasn't thinking of myself as a person who couldn't finish university on time. When it came to studies I was considered smart, successful. Well that's the past, so now I feel very angry - mostly at myself - and terribly awfully ashamed. Not wanting to look people in the eye ashamed. (Good thing there's this site and I don't actually have to talk to anyone.)
+
+After all many have overcame this obstacle before. And not even with substantial hardships at that. I can visualise their gloating faces and the I told you sos quite well. I shudder at the thought of becoming the anecdotical example reminding the future generations who come here to study what to avoid.
+
+But really, how did it come to this?
+
+I could put the blame on external causes. In general, Japan as a country and its inhabitants as individuals have never really warmed up to the non-Japanese. I have always been viewed as the unwanted problematic foreigner in classes and never received much help or encouragement from the professors. Rather some had me failed just on the account of being a nuisance. In addition to that the credit system is one of the strictest here in Kobe, with not much room for mistakes, at least compared to other Japanese universities. I couldn't just take a lot of classes in hopes of passing at least a good number of them because there is a limit on how many credits a student can take per year. This limit - while more than enough for the Japanese - can be problematic if we take into account the fact that I am not quite fluent in the language just yet. Of course this has never been seen as an issue by the administration, not even when I asked if I could try and take a few extra credits' worth of classes in my last semester. Rules are rules and they won't be bent for some filthy gaijin.
+
+At the end of the day however none of these matter and I can only blame myself. I applied for the scholarship. No one forced me. I knew it was not going to be a walk in the park. I knew that I shouldn't have been lazy about certain classes, that I should have just forced myself to sit down and study all night if I had to. I should have taken the first year of language studies a lot more seriously. I shouldn't have lost credits to absolutely stupid things like mistaking the day of the exam. I probably should have made more friends, especially with locals. Because now everyone else I knew finished and went home and I am here pretty much alone. I was even told I should have had a Japanese girlfriend: if anything that would have had a great effect on my language skills.
+
+I didn't do any of the above and now I'll have to stay in Kobe for another semester. To make matters worse naturally the scholarship is over, I won't receive a penny anymore. I'll have to pay tuition and living expenses. And by 'I' I mean my parents of course. Ironically the recent changes in exchange ratios just doubled these costs. More reason to feel contrite.
+
+But there isn't anything else I could do. I am not about to just drop out and fill shelves in a supermarket. Even though when I finish, _if_ I finish, prospects won't be much better. At the age of 26 a simple BA degree is hardly impressive. Of course with no agreement between Hungary and Japan this degree will worth exactly nothing at home, as if I didn't have one.
+
+Well, least I have seen a part of the world most people will never, I guess.

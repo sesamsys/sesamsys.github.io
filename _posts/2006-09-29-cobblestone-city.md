@@ -1,0 +1,33 @@
+---
+layout: post
+title: Cobblestone City
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2006-09-29 22:53:46 +0200'
+date_gmt: '2006-09-29 13:53:46 +0200'
+tags:
+- Movies &amp; TV
+- Politics
+comments: []
+---
+
+One thing I couldn't have complained about lately is the lack of events to write a post on. Not in a positive way, however. When the ominous 'siege of MTV' was happening I was actually in Budapest to meet up with old friends and acquaintances. In the last few days it diminished to a cliché to express one's shock. Nevertheless, the people of Hungary were quite taken aback watching the scenes from in front of the MTV building.
+
+Strangely I was told by a particular person that the only good thing about it all is that we got into international media and it might open people's eyes to the other serious problems Hungary has to face. Well, the last time Hungary made it to front pages worldwide was the disqualification of Adrian Annus at the 2004 Olympics based on failed drug tests. (This was particularly big news in Japan since it meant that their athlete, originally coming in second, got to win the gold medal eventually.) Is this really the kind of publicity we'd want for ourselves?
+
+I think otherwise: it's extremely easy to ruin a country's reputation and we managed spectacularly. Indeed every wonder lasts three days, but also it takes no more than a vague picture of burning expensive cars in the mind of a conference organiser to choose Czech or Slovenia instead. We live in a highly competitive world and we shouldn't, we cannot let fiascos like this happen.
+
+And apparently we have the national trait to bring our problems out to the public, where they clearly don't belong. How embarrassing it must have been to the EP politicians to debate about whether our not our PM is a liar, if the cabinet should stay or not. Could demonstrators act any more provincial than asking for the EU's help? In, like, what exactly?
+
+Not to mention the whole demonstration now seems like a huge cabaret with people clearly having no idea what they are talking about. It's downright sad to read the signs they carry. Based on what ludicrousness can someone ask for the freedom of press in today's Hungary for example? I simply cannot comprehend why protesters think they are in fact leading a revolution. In whose absurd dream can any of this even remotely be like 1956?
+
+It started with the cockade. The rosette of national colours has always been used to represent the 1848-49 Hungarian revolution. It had been so until supporters of the extreme right-wing parties followed by most of the conservatives started to wear it basically any time, anywhere. Now the mob attacking a public building relates itself to heroes of our past. The much criticised Americans put their flag in front of their homes, while we have the tricolour in the hands of vandalistic criminals.
+
+During a short visit to the capital on Wednesday I saw that the beggars adopted a new strategy as well: they all seemed to have the red-white-green on them somewhere: carried a flag, wore a cockade or a bracelet. No doubt making a play for the sympathy of the protesters.
+
+Everyone knows the game when you are being told a word and have to answer with the first thing that comes to your mind. The Oxford American Dictionary (built in OS X, no less) has the following example sentence for 'protest': _the Hungarian team lodged an official protest._
+
+It can be a coincidence.

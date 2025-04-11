@@ -1,0 +1,119 @@
+---
+layout: post
+title: Mégis megbotlik?
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2010-10-22 16:43:47 +0200'
+date_gmt: '2010-10-22 14:43:47 +0200'
+tags:
+- education
+- exams
+- Hungary
+- university
+- Japan
+- Law
+comments:
+- id: 2216
+  author: Vale
+  date: '2010-10-22 16:52:39 +0200'
+  date_gmt: '2010-10-22 14:52:39 +0200'
+  content: A shigai egyetem legalábbis biztosan. Egyedül akkor engednek uvzni ha igazolod,
+    hogy önhibádon kívül késtél/hiányoztál (felrobbant a vonat stb). De arra is azt
+    mondják, hogy jobban jársz, ha következő félévben fölveszed megint, mert a tanárok
+    szeretik halálra szopatni az uvseket.
+- id: 2217
+  author: Gizurr
+  date: '2010-10-22 19:39:57 +0200'
+  date_gmt: '2010-10-22 17:39:57 +0200'
+  content: Szerintem a vilag legtobb helyen csak egyszer vizsgazhatnak a diakok es
+    ez is lenne a normalis rendszer (bar en nagyon rossz velemennyel vagyok az egesz
+    magyar felsooktatasrol).
+- id: 2218
+  author: Vale
+  date: '2010-10-23 10:22:40 +0200'
+  date_gmt: '2010-10-23 08:22:40 +0200'
+  content: Azzal én is egyetértek, hogy jobb, ha egy félévben csak egyszer vizsgázhat
+    valaki, de az szintén nem jó hogy egy vizsgaalkalom van, és azt is a tanár mondja
+    meg, mikor. Nyáron volt, hogy három nemkönnyű vizsgám volt egy nap...
+- id: 2219
+  author: foodlfg
+  date: '2010-10-23 12:02:58 +0200'
+  date_gmt: '2010-10-23 10:02:58 +0200'
+  content: |-
+    Nem látom, hogy miért jó, csak feszültséget kelt. Ráadásul lényegében most is ez a helyzet (legalábbis ott ahol én tanulok).
+
+    Mifelénk pl komolyan egymásra épülnek a tantárgyak, ha megbuksz pl kétszer valamelyik tantárgyból, vagy egyszer-egyszer a tantárgycsoport két tantárgyából, akkor már alapból szopóágon vagy 2 év csúszással. Keresztfélév nincs, nincs is értelme, mivel egymásra épülnek a tantárgyak.
+    Ráadásul az iskola első pár félévében kredit minimum van, amit el kell érni, különben kirúgás.
+
+    Inkább a fizetős-állami rendszert kéne rugalmasabbá tenni. Aki nem tanul jól az mehet fizetősbe és vissza.  Mifelénk pl nagyon be van betonozva aki államilag finanszírozott képzésben tanul (én is).  Érdekes, hogy ehhez nem akarnak hozzányúlni, helyette inkább ilyen hülyeségekkel foglalkoznak. A mai rendszer elég rugalmas és ez jó. Nem attól lesz jobb az iskolákból kikerülő hallgatók tudása, hogy minél több szopatáson tudnak keresztül vergődni.
+
+    Engem lényegében csak a max 2 felvételi alkalom érinthetne (ha esetleg), mivel már a többi be van építve a rendszerbe. Úgyhogy ezt a tervezetet csak felesleges arcoskodásként tudom értelmezni.
+- id: 2220
+  author: VladDracul
+  date: '2010-10-23 14:33:10 +0200'
+  date_gmt: '2010-10-23 12:33:10 +0200'
+  content: |-
+    Nálunk is egymásra épülnek a tárgyak, annyi van korlátozva, hogy hányszor vehetsz fel egy tárgyat. Mondjuk én nem lennék túl happy ha scak 1-2szer mehetnék el. Nem gondolom, hogy elveszti egy vizsga a komolyságát attól, hogy többször próbálkozol. Ha nehéz marad akkor pont jó, hogy többször mehetsz. Elképzelem azt a stresszt, hogy na most vagy soha, ha most valami köcsög vizsgázattót kapok végem.
+
+    Én mentem 3x anatómiából például és az a legjobb anat vizsgajegyeim egyike anatból. Szarul jött ki elsore nem keszultem masodjara a legköcsögebb nőt kaptam. Azóta is azt a részt tudom a legjobban. Szerintem ez a lényeg, hogy a végére csak tanuld már meg.
+
+    Felsőbb évesen klinikai tárgyaknál megintcsak vacak na ott mindenkinél át lehet menni csak van aki "áá az csak mosolyog sztem nem is ismer más jegyet csak az 5öst" és van aki azért scak húzat tételt és megkérdezi. Ha csak egyszer mehetek el akkor mák az egész. Jelzem utána ebből nézik az ösztöndijadat.
+
+    A többször vizsgázás kell, szerintem esélyt az arra, hogy ha ellinkeskedtél valamit azért scak belehúzz a végére, és kicsit egyenlőbb lesz a random tanár hozáállás miatt. Az se rossz, hogy enm vehetsz fel egy tárgyat 200szor ha enm megy nem megy azert 2-3 ujrafelvétel az 6-9 vizsga ha addig nem megy akkor tán nem ide kéne járni.
+- id: 2221
+  author: Gizurr
+  date: '2010-10-23 18:57:22 +0200'
+  date_gmt: '2010-10-23 16:57:22 +0200'
+  content: |-
+    Az egesz egy bonyolultabb ugy szerintem Mo.-n. Jomagam ugy latom, hogy mindenfele keppen csokkenteni kell a vizsgak szamat, de ennek egyutt kell jarnia a "tul kemeny" vizsgaztatas tradiciojanak eltorlesevel is.
+    Amugy az egesznek nagyon kis koze van a targyak egymasra epulesere (mind Japanban es Angliaban vannak targyak amik egymasra epulnek, szoval ez sem mentseg), inkabb a szamonkeres kovetelmenyeivel es modjaval vannak gondok. Mo.-n is meg kellene ertenie az egyetemeknek, hogy attol hogy bemagolsz vlmit meg nem leszel jobb tanulo es nem fogsz a vilagban elobbre jutni (nem csoda hogy annyira rosszul allnak a magyar egyetemek vilagviszonylatban). Mitobb, ahogy hallom ahogy a szigorlatok es vizsgak zajlanak az mas orszagban szemelyisegi jogokat sertene. Az egesz rendszer valtozasa szukseges.
+- id: 2222
+  author: Komaváry
+  date: '2010-10-24 04:20:52 +0200'
+  date_gmt: '2010-10-24 02:20:52 +0200'
+  content: |-
+    Jelentem, nálunk az alapbeállítás a vizsga és pótvizsga. Van, aki ettől eltér (pl. nincs vizsga, vagy csak egy van - ez utóbbi szaktantárgynál egyszer fordult elő, vagy akár van szaiszaiszaisiken is.), de ez inkább kivétel.
+
+    Szerintem elég rossz befektetés valakinek mondjuk négy éven át fizetni a taníttatását, és utána kirúgni. (Japánban az állami egyetemek is fizetősek, és ha csak egy kredit is hiányzik, akkor is féléves díjat fizet a diák, nem kreditnyit.)
+- id: 2223
+  author: VladDracul
+  date: '2010-10-24 11:23:04 +0200'
+  date_gmt: '2010-10-24 09:23:04 +0200'
+  content: |-
+    Ennyire sztem nem is egyzseru arrol az oldalrol sem. Van vizsga ami még ha nem is kerdeznek nagyon szemet modon is nehez. Szerintem ezzel nincs is baj (foleg h tul vagyok rajta). Nem kell hinni mondjuk midnen sirankozasnak sem hogy mennyire gonoszak a vizsgaztatok, nekem ha 1 ilyen elmenyem volt ahol megvagtak pedig...
+    A gyakorlati oktatasunk fos nekunk is de az meg nem a vizsgazason mulik. Ahhoz sokkal kevesebb ember kene az egyetemre, lelkesebb tanarok neha es főleg sok pénz. De mivel az egyetemnek a letszamban van a penz nem egyszeru a megoldás.
+    Amit pedig meg ensem tudok, hogy vegulis mennyi gyakorlat kene egyaltalan. Orvosira specifikusan lehet hogy valoban nem az egyetem alatt kene a gyakorlat, csak latni kellene dolgokat hogy jobban meg tudjuk jegyezni, és egy normalis rezidens kepzes kene ahol tenyleg fogjak a kezed az elejen. Valszeg lehetetlen gyakorlatot szerezni mindenbol, ha meg midnenki csak a sajat erdeklodesi koret szeretne azt meg megszervezni halál.
+    Én ennyire nem neznem le a sajat rendzezrunket, nagyon jo szakembereket kepeznek felénk tudtommal.
+- id: 2224
+  author: Gizurr
+  date: '2010-10-24 13:01:27 +0200'
+  date_gmt: '2010-10-24 11:01:27 +0200'
+  content: |-
+    Szerintem itt tegyunk kulonbseget vizsga-potvizsga rendszer (csak ha megbuksz egy targybol) es egy olyan rendszer kozott ahol kb4-5szor is elmehetsz vizsgazni (vlmlyen szinten potvizsgara mindenhol adnak lehetoseget).
+
+    Vladdracul-lal pedig teljesen egyet ertek, hogy tobb penz, kevesebb diak (nem is tudom miert kellene mindenkinek egyetemre jarnia, Angliaban is a diplomasok iranyszama asszem a lakossag 50%-a volt, amivel csak azt ertek el hogy rettentoen sok diploma elertektelenodott) es lelkesebb tanarok kellenek a felsooktatasba (es jobb szabalyozas is ehhez). Ezt meg kiegeszitenem azzal hogy Mo.-n kevesebb egyetem is kellene, foleg ha belegondolunk hogy most tobb egyetem van Mo.-n mint Ausztraliaban vagy Kanadaban.
+
+    Az orvosi oktatasrol annyit tudok hogy UK-ban igyekszenek minnel elobb betenni az embert klinikai kornyezetben (fokozatosan novekedo mennyisegben ugy hogy az utolso 2ev mar csak korhazban van). Jomagam ugy vagyok vele, hogy ilyen fajta gyakorlatra szukseg van, foleg ha beteg emberekkel foglalkozik az ember. Rezidencia megint mas kerdes elvegre ha elvegzed a magyar egyetemet el tudsz menni pl Angliaba is rezidenciara (ha jol tudom itt rotaciokban van az elso ket ev - 6honaponkent - sebeszet, belgogyaszat...). :) Nem tokeletes megoldas de nem hinnem hogy a magyar rendszer gyorsan megvaltozna (csak egy kiteres, beszeltem szerb orvoshallgatokkal es ott sem jobb a helyzet, foleg hogy pl Belgradban akarsz menni rezidenciara akkor sok esetben neked kell fizetni erte, kesz rohej :I).
+
+    Amugy azt elismerem hogy nehany szakteruleten viszonylag! jo szakembereket kepeznek Mo.-n (pl orvosi), de azert a legtobb esetben ez sem vilagszinvonal es ugy erzem le kellene szamolni azzal az illuzioval hogy Mo. vezeto szerepet tolt be oktatasban-kutatasban. Ne felejtsuk el ha Nobel dijasokat is felhozzuk, hogy az egesz viszonyitas kerdese - tobb Nobel dijasunk van (akik kulfoldon ertek el az eredmenyeket es valszeg nem is valljak magukat magyarnak) mint pl Ausztralianak, de masik oldalrol aranyosan sokkal kevesebb van mint Anglianak v Fro.-nak, ne csak egyfelol nezzuk a dolgokat. :)
+- id: 2225
+  author: Komaváry
+  date: '2010-10-24 18:01:01 +0200'
+  date_gmt: '2010-10-24 16:01:01 +0200'
+  content: Arról sem érdemes elfeledkezni, hogy Japánban szinte ismeretlen a szóbeli,
+    Magyarországon meg a 4-5-szöri vizsgázás egy vizsgaidőszakban szinte tuti, hogy
+    szóbeli. És itt már nagyobb szerepet kap a személyes rokon/ellenszenv.
+---
+
+Hallgatói körökben nagy a felzúdulás a tervezett új oktatási törvény azon részével kapcsolatban, amely [korlátozná a vizsgázási és tárgyújrafelvételi lehetőségeket két-két alkalomra](http://index.hu/belfold/2010/10/22/uj_felsooktatasi_torveny).
+
+Nos, léteznek ennél szigorúbb rendszerek is: **Japánban egy, azaz 1 alkalommal lehet valamiből vizsgázni.** Ha elkéstél, elfelejtetted, aznap negyven fokos lázad volt, vagy csak nem tudtál készülni, akkor bizony rossz neked. Nincs utóvizsga. Súlyosbítja a helyzetet, hogy **a vizsgaidőpontot a professzor jelöli meg, és nincs lehetőség több opció közül választani**. Előfordul így, hogy egy-egy napon több (adott esetben nagyon nehéz) vizsgája is van a diáknak. A vizsga után reklamációnak kevés esetben adnak helyet. (Értsd: soha.)*
+
+Ezzel szemben **arról, hogy hányszor próbálkozik valaki egy tárggyal, nincs szabályozás** , valamint **nem nagyon jellemző a tárgyak egymásra épülése sem**. Például a Magánjog A vizsga nem megléte nem akadályozza a Magánjog B felvételét. (Más kérdés, hogy aki nem vizsgázott le az A-ból, annak nagyon meg kell majd küzdenie, ha át akar menni a B-n.)*
+
+Nem szeretném letenni a voksom egyik rendszer mellett sem, viszont azt sem gondolom jónak, hogy - intézménytől függően - tucatszor is lehet akár egy tárgyból vizsgázni, ha valaki minden alkalmat kihasznál. Könnyen elvesztheti a komolyságát így az egész felsőoktatás.
+
+* Ezek konkrét példák a Kobe Egyetemről. Annak utána kellene járni, hogy mekkora szabadsága van az egyes intézményeknek a saját szabályozásukban. Személyes beszélgetéseim alapján a fentiekhez hasonlóan működik az összes (állami) japán egyetem.

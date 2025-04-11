@@ -1,0 +1,40 @@
+---
+layout: post
+title: Hong Kong - revisited
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2006-01-25 17:15:05 +0100'
+date_gmt: '2006-01-25 08:15:05 +0100'
+tags:
+- Travel
+comments: []
+---
+
+Csak egy kicsit késtem el ezzel a bejegyzéssel. Viszont a képek már egy ideje fent vannak az oldalon jól elrejtve, valamint az ember sokmidnent megtesz, hogy ne kelljen tankönyvet olvasni.
+
+Tehát hazafelé menet megálltam Hong Kongban. Itt hívom fel a figyelmet, hogy a hong kongi légitársaság, a Cathay Pacific, rögtön az élére ugrott és magasan vezeti a légitársaság-toplistám. Mellesleg ők a 2005-ös év légitársasága is. Saját monitorom volt választható filmek garmadájával, nagyon finom kaják és láthatóan _carefully selected_ légikísérők. Már az Osaka (KIX) - Hong Kong (HKG) négyórás útra is 747-es Boeinget használtak, ami nagyon dicséretes, tekintve hogy az Airbusok szűk kicsi gépek, amiket be kellene tiltani hosszú útra...
+
+Már a hong kongi repülőtér egy szuper hely. Bár ezt csak hazafelé vettem észre, de a várakozóhelyek úgy vannak kialakítva, hogy a padlótól a palfonig üvegfal keríti őket, így a várakozó utas nézheti, ahogy bepakolják a gépet. Mindez Frankfurt vagy Heathrow gradiozitásával párosul. Gondoltam a reptéren hagyom a nagybőröndöm, úgyse kell alapon, de enyhén sokat kértek a megőrzésért, úgyhogy inkább magammal húztam. Következő harci feladatként be kellett jutnom a hotelig. Az automatánál nem találtam a megfelelő jegyet, amit kinéztem, így végül az Asia World Expo információs pultjánál kötöttem ki. Döntésemnek oka az a csinos kínai lány volt, aki láthatóan ott unatkozott. Gondoltam (japán beidegződés) hogy majd elzavar, hogy ez nem az ő feladata, és elirányít a megfelelő információs pulthoz, de nem ez történt. Természetesen akcentus nélkül, gönyörűen beszélt angolul. Megvitattuk, mi lenne a legelőnyösebb útbonal a hotelemig, leírta a címet kanjikkal ha eselteg taxiznék. Kiderült, hogy mandarin és kantoni kínait is beszél, sőt némi japánt is. (Ezzel leverte Japán népességének 99.9%-át) Ilyen recepciót elfogadnék bárhol azt hiszem, megadta az alaphangulatot Hong Konghoz.
+
+Következő csoda az Airport Express. Összeköti a repülőteret (és az Expot) a belvárossal. Belülről oylan, mint egy shinkansen, csak épp itt is van minden ülés háttámlájában képernyő friss hírekkel, repülőtéri információkkal, Hong Kong térképpel, stb. Az összes információ angolul is bemondásra kerül, ahogy mandarin és kantoni nyelvjárásban is. (Hong Kong hivatalosan kantoni nyelvjárást beszél - valamint az angol uralom öröksége az angol mint hivatalos nyelv.)
+
+Mint a recepciós lánykától megtudtam az Airport Expresshez ingyen (!) buszjáratok társulnak a nagyobb hotelekhez. Az enyém nem volt "nagyobb hotel" de szerencsére központi helyen volt, egy megálló ingyenbuszra. Amúgy ha már közlekedés: úgynevezett _Octopus Card_ -ot lehet használni a városban. Ez jó a metróra, ami itt MTR (Mass Transit Railway) néven fut, valamint lehet vele fizetni (!) a _convinience store_ -okban, MCDonaldsban, a legtöbb buszon, a _ferry_ -ken, villamoson... Olyan, mint egy feltöltőkártyás mobil, automatáknál lehet rá pénzt feltenni. A fizetés érintőpanelen történik, azaz az ember belesuvasztja a pénztárcsájába, majd fizetés helyett rátapasztja a pénztárcát az érzékelőre. High tech. Imádtam az Octopus kártyát. (Az enyém oylan volt, hogy 300HK$ árért kaptam egy oda-vissza Airport Express utat, 20HK$ lehasználható egyenleget és 3 nap ingyen MTR-közlekedést. Tetszik ezt hallani japánok?? Itt 1800JPY egy buszút a reptérre - a vonatról ne is beszéljek. Váltás: 1HK$=15JPY=30HUF)
+
+A hotelemet elsőre nagyon nehezen találtam meg, mert renoválták és az egész be volt borítva zöld hálóval. Újabb fun dolog: Hong Kongban a toronyépítésekkor is bambuszt használnak állványzatnak. Jóféle tartós cucc lehet. Hotelben újabb meglepetések persze, például, hogy letétbe kell helyeznem egy kisebb vagyont (Utólag azt mondom annyiból az egész szoba berendezését meg lehetett volna venni.) Valamint jól elszégyellhettem magam, amikor a csomagomat szállító boy megállt az ajtóban... nálam meg volt két százdolláros. Kissé overkill lett volna, úgyhogy habogtam valamit neki, mire elment. Biztos szerettek a hotelben eztán. :)
+
+Első nap elmentem felfedező sétára. Az MTR megállómat Jordan-nek hívták, de létezett Prince Edward állomás is például. Az angolok tényleg jól megvettették itt a lábukat láthatóan. Kedvencem, hogy a sok angol nevet mind leírják kiejtés szerint kanjikkal. (A kanjikat persze nem kanjinak hívják, de az egyszerűség kedvéért ennél az elnevezésnél maradok.) Jártamban keltemben például észrevettem, hogy a taxikon a _teki_ és a _shi_ kínai olvasatú jelek vannak. _Tekishi_? - morfondíroztam, míg végül jött a homlokracsapós felfedezés, hogy ez a taxi kiejtés szerinti leírása! (Igen kissé lassú voltam.) Magdi-sempaisama elmondása alapján a kínaiak - katakanájuk nem lévén - egy szett kanjit használnak olvasat lapján történő leírásra. Nagyon nagy ám Harry Potter filmplakátokat látni teljesen kínaiul. Oh, és másik felfedezésem, hogy sokaknak van angol nevük (is?): bemenve egy MCDonaldsba például a felszolgálók mind Judyk, Susanok, Lindák, stb. Amikor egymással beszéltek, hallottam, hogy eléggé elkínaisítva, de tényleg ezeken a neveken hívják egymást.
+
+Ha már nyelvek. nem tudom, mennyire volt köszönhető a WTO miniszteri konferenciának, de rengeteg angol beszédet hallottam. Még konferenciabilétát nem viselő, láthatóan kínai sétálgatók is egymással angolul beszéltek, vagy sokszor valami oylan keveréknyelven, ami alapvetően kínai de rengeteg angol szó volt benne. Paradicsom kéremszépen, olyan ország után, ahol könyörögni kell a népnek, hogy beszéljenek velem japánul, mert az én japánom jobb, mint az ő angoljuk.
+
+Más a légkör is. Valahogy felszabadultabbnak tűnnek az emberek. A japánokban sokszor van valamiféle apátia vagy elfojtott érzésekből eredő frusztráció. (Szerintem.) Az idegenekkel is kedvesebbnek tűnnek a hong kongiak, illetve ha valakinek nem voltam szimpatikus, azon látszott - Japánban az ilyesmit művészet felfedezni, mert mindenki mosolyog. Oh, és igen. Végre _jólöltözött_ emberek jöttek velem szembe az utcán, elenyésző hányaduknak volt rövidnadrágja térdzoknival és zöld alapon lila pöttyös kabáttal. Véletlenszerű mintavételi eljárással felmért lányok alapján azt is merem állítani, hogy szebbek a japánoknál. (A felmérés kizárólag látószervi megfigyelésre korlátozódott - ruhában.)
+
+Első napi sétálásom eredményeképp megtekintettem az _Avenue of Stars_ -t, ahol a hong kongi filmművészet nagyjainak betonba ágyazott kézlenyomatait lehet nézegetni, valamint csodálatos kilátás nyílik a világhírű Hong Kong _skyline_ -ra. (Ez egy elég lefordíthatatlan szó.) A dolog úgy néz ki, hogy a csillagok sétánya a Kowloon-félszigeten van (Itt volt a hotelem). A kanjik szó szerint azt jeletik: kilenc sárkány. A felhőkarcolók a Hong Kong-szigeten vannak. A város két felét a _Star Ferry_ nevű kompok kötik össze. és persze a piros MTR vonal is átmegy a szoros alatt, hogy csatlakozzon a kék HK-szigeti vonalhoz.
+
+A sétány este gyönyörű, szól a zene, az emberek kijönnek beszélgetni, pattogatott kukoricát és vattacukrot enni. Ilyen mindenféle emberi dolgot csinálni, amit a japánok nem szoktak. Sokan fényképezik a kivilágított HK szigetet. Valamint vannak (*gasp*) sétáló szerelmespárok is. A figyelmes szemlélő pedig észreveheti, hogy az útba apró színes lámpácskákat szereltek, mintha csillagporral lenne felszórva a sétány.
+
+Itt a parton van a hong kongi planetárium, űrmúzeum és mozi is. A planetárium részlegben megnéztem egy a kupolára vetített az emberi testről szóló filmet, amit a BBC csinált. Itt történt meg, hogy egy órával korábban jelentem meg a vetítésre, mivel a telefonom alapján tájékozódtam, és az a japán időre volt ugye állítva.
+
+(Ezen a ponton fáradtam ki végleg. Kissé sok a mesélnivaló, és az ember mindent részletesen el szeretne mondani. Szóval folytköv. Addig is elérhetővé tettem a [képeket](http://sesam.hu/.gallery/hk) végre. :))

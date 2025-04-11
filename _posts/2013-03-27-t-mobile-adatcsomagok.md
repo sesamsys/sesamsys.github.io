@@ -1,0 +1,68 @@
+---
+layout: post
+title: T-Mobile adatcsomagok
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2013-03-27 13:19:56 +0100'
+date_gmt: '2013-03-27 12:19:56 +0100'
+tags:
+- data
+- Hungary
+- internet
+- QQ
+- T-Mobile
+- Tech &amp; Gizmos
+comments:
+- id: 10694
+  author: Youkai
+  date: '2013-03-27 14:17:34 +0100'
+  date_gmt: '2013-03-27 13:17:34 +0100'
+  content: "Megnéztem én is gondolom a legkisebb like csomagod van meg a Net az cirka
+    3800 Ft kerekítve 4k :)\r\nEz alatt nem úszod meg. Opciós lehetőség ha szifonod
+    van egy  ikon csomag, de az is 6k mondjuk az LTE is ennyi.  Én annyival vagyok
+    bentebb, hogy céges előfizetésem van de bosszantó, hogy kiszámláznak nekem 3k
+    arra, hogy alig beszéleg vagy a zárt csoporton belül dumálok, az meg nulla forint.
+    Ha nem mész el nagyon a 3 G alól akkor lehetne játszani azzal, hogy kérsz egy
+    adat csomagok és voip-el telefonálsz kifelé, befelé meg lehet hívni téged, meg
+    te is tudsz telefonálni adatcsomagról is de kb 1998-as árakon. Egy okostelefonnal
+    meg egy kis odafigyeléssel megoldható. Bár akkor sem lesz olcsóbb sokkal... Net&amp;Roll
+    XS 3200 Ft, kb havi 600 Ft-ról beszélünk.  Ahogy nézem akkor kb 750 mega körül
+    forgalmazol, ha ezt moziakban akarok az 8600, akkor már inkább az ikonikus ikon.
+    Szerintem ha bemész egy központi T-pontba, vagy otthon ahol van ismerős s szépen
+    mosolyogsz akkor megkapod az ikont akkor is ha nem a t-től vetted a szifont...(
+    Jah meg barátnő, csajozni kell s akkor meg a percdíj lesz kevés( főleg ha a kapcsolat
+    is távolsági)  tapasztalat (huh de régen volt az is istenem  :S )"
+- id: 10696
+  author: Youkai
+  date: '2013-03-27 14:25:53 +0100'
+  date_gmt: '2013-03-27 13:25:53 +0100'
+  content: Jah, ez még lemaradt, ha van a cégnél vagy ismeretségi körnél akkor lehet
+    próbálkozni a flottás csomagokkal... vannak BM és honvédségi csomagok amik nem
+    publikosak, (elvileg családtagoknak is), ahogy pártcsomagok is minden szolgáltatónál,
+    erről is a helyi illetékes elvtárs/ elvtársnő tud beszámolni. :P
+- id: 10701
+  author: SeSam
+  date: '2013-03-27 19:59:33 +0100'
+  date_gmt: '2013-03-27 18:59:33 +0100'
+  content: Nem akarok én mutyizni, a víz is kiver az ilyen megoldásoktól, inkább csak
+    szomorúnak gondolom, hogy itt tartunk.
+---
+
+Ma reggel a HÉV-en megint a "Tàjékoztatjuk, hogy adatforgalma elérte a csomagjàban foglalt mennyiséget."1 SMS fogadott a T-Mobiletól. Igaz, ilyenkor nem kapcsolják ki teljesen az adatot, de a 32 kbps annyira semmire sem jó, hogy egy-egy 4sq checkin is fizikai fájdalmat tud okozni.
+
+Ok, kicsit túl gyakran fordul ez elő, ami azt jelenti, hogy nagyobb adatcsomagra lenne szükségem. Csakhogy ezt nem lehet! A legnagyobb csomagom van így is, a Go!Net L, 500MB. Minden más [több adatot magában foglaló ajánlatot](http://www.t-mobile.hu/lakossagi/mobil_szelessav/tarifak) hang díjcsomaghoz nem adnak oda, [mint arról már mások felháborodottan beszámoltak](http://www.wikitech.hu/mobil/2013/02/28/a-t-mobile-kinyirta-a-mobilos-mobilnetet).
+
+Természetesen vanak a Mozaik csomagok, amikben viszont annyi beszélgetés van, amennyit én egy év alatt sem használnék fel. Illetve abban sem vagyok biztos, hogy ezeket nem csak új készülék vásárlásával lehet-e igénybe venni.
+
+Már épp elkezdtem volna arról is panaszkodni, hogy lekorlátozáskor nem lehet extra netet igényelni a fennmaradó időszakra, amikor felfedeztem, hogy a Like díjcsomagomhoz pont van ilyen, a [Net&Roll 200](http://www.t-mobile.hu/lakossagi/mobil_szelessav/tarifak/net_roll_limitbovites/net_roll_limit_200mb). Megrendelés után jött az SMS, hogy aktiválták, majd pár másodperccel később a szokásos lekorlátozásról szóló értesítő, mintha el is használtam volna azon nyomban.
+
+Hívtam a 1430-at, egy laza ötperces menüben bóklászás után eljutottam az ügyintézőhöz, aki először is közölte, hogy adatkarbantartás miatt nem látja a csomagom információit. Amúgy is elég fogalom nélküli volt a problémámmal és a csomagokkal kapcsolatban. Azt is megtudtam tőle, hogy ilyenkor az ügyfélszolgálatnak nincs kapacitása mindenkit visszahívni. Végül tíz perc után csak kiderült, hogy állítólag le lett véve a korlátozás a számomról, az ellenkezőjéről szóló SMS csak valami tévedés lehetett. A végén még a nő — leesett az állam — el akart adni valami dallamcsengőhangos szolgáltatást. Elképesztő volt, háromszor mondtam el, hogy nem érdekel, de csak végigtolta.
+
+Mindenesetre ebédre menet közben kirpóbáltam a netet, és valóban levették a korlátot. Öröm, boldogság, csak a rendszer ne hazudna róla, meg tényleg ne így kelljen már összelegózni egy normális mennyiségű adatforgalmat. Azt hiszem, nem véletlen, hogy [gyászosan állunk](http://index.hu/tech/cellanaplo/2013/03/04/halott_a_magyar_mobilnet) mind árban mind penetrációban. Kísértetiesen hasonlít ez a néhány évvel ezelőtti szélessávú internet helyzetre.
+
+**Update:** Pont ma élesedett az Index új cikke is, [Ezért drága a magyar mobilinternet](http://index.hu/tech/cellanaplo/2013/03/27/meg_keszul_nincs_penzunk_mobilinternetre).
+
+1 Igen, 2013-ban Magyarország vezető mobilszolgáltatója ilyen á betűkkel küld SMS-t.

@@ -1,0 +1,50 @@
+---
+layout: post
+title: törékeny dolgok
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2007-07-11 02:58:02 +0200'
+date_gmt: '2007-07-10 17:58:02 +0200'
+tags:
+- Books &amp; Literature
+comments:
+- id: 710
+  author: Nó
+  date: '2007-07-11 22:21:09 +0200'
+  date_gmt: '2007-07-11 13:21:09 +0200'
+  content: |-
+    Sajna minden elmúlik egyszer. Rám is rámjött nemrég a borús nosztalgia, pedig nekem aztán alig van okom rá. Iwiw-re is felraktam egy képet. Kb. 6 éves önmagam és életem eddigi legszeretettebb kutyája van rajta, akkor még kölyökként. A kép címe az lett, hogy 'Halottak'. Nos, a kutyám azóta valóban meghalt, de vele együtt halt a gyerekkori énem is. Máig siratom mindkettőt.
+
+    (A szomorú hangnem tán azért van, mert beteg vagyok.)
+
+    Egyik éjszaka visszaolvastam sesamhu-n, és azt a régi bejegyzést találtam, hogy azért (is) szeretsz angolul írni, mert így az ember olyan dolgokat bír kifejezni, amiknek leírásába saját anyanyelvén belepirulna. Ezt felejtsd el. Ez a bejegyzés igazán szép lett. És fel a fejjel. És olvass sokat helyettem is.
+- id: 711
+  author: zsuzska
+  date: '2007-07-15 07:18:31 +0200'
+  date_gmt: '2007-07-14 22:18:31 +0200'
+  content: 'Most eppen sokkal jobban esett ilyen elvarazsolt-rajongo "kritikat" olvasni,
+    mint a "jozanabbat" (http://isoldeolvas.freeblog.hu/archives/2007/). A szep pedig
+    a dolog termeszetebol fakadoan az, hogy nem kell igazsagot tenni. Ahogy a gimis
+    irodalomtanárunk mondta: "Nincs ott a helyes valasz a tankonyv vegen".'
+---
+
+Kiskoromban minden este olvastam. (Kiskoromban - emlékszem mennyit kacagtunk amikor öcsém vagy tízévesen átvette tőlem ezt a szófordulatot.) Persze akkor nem volt számítógép a házban. Órákat hasaltam az ágyon és apa négy gerezdre vágott almát, megpucolt narancsot, szelet csokit hozott csemegének. Több könyvem volt általános iskolásként, mint az összes osztálytársamnak együtt. Az Usborne enciklopédiámnak leszakadt az elő- és hátlapja a sok forgatástól. _Voracious._
+
+Mostanában kezdem elfelejteni, milyen a papír illata. Nem nézek fel egy-egy fejezet végén a semmibe merengve. Na meg almát sem hoz senki, ha én nem készítek magamnak.
+
+_Fragile Things_. Az angolja valami gyönyörű. És mint az ogrék: réteges. Az irodalomórán megtanult csattanó itt nem csak szimbolikus, majd' kiszakítja a padlót. Vannak könyvek, amiket úgy olvasok, hogy közben kitörhetne a harmadik világháború, nem venném észre. Ez viszont az a fajta, amelyikből néha bekezdésenként fel kell nézni levegőért. Nagyon sajnálnám a borítóját, mert szegény paperback, a csillogó levéllel az elején.
+
+A hátlapon ez áll:
+
+_Let me tell you a story._  
+_No, wait, one's not enough._  
+_I'll begin again..._
+
+_Let me tell you_ stories _of the months of the year, of ghosts and heartbreak, of dread and desire. Of after-hours drinking and unanswered phones, of good deeds and bad days, of trusting wolves and how to talk to girls._
+
+_There are stories within stories, whispered in the quiet of the night, shouted above the roar of the day, and played out between lovers and enemies, strangers and friends. But all, all are fragile things made of just 26 letters arranged and rearranged to form tales and imaginings which will dazzle your senses, haunt your imagination and move you to the very depths of your soul._
+
+Egy szó sem túlzás.

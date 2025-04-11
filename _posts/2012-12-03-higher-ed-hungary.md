@@ -1,0 +1,18 @@
+---
+layout: post
+title: Higher Ed, Hungary
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2012-12-03 21:08:13 +0100'
+date_gmt: '2012-12-03 20:08:13 +0100'
+tags:
+- Hungary
+- university
+- Corvinus
+comments: []
+---
+
+Recently got a message from the university informing the student body that due to the budget lockup the aim of which is to cut down operational costs all the campus buildings will be closed between 22 December and 6 January. Signups for exams in this timeframe will be deleted and the affected students will need to reapply. [Just another day in Hungary.](http://www.bbc.co.uk/news/world-europe-19213488)

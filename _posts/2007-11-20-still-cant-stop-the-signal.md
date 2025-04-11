@@ -1,0 +1,60 @@
+---
+layout: post
+title: still can&#039;t stop the signal
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2007-11-20 00:30:02 +0100'
+date_gmt: '2007-11-19 15:30:02 +0100'
+tags:
+- freedom
+- index
+- information
+- piracy
+- raid
+- revolution
+- torrent
+- twa
+- Law
+comments:
+- id: 939
+  author: Ardin
+  date: '2007-11-20 02:38:41 +0100'
+  date_gmt: '2007-11-19 17:38:41 +0100'
+  content: Röviden szólva teljesen egyetértek veled :)
+- id: 940
+  author: Youkai
+  date: '2007-11-20 08:02:14 +0100'
+  date_gmt: '2007-11-19 23:02:14 +0100'
+  content: Ok, forradalom... de mivel robbantsunk ? :D Esetleg "mulatós Technó" vagy
+    teknő lemezekkel kéne kifüstőlni őket :)
+- id: 941
+  author: foodlfg
+  date: '2007-11-21 03:44:06 +0100'
+  date_gmt: '2007-11-20 18:44:06 +0100'
+  content: |-
+    Yep
+
+    Az a jó a p2p-ben, hogy az emberek egy olyan eszközt kapnak a kezükbe, amivel könnyen függetlenedni tudnak (ebben az esetbe) a kiadóktól. Pistike kicsúszik az irányításuk alól. Ez van. Ehhez előbb vagy utóbb alkalmazkodniuk kell.
+    Tök jó hogy mi részesei lehetünk ennek a folyamatnak. Majd az unokáinknak mesélhetünk a web 2. forradalmáról. Bár lehet hogy ő már ezt nem nagyon fogja érteni.
+    Nem tudom, hogy mi lesz a következő lépcsőfok, de én már nagyon kíváncsi vagyok rá. :D
+    (nem biztos hogy örülni fogok neki, de majd meglátjuk)
+---
+
+TWA most olyasmihez nyúlt, amihez - szerény véleményem szerint - nem ért. Vagy csak rosszul látja a dolgokat: [Lopók között szegényember](http://w.blog.hu/2007/11/19/lopok_kozott_szegenyember).
+
+A legnagyobb baj az, hogy warez címszó alatt szépen egyenlőségjelet tett a fizetős ftp / SMSweb és a torrentoldalak közé. Ugyanis abból, hogy valaki torrentszervert üzemeltet az esetleges GoogleAds bevételen kívül egy fillér nem sok annyi pénze sem lesz. Mi több, a torrent mint technológia nem is illegális - annak ellenére hogy sokan szeretnék annak beállítani. A torrentszerver üzemeltetése sem ütközik törvénybe amennyiben nem tartalmaz jogvédett anyagot. (Márpedig miért tartalmazna.) Tehát a _"Pedig tisztában vagyok vele, hogy egy komoly warezszerver milliókat termel havonta, és a tulajdonosa orgazdaságból gyarapodik."_ nagy csúsztatás. A fizetős ftp meg SMSweb az igen... de a torrent nem. A torrent esetében a felhasználók a saját internet-előfizetésüket, sávszélességüket áldozzák be, és az adat nem egy központi szerverről érkezik a letöltő gépére, hanem a többi hasonszőrű letöltő gépéről.
+
+És akkor ismét megkérdezem: honnan szerezze be az ember legálisan azokat a ritka vagy már nem forgalomban lévő albumokat, amelyeket egyetlen hazai lemezboltban sem lehet kapni? (Nem mindenki akar feltétlenül mulatós technot hallgatni.) Hol nézzem meg a Grey's Anatomy vagy a Prison Break legújabb részét? Mit tegyek ha a gagyi városi mozi minden filmet csak szinkronosan hajlandó vetíteni?
+
+Lehetett azt mondani, hogy kisfiam, így jártál. Tíz éve. De ma az a helyzet, hogy kész a technológia, ami megengedhetné, hogy hozzájusson bárki a fentiekhez. Legálisan alkalmazható technológia. Csak nem alkalmazzák...
+
+A másik oldala a dolognak pedig nyilván az, hogy az ember nem feltétlenül örül annak, hogy a Sony Music igazgatójának shibuyai lakását az ő "jogdíjából" fizetik. És persze _"Ettől még a warez lopás."_ , de mégsem ugyanaz. Annyiban igaz, hogy a letöltött album után a zeneszerző nem kap pénzt, de az is igaz, hogy 1) valószínűleg ha nem lenne letölthető attól még nem venné meg az egyszeri Pistike 2) lehet, hogy Pistike pont a letöltött CD miatt szereti meg az együttest, és megy el a banda koncertjére vagy veszi meg az új albumot immár legálisan. Túl összetett ez a kérdés ahhoz, hogy feketén-fehéren lopásnak nevezzük. Annyi bizonyos, hogy törvénybe ütköző.
+
+A fentiek mellett a lopás analógiájának érvényességét nagyban rontja, hogy amennyiben én ellopok egy kabátot teszem azt, akkor a kabát eredeti tulajdonosa kabát nélkül marad. Egy CD lemásolása esetén viszont mindkettőnknek meglesz ugyanaz a zene. Az új információ előállításának határköltsége nulla. Ehhez a nullához képest baromi sokba kerülnek a CD-k.
+
+> A warez nem szabadságharc, és nem is a jövő. A warez szükségmegoldás, döglöttló-zabálás ostrom idején. Nincs filozófiája, akárhogy is igyekszik néhány túlmozgásos idióta, hogy ráhúzzon valami kollektivista hagymázat. A szellemi tulajdon ki nem fizetésének prófétái hamis prédikátorok.
+
+Szerintem pedig a torrent igenis forradalom. Igenis korlátozva van az információ szabad áramlása (emlékezzünk a sorozatepizódokra), annak ellenére, hogy a technológia megengedhetné, hogy mindenki hozzájusson. És ha erre van szükség, hogy azokat, akik a rendszerbe szépen beágyazódva ezen a korlátozáson szedik meg magukat kirobbantsuk, ám legyen.

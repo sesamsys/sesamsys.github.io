@@ -1,0 +1,69 @@
+---
+layout: post
+title: Telefonnal fizetni
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2010-11-11 14:15:03 +0100'
+date_gmt: '2010-11-11 13:15:03 +0100'
+tags:
+- Hungary
+- MÁV
+- mobile
+- mobilfizetés
+- T-Mobile
+- telefon
+- Telenor
+- Tech &amp; Gizmos
+comments:
+- id: 2250
+  author: human
+  date: '2010-11-11 14:43:49 +0100'
+  date_gmt: '2010-11-11 13:43:49 +0100'
+  content: azt sem érteni, hogy külön aprópénzes kártya miért nincs még, érinted és
+    fizetsz módszerhez, hiszen ha nem fogod a pénzt akkor könnyebben költöd, főleg
+    ha nem a fő számlád hanem csak"az apró 5-10 ezer forintos"
+- id: 2251
+  author: sld
+  date: '2010-11-11 14:48:34 +0100'
+  date_gmt: '2010-11-11 13:48:34 +0100'
+  content: |-
+    Mobil lobbi, remek.
+    Én ezt a rendszert vétóztam volna.
+- id: 2252
+  author: Youkai
+  date: '2010-11-11 22:46:30 +0100'
+  date_gmt: '2010-11-11 21:46:30 +0100'
+  content: |-
+    Megírtad emlékszem rá, akkor a jelek szerint az archívum a digitális vadászmezőkre távozott.
+    Amúgy emlékeim szerint a RF csipek is 2,4 gigaherz környékén működnek, ahogy na mi? Hát a wifi. Kérdésem már csak az, hogy miért nem ez irányba tapogatóznak felteszem csak egy szoftvert kéne írni ami kezeli a wifi-t s mondjuk tényleg leveszi a jel erősségét.
+    Amúgy a t-nél van mobil fizetés lottó/totó, autópálya matrica, de ezidáig nálam a kecskeméti vodafone üzlet kávé automatája volt a best egy sms és egy kód és adja a kávét. Amúgy most fatornyos kis "falumban" is kezdenek valami fejlesztésbe, kíváncsi leszek, hogy mi lesz belőle.
+    Amúgy ahogy látom, most már kezdesz visszaszokni a vadkeletre :)
+- id: 2253
+  author: SeSam
+  date: '2010-11-12 00:17:59 +0100'
+  date_gmt: '2010-11-11 23:17:59 +0100'
+  content: Az archívum megvan, csak semmilyen keresőszóra nem találtam meg. :]
+---
+
+Valamikor nagyon régen, amikor még PC-X volt a GameStar (talán), olvastam egy cikket arról, hogy a világ fejlettebb részein lehet mobiltelefonnal intézni a vásárlást: egyszerűen hozzácsapják az összegeket a mobilszámlához. Utópia.
+
+Mint kiderült, [ilyen van itthon is már](http://www.mobilfizetes.hu), sőt [a bevásárlást is lehet így intézni](http://www.origo.hu/techbazis/mobil/20101111-mar-a-bevasarlaskor-is-fizethetunk-mobillal.html).
+
+Ezzel kapcsolatban úgy emlékeztem, megírtam, hogyan működik a hasonló rendszer Japánban, de most nem találok ilyen bejegyzést. Lehet, hogy csak akartam...
+
+Szóval a második telefonomban volt egy külön chip, amivel lehetett fizetni is. Elég jól volt megoldva: a chiphez hozzá lehetett rendelni egy hitelkártyát (5 perces munkával, a telefon böngészőjén akár), amivel fel lehetett tölteni, majd levásárolni az összeget. Ha valaki nem akart kártyázni, akkor rengeteg elfogadóhelyen működtek terminálok, ahol a telefont az érzékelőhöz hozzáérintve elég volt csak beadni a gépbe a papírpénzt, és már meg is jelent a számlán. **A vásárlás** pedig mindössze annyi volt, mint a fenti terminálok esetén: **hozzáérintettem a telefont a kasszánál felszerelt érzékelőhöz. Csengetett picit, és kész.** Nagyon sok helyen lehetett használni: éjjel-nappalikban, moziban, élelmiszerboltban, Észak-Japánban pedig még a vasúton is.
+
+Ehhez képest a magyar rendszer horror: **ki fogja ezt használni?** Már a leszerződés macera, hiszen új számlát kell nyitni az FHB banknál. Ilyesmire biztosan sokan rávehetőek. Azután nézzük a fizetés menetét:
+
+> A MobilFizetés használata során a kasszánál nincs más dolgunk, mint jeleznünk a pénztárosnak, hogy MobilFizetéssel fizetünk, aki ezután a tranzakció elindításához elkéri mobilszámunkat, vagy MobilFizetés azonosítónkat. Az azonosító átadása akár egy vonalkód leolvasásával is megtörténhet, még tovább egyszerűsítve a fizetési folyamatot. Ezt a vonalkódot az ügyfelek a szerződéskötés után megkapják matrica formájában. A tranzakció elindítását követően kisvártatva megérkezik a MobilFizetés üzenet a készülékünkre, amelyet a MobilFizetésben már megszokott módon az "mSzámlánk" kiválasztásával, majd a szolgáltatáshoz tartozó PIN-kód (az úgynevezett mKód) megadásával saját mobilkészülékünkön hagyhatunk jóvá. Ezután a kassza kinyomtatja a blokkot, és már készen is vagyunk a fizetéssel. ([Origo](http://www.origo.hu/techbazis/mobil/20101111-mar-a-bevasarlaskor-is-fizethetunk-mobillal.html))
+
+Bediktálod a telefonszámod a pénztárosnak az egész sor füle hallatára. Életszerű, nem? Szóval legyen vonalkód, majd vársz az SMS-re, aztán pötyögsz autentikációs kódot, aztán vársz, amíg ez eljut a kasszáshoz is. Ez lenne az egyszerű és gyors folyamat? Így leírva nem is nagyon érthető szerintem. mSzámlánk kiválasztása? Akkor ez valami app?
+
+Emlékeztető: **hozzáérinted a telefont, csilingel, kész**.
+
+Azt írják, nem hosszabb, mint kártyával fizetni. Ezzel csak az a baj, hogy Magyarországon a legtöbb helyen a kártyás fizetés semmivel sem gyorsabb vagy egyszerűbb, mint a készpénzes. (Üdítő kivételek a MÁV jegyutomatái, ahol tényleg azonnali a tranzakció.) Inkább az van, hogy a pénztárosnő elordítja magát: _kártyázok!_ Mert egy telefonvonalon van az egész kasszasor. A cucc vonalra vár, betárcsáz, válaszra vár, épp csak a modemhang hiányzik a retro nirvánához. A szolnoki vasútállomáson legutóbb bevallották, hogy az állomás információs telefonszáma és a bankkártyás fizetés vonala egy és ugyanaz. Nem csoda, hogy nem lehet őket felhívni...
+
+És a legjobb: **vásárlásonként ez a tortúra 20 forintjába kerül** a telefonját a kasszánál villogtatni vágyónak, mert felszámolják az SMS díját. A bolondnak is megéri.

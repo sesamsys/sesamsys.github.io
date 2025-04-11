@@ -1,0 +1,83 @@
+---
+layout: post
+title: Miért rossz a PDF?
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2009-02-18 22:10:59 +0100'
+date_gmt: '2009-02-18 13:10:59 +0100'
+tags:
+- format
+- Hungary
+- ISO
+- nol
+- PDF
+- uj peter
+- Tech &amp; Gizmos
+comments:
+- id: 1764
+  author: Komavary
+  date: '2009-02-19 02:06:33 +0100'
+  date_gmt: '2009-02-18 17:06:33 +0100'
+  content: |-
+    "Egyszerű szövegfájl (txt)? Minimális formázási lehetőség azért csak illene."
+
+    Egy emailben?
+
+    Idézet a cikkből:
+
+    "A letöltött pdf-ben végül annyi információ volt, hogy február 16-ig kérhetem, hogy az adóhatóság készítse el a 2008-as adóbevallásomat."
+
+    Erre tényleg bőven elég a html, ha mindenáron letöltendő dokumentumot akarunk, rtf.
+
+    Szóval ügyesen átugrottál a ló túloldalára. (Az utolsó bejegyzés kivételével, bár ha a magyar ügyintéző egy dokumentumformát ismer, akkor a magyar internethasználó egy pédéefolvasót. )
+- id: 1765
+  author: Youkai
+  date: '2009-02-19 06:41:45 +0100'
+  date_gmt: '2009-02-18 21:41:45 +0100'
+  content: |-
+    Most Őszintén mit vártál??? A mai magyar informatikai fejlesztés egy vicc, az ügyfélkaput is beleértve. Múltkor kérdeztem a könyvelőmet, hogy hogyan tudok regisztrálni, az ügyfélkapun. Szerinted mit mondott ? Ha arra tippeltél, hogy el kell húznom, egy okmányirodába, s ott állnom kell 2 órát, majd ellenőrzik, hogy én vagyok-e én, majd adnak egy regisztrációt, akkor jól tippeltél, azt nem lehet, hogy beírom az adataimat, esetleg regisztrálok, s küldenek egy pin kódot az ügyfélszolgálatra, amit felvehetek, ha azonosítottak.  Az elektronikus aláírást, az elektronikus cégalapítást, vagy átalakulást nem is mondom, tavaly majdnem ebbe kopaszodtam bele, az ügyvédemmel. S soroljam még...
+    Szóval ne csodálkozzál, azon, hogy Mo-n csak Windows van, Linux alig, a mac-et meg az osx-et el lehet felejteni, mert sajnos, csak "vadkeleti" módszerekkel élő kereskedők vannak kishazánkban...
+- id: 1766
+  author: SeSam
+  date: '2009-02-19 09:59:09 +0100'
+  date_gmt: '2009-02-19 00:59:09 +0100'
+  content: |-
+    Rorimack: Én úgy gondolom, a hivatalos dokumentum az hivatalos dokumentum, információtartalmának mértékétől függetlenül. Valamint feltételezem, hogy az ügyfélkapu rendszer nem differenciál, hogy negyvenoldalas vagy kétsororos anyagot kell prezentálnia. Ezért gondolom, hogy a PDF-et mószerolni ezért pont ebben az esetben nem érdemes.
+
+    Az Adobe PDF olvasójával mi a gond? Az is ingyenes. Alapvetően nem az internetezőkre gondoltam, hanem az Ügyfélkapu fejlesztőire: felteszem a rendszer nem úgy csinálja a PDF-eket, hogy valaki valahol az APEH-nél PDF-be menti a Word dokumentumát licenszelt Acrobattal. Legalábbis remélem...
+
+    Nekünk az egyetemi információs renszer olyan, hogy szép kis PDF-eket gyárt mindenből, amit lekérünk. Transcript, órarend, stb.
+
+    Youkai: Mondjuk az, hogy személyesen elmész még érthető. Hiszen utána olyan dolgokat is megtehetsz a rendszerben (gondolom én), amihez amúgy személyes jelenlét kellene. Ehelyett egyszer igazolod, hogy te vagy te, és utána mehet elektronikusan.
+- id: 1767
+  author: Youkai
+  date: '2009-02-19 16:26:08 +0100'
+  date_gmt: '2009-02-19 07:26:08 +0100'
+  content: |-
+    Sesam:
+    Hát ahogy nézem max időpontot tudsz kérni, ha meg kell újítanod a szem-ig-t vagy valami okmányt, de én inkább kedvesen mosolygok a fiatal ügyintézőlányokra, az idősekre meg kezitcsokolommal köszönök, s gyorsan megvan. XD
+    Tudom, tudom... de mentségemre legyen, hogy nem vagyok szőke :)
+---
+
+Uj Péter az Ügyfélkaput döngöli a földbe [Az Ön részére elküldte](http://nol.hu/archivum/lap-20090218-20090218-53) című cikkében.
+
+> A pdf-dokumentumnak többnyire akkor van értelme, ha valamit nagyon szépen rendezett tipográfiai alakzatban, szép képekkel, harmonikus betűtípusokkal, ravasz sorkizárásokkal, körbeszedésekkel, egyebekkel akarunk megjeleníteni. Egyébként tökéletesen fölösleges, mert egyszerű közlésre sokkal alkalmasabb valami sima, szabvány szövegformátum, netán html.
+> 
+> Persze ebben az esetben nem kellene évi sokmilliós licencdíjat fizetni a pdf-formátum jogtulajdonosának, az Adobe Systems Inc.-nek.
+
+Ebben a részben azonban - úgy gondolom - számtalan melléfogást követett el.
+
+Először is a PDF legfontosabb formátumbeli sajátosságát felejtette el, mégpedig hogy _platformfüggetlen_. Minden valamit magára adó operációs rendszerre készült ingyenes PDF megtekintő alkalmazás. És itt teljesen mindegy, hogy azt akarjuk-e kiírni, hogy "Hello World", vagy egy komplex, képekkel és formázásokkal teli dokumentumot szeretnénk közzétenni: a lényeg, hogy minden olvasó minden rendszeren ugyanazt lássa. Ez talán nem mindegy egy hivatalos dokumentum esetében. És az sem utolsó szempont, hogy nem zárja ki élből azokat, akik nem Windows rendszert használnak.
+
+A PDF fájlt kinyomtatva az író/küldő szándékával megegyező papírformátumú dokumentumhoz juthat az ügyfél. Ami azután iktatható, érkeztethető, családi irattárba elhelyezhető. Pont mintha postán kapta volna.
+
+Vagy mégis milyen szabvány szövegformátumra gondolt itt vajon Uj Péter? Egyszerű szövegfájl (txt)? Minimális formázási lehetőség azért csak illene. A HTML pedig képernyőre készült formátum: mi történik például ha a delikvens ki szeretné nyomtatni az adott dokumentumot? A képernyőmérettől függően szerencsésen vagy szerencsétlenebbül tördelt anyaghoz jut.
+
+Arról nem is szólva, hogy az átlag magyar ügyintéző egyetlen dokumentumformát ismer, ez pedig a Word dokumentum. Szerintem pont az lenne kirívó disznóság az állam részéről, hogy arra kényszerítsen, hogy egy többtízezer forintot kóstáló programcsomag megvétele után tudjam csak megnézni a hivatalos papírjaim.
+
+**A PDF-et dokumentumok eszköz- és felbontásfüggetlenül, különböző szoftverekkel, hardverekkel és operációs rendszerekkel olvasható módon történő terjesztésére találták ki** **.** Az Ügyfélkapu nagyon jól választott.
+
+Végül pedig: **A PDF 2008 július 1-je óta nyílt szabvány.** ([ISO 32000-1](http://en.wikipedia.org/wiki/Pdf)) Ezáltal bárki jogdíjmentesen írhat olyan alkalmazást, amely képes PDF fájlokat írni vagy olvasni. Egy egyszerű Google keresés hasonló programok garmadáját találja. Sok ezek közül üzleti használatra is ingyenes. A magyar állam egy huncut fillért nem kell hogy fizessen Az Adobe Systemsnek.

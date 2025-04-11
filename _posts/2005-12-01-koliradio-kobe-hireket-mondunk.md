@@ -1,0 +1,16 @@
+---
+layout: post
+title: Kolirádió Kobe, híreket mondunk
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2005-12-01 16:01:52 +0100'
+date_gmt: '2005-12-01 07:01:52 +0100'
+tags:
+- Human Interest
+comments: []
+---
+
+Humoros körülmények között szocializáltam az argentín szomszédommal. A konyhában találkoztunk ugyanis: mindketten tésztát főztünk. Azért megnyugtató, hogy nem csak az én főzési skilljeim alacsonyak. Amúgy nem sokat találkozni emberekkel a kolin belül, mindenki elvan a saját kis köreivel. Különösen az idegenbe szakadt ázsiaiaknál működik kiválóan a rizstermesztő népek nagy kommunális összetartása. (Egyfajta elmélet, hogy a nyugati világ individualizmusa abból fakad, hogy a fő táplálékként elterjedt kenyér alapanyagát, a búzát egyedül is lehet termeszteni. Ezzel szemben a rizstermesztés csapatmunka, egyedül nem lehet űzni. Hogy pontosan miért is, azt nem tudom. Utána kell nézni.) A továbbiakban kiderült az argentín szomszédról, hogy elhagyta a kulcsát - engem nem tudott persze túlszárnyalni, nekem ehhez a teljesítményhez elég volt két hét. Valamint, hogy szegény kifogott egy oylan szomszédot ahol a fent említett ázsiai népek egyike tartja esti gruppen-összejöveteleit magas zajszinttel kísérve. És fény derült arra is, hogy a japán sztereotípiák kiválóan alkalmazhatók az argentínekre is. Miszerint Argentína az amerikai kontinensen található, ergo az argentínek angolul beszélnek. By átlagjapán.

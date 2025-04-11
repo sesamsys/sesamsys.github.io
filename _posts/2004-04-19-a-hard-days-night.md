@@ -1,0 +1,26 @@
+---
+layout: post
+title: a hard day&#039;s night
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2004-04-19 17:53:27 +0200'
+date_gmt: '2004-04-19 08:53:27 +0200'
+tags:
+- Japan
+comments: []
+---
+
+A hetvege mozgalmasra sikerult. Szombaton reggel elindultunk a belvarosba, hogy reszt vegyunk a YMCA (Young Mothers' Christian Association) egy osszejovetelen, amelynek celja, hogy a kint tanulo kulfoldieknek amolyan AIESEC modra matchelnek egy japan anyukat. Ot aztan meg lehet latogatni, lehet vele beszelgetni, meg kerdezni tole dolgokat. Mindenki ment, hat en is.
+
+Utana a TOFSIA-s lanyok rendeztek egy welcome party-t (igy egy het utan). A koncepcio kifejezetten jo volt: 2k yen es all you can drink/eat, szoval elvoltunk. ;) Az egyik japan elkovette azt a hibat, hogy beleivott a vodkanarancsomba. Majdnem elpusztult...
+
+Utana paran elhataroztunk, hogy meglatogatunk egy karaoke bart, ha mar japanban vagyunk, hetvege van, stb. Hat mit mondjak ez tenyleg a karaoke hazaja, nem gyenge felszereles van, plusz ezrekben merheto mennyisegu zene. Mindenki megnyugtatasara en nem enekeltem. Az hianyozna csak.
+
+Hazaerkezven aztan az ajtom elott ert a meglepetes, hogy a kulcsom eltunt. Mit mondjak, jokor... Kerestem egy tutort, szerencsere az atlagos japannal jobban beszelt angolul. Keresett, kutatott, telefonalt (ejjel fel egy korul mozgott az ido) es kiderult, hogy a helyzet a kovetkezo: a potkulcs ("master key") nincs a campuson, mert az adminisztracios iroda megfelelo alkalmazottja elutazott a hetvegere, es ugy gondolta, hogy magaval viszi a kulcsokat is ("for safety reasons") biztonsagi okokbol. Azaz kulcsom pedig nem lesz hetfoig. Igen, tudom en is hulye vagyok, ez egyertelmu, de ehhez csak hozzaszokni lehet, egyszer tenyleg a fejemet hagyom el. De akkor is ez a hihetetlen japan logika megdobbentett. A hetveget tehat common room-okban toltottem, meg itt-ott ismerosoknel. Mariya, egy bolgar leanyzo csinalt nekem spagettit vacsorara es a music roomban aludtam, mert ott volt szonyeg. Paplant meg pokrocot es parnat kaptam a tutoroktol. Ebedre itt lehet venni a boltokban elore elkeszitett kajat, a boltban meg is mikrozzak, hogy meleg legyen. Uton az uzlet fele beleneztem egy eldobott jol kinezo papirszatyorba, erre Norbi: "Mi van, mar guberalsz is?" :D Tulajdonkeppen elvoltam, de azert nem egy nagy elmeny.
+
+Ma megerkezett az urge a kulcsokkal, gyorsan lemasoltam (ket peldanyban, pedig tilos) es bejutottam a szobaba, buktam rajta 1000 yent a masolasra. Viszont van sajat potkulcsom, amit elhelyezhetek valakinel.
+
+Termeszetesen az elet megy tovabb, meg a hajlektalanoknak is, ugyhogy ma megint volt oram. Csak hogy el lehessen kepzelni a babeli kavalkadot itt a csoportomban a kovetkezo orszagok lakoi vannak: egy marokkoi fiu, egy litvan srac, ket vietnami lany, egy nepali lany, egy roman lany, egy irani lany es egy korerai fiu plusz jomagam. Az europaiakkal alapvetoen jol kijovunk, foleg a bolgarokkal szoktam beszelgetni. Van egy francia srac, aki a magyar zaszlo felmutatasakor kozolte, hogy ez biztos valami afrikai orszag, na ezert a kijelenteseert nem szeretjuk. Van ket ausztral srac (akik thaifoldrol mentek at), ok is jo fejek. Az azsiaiak eleg furcsak, a lanyok meg ok, de a fiuk nagyon gyerekesek. A lanyok egyszeruen csak kis szerenyek. A legnagyobb hangu kozuluk egy mongol csajszi, aki egesz jol nez ki. A common roomban ismerkedjunk azsiaiakkal cimszo alatt leultem veluk kartyazni, es kozben felkaptam ennek a mongolnak a telefonjat. A hattere egy csaladi kep volt, kerdeztem is, ezek a szuleid es a batyad? Nem, mondta, o a ferjem (a csaj 20 eves, nalam fiatalabb) es kozben mutatta az ujjan a gyurut. En kopni-nyelni nem tudtam, erre becsukta a telefont. A kulso kijelzon megjelent egy kep: o pedig a kisfiam... Azt hittem eldobom az agyam. Nem gyenge, raadasul otthagyott mindenkit, hogy osztondijjal japanban tanuljon.

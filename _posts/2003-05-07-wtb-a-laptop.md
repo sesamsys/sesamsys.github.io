@@ -1,0 +1,18 @@
+---
+layout: post
+title: wtb a laptop
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2003-05-07 11:05:00 +0200'
+date_gmt: '2003-05-07 12:05:00 +0200'
+tags:
+- Human Interest
+comments: []
+---
+
+I am lazy with updates - as usual. I wish I had a computer here at Budapest too, not only at home. The Salthouse closes at 8PM which really limits its usefulness. I think I would be more balanced if I could soothe myself with some at-night AO or anything that requires a monitor to be viewed.
+
+I am again in a mood when I have many things in my head - too much to tell. I need to do tons of things 75% of which I don't want to and the 25% I really want I cannot do. Posting my thoughts is now in the 75% group. :(

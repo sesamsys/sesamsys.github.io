@@ -1,0 +1,112 @@
+---
+layout: post
+title: No speak English
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2009-05-26 16:24:22 +0200'
+date_gmt: '2009-05-26 07:24:22 +0200'
+tags:
+- elections
+- EU
+- European Parliament
+- Language
+- Politics
+comments:
+- id: 1909
+  author: keila16
+  date: '2009-05-26 21:11:20 +0200'
+  date_gmt: '2009-05-26 12:11:20 +0200'
+  content: és akkor eszünkbe jut medgyessy kolléga angol és francia tudása :)
+- id: 1910
+  author: Youkai
+  date: '2009-05-26 21:16:58 +0200'
+  date_gmt: '2009-05-26 12:16:58 +0200'
+  content: Oh libe Scheiße XD A riporter srác és a csaj is elég szépen beszélt angolul,
+    tökéletesen lehetett érteni, hogy mit akarnak, de valahogy érzésem, hogy kedves
+    bajuszos barátunknak halvány lila gőze nincsen, arról, hogy mit akarnak.Nem tudom,
+    hogy miért nem tudnak neki írni egy szabvány szöveget papíron, amit megtanul meg
+    pár válasz a várható kérdésekre.
+- id: 1911
+  author: Youkai
+  date: '2009-05-26 21:20:45 +0200'
+  date_gmt: '2009-05-26 12:20:45 +0200'
+  content: "@Keila16: Ok Fletó angolja olyan volt, hogy az gáz... a kiejtése, de mondjuk
+    magánembernek Ok, amúgy meg gondolod, hogy a kedves G. W. Bush beszél valamit
+    az angolon kívül (az angol is túlzás egyes amerikai újságírók szerint). Szóval
+    így a Fleto angolja és franciája nem is gáz. Mondjuk a franciáról nem ítélkeznék,
+    az valahogy kimaradt az életemből. Amúgy hallgasd meg Fleto oroszát azzal nincs
+    probléma, lehet hogy több hasznát vette, mint az angolnak-franciának együttvéve
+    :P"
+- id: 1912
+  author: SeSam
+  date: '2009-05-26 21:38:30 +0200'
+  date_gmt: '2009-05-26 12:38:30 +0200'
+  content: |-
+    Még akkor is többre becsülném, ha legalább oroszul tudna rendesen. De valljuk be, azért nevetséges, hogy valaki a nemzetközi politikai színtérre vágyik úgy, hogy a magyaron kívül más nyelven nem tud értékelhetően kommunikálni. Ezen aztán előre megírt válaszok sem segítenek, sőt.
+
+    Az "újságírók" is hebegtek azért. :D
+- id: 1913
+  author: Youkai
+  date: '2009-05-26 22:56:07 +0200'
+  date_gmt: '2009-05-26 13:56:07 +0200'
+  content: Ok, persze, a csajnál én különösen éreztem, hogy tanulta az angolt és nem
+    az anyjától :), de teljesen ok volt teljesen jól értettem, néha olyan angol kiejtést
+    hallok különösen a németektől, hogy keresztbe áll a szemem, ha meg németre váltok
+    akkor persze jön a szép bajor tájszólás, én meg metélem, az ereimet a lézeregérrel.
+- id: 1914
+  author: zombunny
+  date: '2009-05-27 07:51:08 +0200'
+  date_gmt: '2009-05-26 22:51:08 +0200'
+  content: |-
+    http://kepviselofunky.blog.hu/2009/05/12/ju_ar_gud
+
+    Azért G(y)urmai kollegina sem piskóta. De öröm látni h mindkét oldal ugyanakkora kalap f*s, és igazán jólesik tudni h ezek mennyi pénzt fognak akasztani a semmiért...
+- id: 1915
+  author: Yuki
+  date: '2009-06-03 18:48:09 +0200'
+  date_gmt: '2009-06-03 09:48:09 +0200'
+  content: |-
+    Öh.... van ám tolmácsuk.
+    Én örülök, ha azért tesznek a zsebembe pénzt mert ők gyökerek elmenni egy angol tanfolyamra a többszázezres  fizetésből. :)
+
+
+    De az tény, hogy ÉGŐ, hogy a "vezető" réteg egy szót sem beszél "külföldiül".
+    Az még égőbb, hogy ez hidegen hagyja őket ÉS nem érdekli őket, hogy ők maguk mondják el amit akarnak, és ne bízzák másra a tolmácsolást.
+
+    Nem kell aggódni, jobbról-balról van itt példa a NO ENGLISH-re.
+    Mondjuk ha jól emlékszem Orbánnak oxfordi diplomája van és jól nyomja az angolt...
+- id: 1916
+  author: SeSam
+  date: '2009-06-03 18:51:02 +0200'
+  date_gmt: '2009-06-03 09:51:02 +0200'
+  content: Persze, hogy van tolmácsuk, csak kevésbé kényelmes közvetetten társalogni,
+    nameg haverkodni sem nagyon fognak a külföldi politikusokkal, ha egy szerencsétlen
+    tolmácson keresztül kell viccelődni. :)
+- id: 1917
+  author: Yuki
+  date: '2009-06-05 06:26:58 +0200'
+  date_gmt: '2009-06-04 21:26:58 +0200'
+  content: |-
+    Na igen. Az gáz :/
+    De ha egyszer ennyire igénytelenek &gt;&gt;...
+---
+
+Június hetedikén megválasztjuk azokat a küldötteket, akik az Európai Parlamentben Magyarországot képviselik majd. Az utóbbi persze attól függ, sikerül-e majd kommunikálni a képviselőtársaikkal. Evidensnek hangzik? Az alábbi videó tanúsága szerint korántsem az.
+
+[youtube]http://www.youtube.com/watch?v=1qRpLY14lkU[/youtube]  
+Gondolom már körbejárta az internetet, de nem baj. Nem tudtam szó nélkül hagyni. Talán a legjobb szó a reakció kifejezésére a [cringe](https://twitter.com/hettie/status/1917270604) ( _experience an inward shiver of embarrassment or disgust_ ). Kár, hogy az EP képviselőink ez utóbbi mondatot nem biztos, hogy értik.
+
+Általános iskolától kezdve nyesztetik a gyerekeket idegen nyelvekkel. Az egyetemi diplomához ma nem egy, hanem minimum két nyelv legalább középfokú ismeretét várják el a legtöbb helyen. Az angolról már az a közvélekedés, hogy alapnyelv, minimum követelmény. Az érvényesüléshez e mellé még legalább egy világnyelvet érdemes beszélnie például egy munkakeresőnek. Szerintem a Nyugati téri McDonald's is simán megkívánja az alkalmazottaitól, hogy fel tudjanak venni angolul is egy rendelést.
+
+Ehhez képest a Fidesz listáján az előkelő negyedik Dr. Áder János segítség nélkül egy interjút nem tudna adni a brüsszeli újságíróknak. Az [Origó 2007-es keltezésű cikkéből](http://www.origo.hu/itthon/20070620kemeny.html) ráadásul kiderül, hogy semmilyen más nyelven sem képes Áder kommunikálni: a németül beszél kijelentést erősen "jóindulatú beállításnak" vallotta.
+
+Természetesen az Unió hivatalosan minden tagország nemzeti nyelvét elfogadja, és lehet is felszólalásokat nemzeti nyelven tenni. A bizottsági ülések, munkaebédek, informális találkozók meg ugyan kinek kellenek. Nem a sima beszéd, hanem a jól gondozott bajusz nyit ki ajtókat Brüsszelben/Strasbourgban.
+
+A videó lehet, hogy kormánypárti ködődésűek kampányfogása persze, de szerintem ez huszadrangú kérdés. Abban is biztos vagyok, hogy az összes indított listán akadnak hasonló jómadarak, párttól függetlenül. Emlékszik még valaki [az IPRED2 szavazás idejére](http://sesam.hu/2007/04/24/ipred2-holnap), amikor kiderült, hogy egyes magyar MEP-eknek [még e-mail címe sincs](http://velemenyemvan.freeblog.hu/archives/2007/04/23/Beloled_is_bunozot_farag_az_EU)?
+
+Nem tud igazán meghatni, hogy Áder doktor majd' ötvenéves fejjel vágott neki a nyelvtanulásnak. Ez a munkája. EP képviselő akar lenni, akkor _ganbarjon_. Mint hallható látványosan elbukta ezt az akadályt.
+
+Amin érdemes egy pillanatra elgondolkodni, hogy ezek az emberek ülnek majd az Európai Parlamentben Magyarország nevében. Szánalom, tényleg.

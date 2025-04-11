@@ -1,0 +1,71 @@
+---
+layout: post
+title: special treatment
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2008-04-06 19:59:28 +0200'
+date_gmt: '2008-04-06 10:59:28 +0200'
+tags:
+- classes
+- discrimination
+- kobe-u
+- Japan
+- Human Interest
+comments:
+- id: 1148
+  author: Vale
+  date: '2008-04-06 20:29:34 +0200'
+  date_gmt: '2008-04-06 11:29:34 +0200'
+  content: ha nekem nem okoz nagy nehézségeket az óra, akkor nem zavarna. meg akkor
+    se, ha egyértelműen csak így tudnánk egy szinten haladni. de ha ezzel ő valóban
+    unfair előnyhöz jutna, úgy már kevésbé.
+- id: 1149
+  author: Szak1
+  date: '2008-04-06 22:30:19 +0200'
+  date_gmt: '2008-04-06 13:30:19 +0200'
+  content: |-
+    Ha vigasztal, ugy latszik, a vilag minden tajan problemat okoz, hogy pontosan hogyan is kezeljek a kulfoldi diakokat.
+
+    Nalunk is erdekes a helyzet. A feltetelek nehezitese utan ugy az evfolyam fele megy at minden vizsgan, ami meg nem is lenne olyan hatalmas verengzes, de a kulfoldi diakok tul gyakran kerulnek az also felbe. A vezetoseg pedig szamolgatott, es ugy latta, hogy a mostani jegyek es atlagok alapjan egy egyenes vonalat huzva ket ev mulva nem igazan lehet majd a kulfoldieknek diplomat osztani, ugyhogy most elegge kurrens kerdes, hogy mit kezdjenek a helyzettel, mert nyilvan nem akarjak csokkenteni a diplomajuk erteket, de azt a bizonyos sikerszazalekot is tartani kell.
+
+    Ugyhogy, ami tortent eddig:
+    - van a kulfoldieknek hallgatoi kepviselete, amit komolyan is vesznek
+    - egy-ket vizsgat, ahol gyakorlatilag tizoldalas szovegekrol kell velemenyt irni, fel oraval tovabb irhatunk. Ilyenkor gondosan egy kulon terembe vagyunk beosztva, hogy ezt a franciak ne lassak
+    - egy-ket tanar megengedi, hogy angolul irhassunk, ezeket a dogakat aztan franciaul javitjak ki :)
+    - es szuletett egy utasitas, hogy minden tankonyv vegen (amiket az itteni tanarok irnak) kell lennie egy francia-angol szoszedetnek az alapveto fogalmakrol. Ezt minden tanar tovabbra is leszarja.
+
+    Szoval nalunk is ilyen fel- vagy semmilyen megoldasok vannak ervenyben, es alapvetoen nagyon tanarfuggo a helyzet megitelese.
+
+    A te helyzetedben azt nem ertem, hogy a holgy miert nem rak fel minden szoveget egy honlapra, hogy *mindenki*, japan-magyar egyarant elolvashassa. Egyreszt nezzuk realisan: nem tul eletszeru helyzet, hogy a diak elore dolgozik, a legtobben elozo este gyorsan atfutjak, hogy mit kene tudni. Masreszt nehogy mar az legyen a tantargy kvintesszenciaja, hogy _pontosan_ ket nap alatt olvasson el mindenki x oldalt.
+- id: 1150
+  author: Youkai
+  date: '2008-04-07 23:00:32 +0200'
+  date_gmt: '2008-04-07 14:00:32 +0200'
+  content: Figyelj kifogtál, egy marhát/barmot/lovat... ezen ne húzd fel magadat,
+    mindenhol vannak, voltak, lesznek ilyenek, az emberi hülyeség és a világűr határtalan,
+    ezek ellen harcolni esélytelen, inkább fordítsd valami hasznosabb, számodra hasznosabb
+    dologra az energiáidat, minthogy ezen rágódj. Mondjuk ha felolvasnák nem volna
+    egyszerűbb, hallás utáni értés, mint szenvedni a kanjikkal ??? vagy ettől is elzárkózott,
+    a drága tanár úr ?
+---
+
+Az egyik tanárom a syllabusban leírta, hogy rendszeresen kioszt majd anyagokat, amiket nekünk adott órára el kell olvasni, mert majd arról beszélgetünk. Én meg írtam neki emailt, hogy nem kaphatnám-e meg ezeket az anyagokat már most, még az órák kezdete előtt, hogy előre dolgozhassak egy kicsit, mivel roppant lassan olvasok.
+
+Ma este érkezett a válasz, mely szerint ő **nem részesíthet különleges elbánásban senkit**. Szerinte pont elég idő lesz elolvasni azokat az anyagokat.
+
+Már megint ez a pozitív diszkriminációs blabla. Azt megérteném, ha azt írja, nincs ideje ezzel foglalkozni, vagy hogy plusz munkát jelentene neki, és nem vállalja. De miért kivételezés ez velem a japánokkal szemben?
+
+Azt feltételezni, hogy ugyanarról a szintről indulok, mint egy japán, aki az egész életét itt töltötte, és az anyatejjel szívta magába a nyelvet szerintem botorság. Ha előbb megkapok anyagokat, nekem ugyanúgy el kell olvasnom. Sőt, amit egy japán átfut egy óra alatt, azzal én napokig szenvedek. Még az sem biztos, megértem-e egyáltalán.
+
+És legyünk őszinték: ahhoz, hogy ugyanazt érjem el mondjuk jegyben mint egy helyi, nekem hatszor annyit kell készülnöm az órákra, vizsgákra. Ők átalusszák az összes órát, vizsga előtt egy nappal elolvassák a könyvet, és violá, legjobb jegy. És nem azt kértem, hogy angolul vizsgázhassak (ami, megjegyzem, megint csak nem az anyanyelvem) vagy hogy kevesebbet kelljen letennem az asztalra, csak hogy előbb hozzájuthassak pár tanulmányhoz.
+
+Na mindegy.
+
+Vagy én látom rosszul a helyzetet? Ti mit szólnátok, ha mondjuk egy japán, akivel egy órára/tanfolyamra/stb jártok, előbb kapna meg pár magyar anyagot, hogy legyen ideje elolvasni. Gáz? Diszkriminálva éreznétek magatokat?
+
+Elvégre én jöttem ide, magamnak választottam. Senki sem kényszerített, hogy japánul tanuljak. És élő példák léteznek, hogy lehet ezt jobban is csinálni.
+
+_All animals are equal..._

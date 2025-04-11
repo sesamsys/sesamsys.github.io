@@ -1,0 +1,30 @@
+---
+layout: post
+title: ogenki desu
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2004-04-30 15:47:50 +0200'
+date_gmt: '2004-04-30 06:47:50 +0200'
+tags:
+- Japan
+- Tech &amp; Gizmos
+comments: []
+---
+
+Jo sokaig nem jutottam gephez... Vasarnap ugyebar nincs konyvtar, hetfotol pedig beindult a daralo, tanultunk latastol vakulasig. nehez ugy, mert minden nap megtanulunk ugye 13 kanjit, amit memorizalni kell. Plusz van az aktualis nyelvtan, ami alapvetoen nem bonyolult, de sokmindent kell megjegyezni. A japan nyelv alapvetoen partikulakat hasznal. A mondat szavakbol es partikulakbol epul fel, a partikulak mutatjak az adott szo funkciojat. Pl someone WA sometime NI somewhere E IKIMASU, ahol a WA az un. 'topic marker' a NI az idore utal az E pedig, hogy hova megy az illeto. Na ilyen partikula van egy vagon. A nyelvtanon kivul rengeteg (de tenyleg) szot tanulunk. Nekem ez a legnehezebb, mert amit nem gyakolunk be oran, azt nagyon nehezen tanulom meg. Meg amugy is 3-4 x 90 perc utan mar a halalnak sincs kedve szavakat magolni.
+
+Minden oran olvasunk. Ez egyszeruenk hangzik, de en meg mindig ugy olvasok mint egy kisikolas nalunk, egyaltalan nem folyamatosan. Pedig meg nem is kanjikat kell olvasni csak hiraganat. Az utobbi idoben hazi feladatnak irni kell rendszeresen pl bemutatkozast. Most epp az a feladat, hogy a szunet esemenyeit irjuk le 800 karakterben. Vannak hallgatasi feladatok, termeszetesen minidisc-en. (Anya, neked mondom, at kene terni nyelvoktatasnal a minidiscre. Olyan, mint a CD, tehat nem kell a magno szamlalojat figyelni, hanem adott feladathoz, sot feladaton belul mondatokhoz is lehet leptetni. Persze itt mindenhol MD-t hasznalnak, nagy hagyomanya van.) Szemelyes kedvencem a diktalas. Na az halal, mert nagyon gyorsan most mar egesz mondatokat kell leirni. Mindent amit irunk, megoldunk vagy hazikent elkeszitunk beszednek es kijavitanak az utolso cetliig. Szerintem mindenkirol vezetnek dossziet is, hogy hogyan muzsikal... Persze nekunk nem mondanak soha semmit.
+
+Szerdan nagyon hosszu napom volt. A 3 nyelvora utan betereltek minket egy terembe es parosan kiosztottak fiatal tanulo tanaroknak, veluk kellett beszelgetni. na ez nagyon nem ment, mert hiaba ertek meg sokmindent, ha beszelni kell nagyon nehezen jutnak eszembe a szavak. Meg persze faradt is voltam. Raadasul eles volt az ellentet, mert a parom mar tanult japant. Egy teremben ket ilyen csoport volt, ugyhogy a vegen negy diak plusz ket tanar kozosen beszelgetett. A vegen kozoltek, hogy szerintuk tok jol csinaltuk, nekem pedig, hogy milyen jol beszelek, pedig csak 2 hete tanulok. Ezt nem igazan hittem el (meg se tudtam nyikkanni, az az igazsag) itt amugy is nepszokas, hogy megdicsernek, csak hogy jo napod legyen.
+
+Amugy minden csoportnak ket tanara van, ok tartjak az elso ket orat minden nap. Utana pedig ket csoport van egyutt es az adott csoportok valamelyik tanara tartja az orat. A mi (E class) ket tanarunk Itami sensei (a komoly es szigoru), Tayama sensei (a kedves oreg). Az F class-al vagyunk egyutt, akiktol Ogata sensei (a fiatal es energikus) szokott erkezni. Itt jegyzem meg, hogy a japan szavak jeletos hanyada rosszul kiejtett katakanaval irt angol szo igy pedlaul az osztaly az 'kurasu'...  
+Szerda este gazd/pol oran pedig Lost in Translation-t neztunk. Igy Japanban meg jobb megnezni. Peldaul benne van a vilag legforgalmasabb gyalogosatkeloje Shibuyaban, amin en keresztulmentem, es a Starbucks Cafe, amiben voltam is. :) De azon kivul is rengeteg felismerheto helyszin van, es hat persze a kulturalis elemekkel is mind eloben talalkozhattam. Cool.
+
+Szerencsere csutortokon (29) unnepnap volt, Greenery Day-nek hivjak, es gozom nincs mirol szol, a lenyeg, hogy munkaszuneti nap. Rank is fert. Delelott elmentunk aikidozni. Most volt tanar is, aki mindig csak csutortokonkent jar. Ismet nagyon elvezetes volt. Egy mozdulatsort gyakoroltunk, aminek a lenyege, hogy az szembenallo kezenek kicsavarasaval foldre kuldjuk, majd ugy rogzitsuk, hogy nem tudjon felallni. Poen, mert egy sokkal erosebb embert is ugy le lehet vele fogni, hogy moccanni sem tud. Ezen kivul egy specialis bukfencfelet csinaltunk, ami gondolom majd egy kesobbi mozdulatsorhoz kell. Nem egyszeru, es a probalkozasok eredmenyekent veralafutasos lett a vallam, de mara mar elmult. Amikor latta, hogy mit szenvedunk a tanar bemutatokent egyszeruen vegiggurult az egesz termen... naja, aki tud. :)
+
+Miutan elvileg jon az osztondijunk, es amugy is egy vagon penzem volt meg, elmentem Norbival Akihabara-ba. Akihabara a trechnikai boltok negyede. Felelmetes, mi van itt, 6-7 emeletes aruhazak szinultig rakva csucstechnikaval. En hifit akartam venni, es lattam is egy nagyon jot a szerb sracnal, gondoltam keresek olyat. O azt mondta, 32000-ert vette. Akarhogy kerestem, 34000-nel olcsobban nem talatam meg, dehat - gondoltam - ez van, valamit csak kell venni, mert megorulok a csendben. Mikor mondtam, hogy akkor en azt ott kerem a boltos valamit magyarazott japanbul, es elviharzott a boltbol. Mi meg Norbival ott maradtunk egyedul. Azt vihettunk volna el, amit nem szegyellunk tenyleg... hamarosan visszatert es kiderult, hogy a szomszed boltban (!) volt egy ugyanilyen cucc, aminek a tetejen van egy miniatur karcolas. Ha nem mutatja meg, eszre se veszem. Leesett az allam, amikor mondta, hogy ez 28000 a karc miatt. Szoval jol jartam, 12000 Ft-ot ert a lathatatlan karcolas. ;)
+
+A cucc egyebkent Sony. Lejatszik CD-t, SACD-t (super audio CD, jobb minoseg a hagyomanyosnal), mp3/WMA CD-t (termeszetesen ID3 taget is beolvas es a mappakat albumokkent azonositja, kepes almappakat kezelni) valamint DVD videot. Van beepitett radioja is, valamint kulso jelforrast analog vagy optikai bemeneten erosit. Fadobozos hangszoroi vannak (nem gagyi muanyag) es ugy szol, hogy lebontja a falat. hatranya, hogy japanul van a kezelesi utasitas, sot a taviranyito egyes resze is, szoval kiprobalasi alapon megy a hasznalat. Arra mar rajottem, hogy lehet beallitani, hogy reggel az altalam valasztott mp3 zenere ebresszen, ne (az amugy tobbszolamu) telefonomra keljek fel. :P

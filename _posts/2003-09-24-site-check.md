@@ -1,0 +1,18 @@
+---
+layout: post
+title: site? check!
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2003-09-24 10:36:00 +0200'
+date_gmt: '2003-09-24 11:36:00 +0200'
+tags:
+- Tech &amp; Gizmos
+comments: []
+---
+
+Every time I check my site if it is still there (One can't be sure ever :P) I have to realize I haven't posted since ages. This time it is AIESEC that I am busy with. Plus the general problem of no access to the Internet. Basicly it is not that easy to post for me because SeSam.hu is not a dynamic, programmed site but a pure html one. I asked my host about the price of PHP and MySQL but it is skyrocketing for me.
+
+Anyway I am glad to see that despite of all these many visit me regularly. Keep up the good work. :) I have many plans about future posts and other content. Plus - as I might have mentioned it before - I have a very very slow and old laptop. Now I only have to find a way to connect it to the net somehow and I'd have 0/24 connection because there is net access in the AIESEC office and at my dormitory as well.

@@ -1,0 +1,18 @@
+---
+layout: post
+title: the spirits within
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2006-03-10 23:07:35 +0100'
+date_gmt: '2006-03-10 14:07:35 +0100'
+tags:
+- Human Interest
+comments: []
+---
+
+Négy nappal ezelőtt megnéztem a papírt a falomon, és konstatáltam, hogy az ösztöndíj aláírásának határideje tizedike. Ma a tervezett ügyintéző körutam előtt ismét leellenőriztem ugyanazt a papírt, és immáron kilencedikére módosult a dátum. Csodás, ismét késve kapok ösztöndíjat, ezúttal azonban csak egyvalakinek köszönhetem... Hiába, nehéz is megkülönböztetni egy egyjegyű számot egy kétjegyűtől. Vannak akik diszlexiások, én lusta, feledékeny és impraktikus vagyok. Csak rohadt nehéz ezzel együttélni, főleg szálegyedül, amikor senki sem pofoz fel, hogy ne felejtsek el valamit.
+
+Különben is miért az utolsó napon írok alá, amikor az ég szerelmére hát szünet van; egész álló héten nem csinálok semmit. Nem baj, előbb-utóbb ez oda vezet, hogy majd jól éhen halok, és kész... :evil:

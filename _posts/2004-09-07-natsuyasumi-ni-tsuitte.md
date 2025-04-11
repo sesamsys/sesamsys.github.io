@@ -1,0 +1,28 @@
+---
+layout: post
+title: Natsuyasumi ni tsuitte
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2004-09-07 13:08:44 +0200'
+date_gmt: '2004-09-07 04:08:44 +0200'
+tags:
+- Japan
+comments: []
+---
+
+Az elso nap meglehetosen faraszto volt. Itami Sensei szerint az eddig atvett hat lecke egyszeru volt, most jon a neheze. En koszonom szepen eddig sem panaszkodtam a minosegre, de ugy fest a japanok mindig tudjak fokozni. Most epp a kanjikkal szenvedek. Az uj konyv a regivel ellentetben mar nem csak egy olvasatot - ezaltal egy szot vagy szokapcsolatot - tanit meg, hanem egy kanjival 3-4 kapcsolatot is feltuntet. Termeszetesen a vizsgan barmit kerdezhetnek.
+
+Ami engem jobban foglalkoztat, az az, hogy a ho vegi vizsgan mit fognak kerdezni mondjuk gazdpol-bol. Most eppen a japan alkotmanyt olvassuk (en angolul, megvan japanul is), de nem igazan latom hogy lesznek ebbol vizsgakerdesek. Az alkotmanyrol ugyanis barmennyit is tanulok, eleg remenytelennek tunik barmi erdemlegeset is irni/mondani japanul...
+
+Meg az elozo beszamolombol kimaradt egy nagyon erdekes kirandulas. Petra vettette fel, hogy menjunk el egy Carrefur nevu francia eredetu bevasarlokozpontba valahol Tokio szelen, mert ott europai eredetu arukat is lehet kapni. Ugy dontottunk, bicikliturazunk, mert a vonatjegy 1500Yenbe kerult volna. (Ez ugyan azt is jelzi, hogy a dolog baromi mesze van, de a ryuugakusei nem fel semmitol ugye.)
+
+A dolog szepseghibaja az volt, hogy az ut elejen eleredt az eso. Nehany perc mulva ugy neztunk ki, mint a kiontott urgek, de azert nem adtuk fel. Mentunk. Es mentunk. Es mentunk... Mikor vegre valahara 4 ora biciklizes utan elerkeztunk a celhoz, a csapat tagjai (Petra, Mugi, Oyun, Ulyana, Cristina, vlada es en) nem igazan hittuk el, hogy megcsinaltuk. (Cristina volt a legnagyobb csoda, hiszen, mint az kesobb kiderult nem sokkal azelott tanult meg biciklizni! Nagy csodalkozasomra a bolgar es roman kornyekrol erkezettek kozott nagy szamban akadnak biciklizni nem vagy alig tudo emberek.) Egyes velemenyek szerint Tokio kozigazgatasi hataran kivulre mentunk ki...
+
+A Carrefur maga nem volt rossz, de az igazi felfedezes az outlet shop-ok voltak. Kiderult, hogy a hatalmas teruletet elfoglalo epuletkomplexus nagy szamban tartalmaz Adidas, Levi's, Wrangler, GAP, stb. gyari outlet boltokat, ahol nem egy dolgot rettento olcson lehet beszerezni. En egy adidas polot (700Yen) es egy GAP nyari hosszunadragot (2200Yen) vettem. A lanyok termeszetesen alig voltak elszakithatok az uzletektol, igy jocskan sotetben indultunk haza.
+
+Az ut hazafele nem lett rovidebb, de legalabb az eso nem esett. Azert egy-egy emelkedonel (hegyes-volgyes videken jartunk) a team holgytagjai el-elvesztettek a lelkesedesuket. Orommel jelenthetem azonban, hogy mindenki epsegben (bar a lanyok kozul nehanyan remenyeik szerint ha nem is meg-, de lefogyva) hazaert.
+
+Szinten a szunetben tortent nem is egyszer, hogy a konyhat megszallva egymasnak foztunk ebedet. Vlada kezdte a sort tejfolos csirkevel, bar a tejfol helyett a helyi lehetosegeknek megfeleloen yoghurtot kellett hasznalnia. Utana el leptem meg a tarsasagot egy jo adag porkolt-gulyasleves komboval. (Maggi porkoltkocka es Knorr levespor rulez. ;) ) Aztan a mongol duo, Mugi es Oyun foztek valami zoldseges husfelet, amihez csikokra vagdalt palacsintataesztara emlekezteto dolog volt keverve. Kifejezetten izletes volt!

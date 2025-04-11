@@ -1,0 +1,20 @@
+---
+layout: post
+title: still cold
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2002-12-26 21:09:00 +0100'
+date_gmt: '2002-12-26 22:09:00 +0100'
+tags:
+- Human Interest
+comments: []
+---
+
+This Christmas was freezing indeed. Yesterday at the break of dawn the temperature outside was below minus eighteen degrees Celsius as my mother reported. Luckily I was fast asleep that early because I tend to play AO late at night. ;) But days aren't warmer either: my cheek itched as if it was pinned with little icicles when we were walking towards my grandparent's house from the railway station. (My family has no car.)
+
+Christmas itself was happy, I got tons of presents and it was much of a relief noting that all of my presents were a good choice.
+
+What bothers me though is the period of hard work I am standing before as I will start exams almost in a week now and I still have much to learn. Luckily most of my subjects (Sociology, Mathematical Analysis, Statistics, Law, Civilisation History) are at least a little interesting and that makes learning way easier.

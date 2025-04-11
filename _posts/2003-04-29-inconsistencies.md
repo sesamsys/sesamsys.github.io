@@ -1,0 +1,23 @@
+---
+layout: post
+title: inconsistencies
+author:
+  display_name: sesam
+  login: sesam
+  email: petersz@me.com
+  url: http://sesam.hu
+date: '2003-04-29 12:35:00 +0200'
+date_gmt: '2003-04-29 13:35:00 +0200'
+tags:
+- Human Interest
+- Movies &amp; TV
+comments: []
+---
+
+If you happen to leave your room and take a stroll outside you can think it is already summer. The temperature is high and only little fluffy white clouds can be spotted on the summer-blue sky. Occasionally a breeze comes that refreshes the air around you. Definitely a weather that encourages you to go out.
+
+Though I am happy that the time of dark skies and rainy days is over for a while but I have many things to do and that prevents me from enjoying the early summer. It also makes me sad that I won't be at home for a while so I cannot play any AO either. On the contrary I will attend the Spring National Conference of AIESEC Hungary, which is as much a strain as fun in my opinion. Plus I made a concept for a new design for {www.anarchy-online.hu}. To implement that I need to add all old pages to the new design, and I realized that it means tons of work... for which I really don't know when will have time.
+
+Not to mention all the school stuff.
+
+Say I am not self-consistent but despite of all these stuff to be done I still took some time to go to the cinema. :) I saw Tears of the Sun last week with Bruce Willis. It reminded me of Black Hawk Down very much in mood and story. What I liked most was the shooting. There were some really admirable scenes showing the beauty of the black continent. And this beauty made a harsh contrast with the cruelty and inhumanity of the war taken place there. Though the American soldiers are showed being more human and vulnerable than most of the movies I still did not feel the film to be a documentary. To be honest I don't know if it was intended to be one, but at some points there are flaws in realism in my opinion. Despite of these I do think it is a good film to see for it is exciting and has something to say though not that clearly.
