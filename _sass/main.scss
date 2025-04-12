@@ -308,6 +308,10 @@ footer {
 
       figcaption {
         color: $inverse-secondary-color;
-      }
+        }
+
+      p, blockquote {
+        color: $inverse-secondary-color;        
+        }
     }
   }
