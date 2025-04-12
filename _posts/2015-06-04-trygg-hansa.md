@@ -18,7 +18,10 @@ comments: []
 
 Mindig is érdekelt, miért van ez a felirat a mentőöveken:
 
-[![IMG_0113](https://c1.staticflickr.com/1/482/18449540702_668f7abded_c.jpg)](https://www.flickr.com/photos/sesamsys/18449540702 "Riddarholmen | Trygg-Hansa by Péter Szilágyi, on Flickr")
+<figure>
+  <img src="https://c1.staticflickr.com/1/482/18449540702_668f7abded_c.jpg" alt="Riddarholmen | Trygg-Hansa">
+  <figcaption>Riddarholmen | Trygg-Hansa by Péter Szilágyi, on Flickr</figcaption>
+</figure>
 
 A [Trygg-Hansa](http://no.wikipedia.org/wiki/Trygg-Hansa) egy svéd biztosítótársaság és bank volt 1971 és 1997 között. Azóta megvette a SEB (Skandinaviska Enskilda Banken) pénzügyi csoport, a márkát pedig a dán Codan biztosító használja Svédországban. A [honlapjukon](http://www.trygghansa.se/) látszik, hogy a logójuk is egy stilizált mentőöv.
 

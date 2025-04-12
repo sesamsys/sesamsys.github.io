@@ -43,4 +43,4 @@ comments:
     \"Det er billigere å kjøpe i Tesco. Hvis det er åpent!\" ;)"
 ---
 
-[![tumblr_npe2wd08is1qdtmevo1_1280](http://sesam.hu/wp-content/uploads/2015/06/tumblr_npe2wd08is1qdtmevo1_1280.png)](http://sesam.hu/wp-content/uploads/2015/06/tumblr_npe2wd08is1qdtmevo1_1280.png)
+![Viktig Informasjon](http://sesam.hu/wp-content/uploads/2015/06/tumblr_npe2wd08is1qdtmevo1_1280.png)
