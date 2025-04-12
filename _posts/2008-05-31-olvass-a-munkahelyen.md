@@ -25,4 +25,7 @@ comments:
 
 Legyen bármennyire is fontos az általános műveltség, gondolom kevés munkahelyen tolerálják, ha az egyszeri dolgozó például a Háború és béke négy kötetébe merül munkaidőben. Rajtuk szeretne segíteni a [New Zealand Book Council](http://www.bookcouncil.org.nz/index.html) a [Read at Work](http://www.readatwork.com) weboldalával. Avagy klasszikusok PPT kiadásban:
 
-[![Read at Work](http://img.skitch.com/20080531-tr95frjisaw9rypu6a41d9bqcm.png)](http://www.readatwork.com)
+<figure>
+  <img src="http://img.skitch.com/20080531-tr95frjisaw9rypu6a41d9bqcm.png" alt="Read at Work">
+  <figcaption>Read at Work</figcaption>
+</figure>

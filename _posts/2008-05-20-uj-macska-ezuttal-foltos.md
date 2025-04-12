@@ -34,4 +34,7 @@ comments:
 
 Az előző kóbor macska helyett, aki úgy látszik rossz néven vette, hogy hazamentem télen, most egy vörös foltos alszik az erkélyre száműzött széken. Kóbor macskákat amúgy nehéz fényképezni, mert nagyon gyanakvóak. Egyúttal [feltöltöttem](http://flickr.com/photos/sesamsys) pár campuson lőtt képet is.
 
-[![My new stray cat](http://farm4.static.flickr.com/3068/2506661255_fbd946e6e6.jpg)](http://flickr.com/photos/sesamsys/2506661255)
+<figure>
+  <img src="http://farm4.static.flickr.com/3068/2506661255_fbd946e6e6.jpg" alt="My new stray cat">
+  <figcaption>My new stray cat</figcaption>
+</figure>

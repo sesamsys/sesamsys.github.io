@@ -42,7 +42,9 @@ Az ígéretek szerint nem kell majd tovább várni a toplisták heti összesít�
 
 Az előfizetéssel rendelkezők már ki is próbálhatják a tesztverziót a <http://beta.last.fm> címen. Kis ízelítő:
 
-[![Last.fm beta: sesamsys](http://img.skitch.com/20080522-nk6wi3a3njdtqu12gdgu77i96d.preview.jpg)](http://skitch.com/sesam/m9e7/last.fm-beta-sesamsys)  
-Uploaded with [plasq](http://plasq.com)'s [Skitch](http://skitch.com)!
+<figure>
+  <img src="http://img.skitch.com/20080522-nk6wi3a3njdtqu12gdgu77i96d.preview.jpg" alt="Last.fm beta: sesamsys">
+  <figcaption>Last.fm beta: sesamsys</figcaption>
+</figure>
 
 Bónusz: [így dolgoznak a fejlesztők](http://flickr.com/photos/lastfm/sets/72157605067698256) (flickr képek).

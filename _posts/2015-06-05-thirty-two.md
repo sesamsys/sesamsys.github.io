@@ -13,4 +13,7 @@ tags:
 comments: []
 ---
 
-[![32](https://c1.staticflickr.com/1/109/302932418_e8b91d8a8f_b.jpg)](https://www.flickr.com/photos/duncan/302932418 "32 by duncan c, on Flickr")
+<figure>
+  <img src="https://c1.staticflickr.com/1/109/302932418_e8b91d8a8f_b.jpg" alt="32">
+  <figcaption>32 by duncan c, on Flickr</figcaption>
+</figure>

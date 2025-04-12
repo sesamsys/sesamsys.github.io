@@ -82,4 +82,7 @@ Már csak azt nem értem mi a kettéálló fűzfánfütyülő rigójancsiért **
 
 In other news. Ma Norbi nyírógépével önfodrászatot tartottam. Most messziről úgy festek, mint egy turbómagyar, csak a bomberdzseki hiányzik.
 
-[![önfodrászat](http://sesam.hu/wp-content/uploads/2008/05/photo-11-300x225.jpg)](http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/05/photo-11.jpg)
+<figure>
+  <img src="http://sesam.hu/wp-content/uploads/2008/05/photo-11-300x225.jpg" alt="önfodrászat">
+  <figcaption>önfodrászat</figcaption>
+</figure>

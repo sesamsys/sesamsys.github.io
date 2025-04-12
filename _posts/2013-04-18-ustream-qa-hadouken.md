@@ -64,4 +64,7 @@ comments:
 
 Kommentár nélkül:
 
-[![Ustream QA Hadouken](http://sesam.hu/wp-content/uploads/2013/04/IMG_0687_hadouken-1024x576.jpg)](http://sesam.hu/wp-content/uploads/2013/04/IMG_0687_hadouken.jpg)
+<figure>
+  <img src="http://sesam.hu/wp-content/uploads/2013/04/IMG_0687_hadouken-1024x576.jpg" alt="Ustream QA Hadouken">
+  <figcaption>Ustream QA Hadouken</figcaption>
+</figure>

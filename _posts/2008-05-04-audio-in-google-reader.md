@@ -36,4 +36,7 @@ comments:
 
 Wow. Egy ideje áttértem a Safari bookmark barjáról a Google Reader használatára - kezdett sok lenni az RSS. Ide már betettem a SeSam.hu saját feedét is, hogy én is lássam, mint kap az, aki azon követ. Az előző bejegyzéshez a Reader pedig szépen elhelyezett egy zenelejátszót is, amin a belinkelt számot lehet meghallgatni. _How thoughtful._
 
-[![Google Reader\\'s Audio Player](http://sesam.hu/wp-content/uploads/2008/05/googlereader-300x131.png)](http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/05/googlereader.png)
+<figure>
+  <img src="http://sesam.hu/wp-content/uploads/2008/05/googlereader-300x131.png" alt="Google Reader's Audio Player">
+  <figcaption>Google Reader's Audio Player</figcaption>
+</figure>

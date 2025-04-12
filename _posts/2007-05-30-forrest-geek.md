@@ -30,7 +30,12 @@ De csak kellett már valami szenzációs: csak kihozták hogy ez a két gonosz m
 
 Nade vissza az eredeti mederbe. Mitől lesz ez akkor MMOG? A webfelülettől, ahová fel lehet töltögetni szépen a futásokat, célokat lehet meghatározni, sőt versenyezni, akár egy kontinenssel arrébb élőkkel is. Ettől lesz igaz a reklám. Mert roppant addiktív, muszáj futni, az ember meg akarja mutatni a másiknak hogy jobb, magának hogy eléri a célját ha törik ha szakad. Mással nem tudom magyarázni, hogy például amikor csak egy nap volt hátra és én hét futással voltam lemaradva a futásszámos célomtól mi más vett volna rá 4x2km és 3x3km egymás után való lefutására.
 
-[![Nike+ webapp](http://sesam.hu/wp-content/uploads/2007/05/nikeplus-small.jpg)](http://sesam.hu/wp-content/uploads/2007/05/nikeplus.png)
+<a href="http://sesam.hu/wp-content/uploads/2007/05/nikeplus.png">
+  <figure>
+    <img src="http://sesam.hu/wp-content/uploads/2007/05/nikeplus-small.jpg" alt="Nike+ webapp">
+    <figcaption>Nike+ webapp (click for full size)</figcaption>
+  </figure>
+</a>
 
 Mert ugye mégsem lehet kispályázni. Az első használatkor kissé megrendített, hogy 3km a legkisebb előre beállított táv, aztán pár hét múlva megvolt az első 10k, nemrég pedig a [félmaraton](http://sesam.hu/2007/05/10/no-nonsense).
 

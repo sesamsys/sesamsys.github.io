@@ -43,4 +43,7 @@ I can't complain though because it really did copy everything back.
 
 However, the best part was when I removed the old backups from iDisk. Again, it worked without a glitch - took bloody ages of course - but it displayed something like this:
 
-![.Mac acting up](http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2007/10/dotmac_weirdness.png)
+<figure>
+  <img src="http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2007/10/dotmac_weirdness.png" alt=".Mac acting up">
+  <figcaption>.Mac acting up</figcaption>
+</figure>

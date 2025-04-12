@@ -19,7 +19,10 @@ comments: []
 
 [Neil](http://neilgaiman.com) hamarosan megjelenő könyve, a [The Graveyard Book](http://www.thegraveyardbook.com), új saját weboldalt kapott. Amik miatt szerintem mindenképpen érdemes megnézni, azok [Dave McKean](http://en.wikipedia.org/wiki/Dave_Mckean) [illusztrációi](http://www.thegraveyardbook.com/illustrations). Egyet el is loptam:
 
-[![Graveyard Book Illustration #5](http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/05/image5_smaller.jpg)](http://www.thegraveyardbook.com/illustrations)
+<figure>
+  <img src="http://www.sesam.hu.php5-19.dfw1-2.websitetestlink.com/wp-content/uploads/2008/05/image5_smaller.jpg" alt="Graveyard Book Illustration #5">
+  <figcaption>Graveyard Book Illustration #5</figcaption>
+</figure>
 
 Valakinek nincs fölös kétszázötven dollárja egy limitált kiadásra? :D
 
