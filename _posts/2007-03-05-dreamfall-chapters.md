@@ -20,5 +20,6 @@ Nagyon egyszerű látni a logikát emögött. Manapság az MMOGk és a többját
 Innentől érthető, miért gondolja a [Funcom](http://www.funcom.com), hogy ilyen módon hozzájuthat az egyébként teljesen jogos jussához, a játék árához. Az vesse rájuk az első követ akinél otthon kevesebb, mint 10:1 az aránya a lopott játéknak az eredetihez. A hazánkban tapasztalt árazási rendszer persze merőben más kérdés, meg hát a morál sem éppen a boltban vett játékoknak kedvez...
 
 Az ötlet amúgy sem teljesen új: a [Valve](http://www.valvesoftware.com) már egy ideje ezt csinálja a [Steam](http://www.steampowered.com/v/index.php)en keresztül.
-  *[MMOG]: Massively Multiplayer Online Game
-  *[FPS]: First Person Shooter
+
+<span class="footnote">MMOG: Massively Multiplayer Online Game</span>
+<span class="footnote">FPS: First Person Shooter</span>

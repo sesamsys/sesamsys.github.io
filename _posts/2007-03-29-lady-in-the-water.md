@@ -18,4 +18,5 @@ comments: []
 Nem véletlen, hogy a feltételek az angoltanárok esetén általában a következőek: 1) かわいい 2) 女の子 Azaz aranyos/cuki és lány. Ehhez hozzátartozik (mielőtt nyughatatlan honfitársnőim nagy számban próbálnának emigrálni az országba, ahol "a csapból is anime folyik") hogy a jól fizető, komoly állásokba anyanyelvűeket keresnek. Tehát USA, UK, Ausztrália. Ázsiaiak szóba sem jöhetnek, akkor sem ha ne adj' Isten anyanyelvi szinten hibátlan akcentussal tudnak angolul. Csak a gaijin-fej a hiteles.
 
 Az erősebbik nem tagjai szerintem nagyobb biztonságban vannak, legalábbis kicsi az esélye, hogy egy feltüzelt kielégületlen harmincas [OL](http://en.wikipedia.org/wiki/Office_lady) a kádba fojtja az angoltanárát...
-  *[OL]: Office Lady
+
+<span class="footnote">OL: Office Lady</span>

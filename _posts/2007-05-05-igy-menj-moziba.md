@@ -47,4 +47,5 @@ A mozikban előfordulnak a filmet kamerával felvevő illetők. Ha ehhez hasonl�
 Komolyan...
 
 (Ínyenceknek: a みない esetében nem a szimpla nézni jelet (見る) hanem egy bonyolultabb változatát használták: 観る. A különbség körülbelül olyan, mint a _look_ és a _watch_ között az angolban.)
-  *[[JIMCA](http://www.jimca.co.jp)]: Japan and International Motion Picture Association, Inc.
+
+<span class="footnote">JIMCA</span>, az MPA(A) "leánya".

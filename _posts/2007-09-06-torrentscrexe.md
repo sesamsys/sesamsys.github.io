@@ -39,4 +39,4 @@ Whatever the result of this announcement will be I am still of the opinion that 
 
 CinemaPlus (Hungarian): [Vírus lesz a Zuhanórepülésben](http://www.moziplussz.hu/hir.php?id=3079) VV blog (Hungarian): [Vírust feltölteni legális, filmet letölteni illegális - vihar a biliben](http://velemenyemvan.freeblog.hu/archives/2007/09/06/Virust_feltolteni_legalis_filmet_letolteni_illegalis_-_vihar_a_biliben)
 
-P.S. My Mac and linux box are safe anyway, nublets.
+<span class="footnote">P.S. My Mac and linux box are safe anyway, nublets.</span>

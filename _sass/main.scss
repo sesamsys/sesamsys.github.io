@@ -193,6 +193,12 @@ code {
     font-size: 15px;
 }
 
+.footnote {
+    color: $secondary-color;
+    font-size: 0.95em;
+    margin: 1em 0;
+}
+
 .tags {
     ul li {
         display: inline-block;

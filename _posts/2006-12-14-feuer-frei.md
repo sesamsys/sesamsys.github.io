@@ -38,13 +38,14 @@ Na vissza Frei barátunkra: nálam ott vesztette el az egész műsor a komolysá
 Szép dolog bemutatni a buktatókat és a veszélyeket. (Nem felületesen kellene, de a [japános részt](http://sesam.hu/2004/09/29/frei-dosszie) követően mit vártunk?) Amúgy van hatmillió ember aki csak játszani akar néhanapján. Persze az nem sztori...
 
 És KOMOLYAN mi a RÁK az a [4\. dimenzió](http://en.wikipedia.org/wiki/4th_dimension)??
-  *[wmv]: Windows Media Video
-  *[MMOG]: Massively Multiplayer Online Game
-  *[RMT]: Real Money Trading / Real Money Transaction
-  *[WoW]: World of Warcraft
-  *[EQ]: EverQuest
-  *[AO]: Anarchy Online
-  *[L2]: Lineage 2
-  *[EULA]: End User License Agreement
-  *[M]: Mature
-  *[ESRB]: Entertainment Software Rating Board
+
+<span class="footnote">wmv: Windows Media Video</span>
+<span class="footnote">MMOG: Massively Multiplayer Online Game</span>
+<span class="footnote">RMT: Real Money Trading / Real Money Transaction</span>
+<span class="footnote">WoW: World of Warcraft</span>
+<span class="footnote">EQ: EverQuest</span>
+<span class="footnote">AO: Anarchy Online</span>
+<span class="footnote">L2: Lineage 2</span>
+<span class="footnote">EULA: End User License Agreement</span>
+<span class="footnote">M: Mature</span>
+<span class="footnote">ESRB: Entertainment Software Rating Board</span>

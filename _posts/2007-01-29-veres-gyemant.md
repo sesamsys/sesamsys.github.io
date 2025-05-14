@@ -37,4 +37,5 @@ Nincs odaírva, hogy "based on a true story", és nyilván nem is lenne létjogo
 Ez meg már nemzetközi jog a javából: államok és NGO-k összefogása valamely globális probléma megoldására. [Így néz ki](http://www.kimberleyprocess.com:8080/site/?name=kpcs) a Kimberley Process Certification Scheme, és aki adatokra kíváncsi megnézheti a [diamondfacts.org](http://diamondfacts.org/conflict/index.html)-ot is. Hogy mindez mennyire eredményes, arról nem tudok, mindenesetre például a [Kongói Köztársaságot kizárták](http://news.bbc.co.uk/2/hi/africa/3889221.stm) egyszer az egyezményből, ami gyakorlatilag a legális piac 98%-ának elvesztésével jár. Úgy mellesleg Japán is tag.
 
 [Másvélemény a filmbuzi.hu](http://http://filmbuzi.hu/archives/2006/12/30/Veres_gyemant_Blood_Diamond) blogon, amivel már egyszer találkoztam, de most fedeztem fel ismét magamnak. (Mostantól RSS-ben.) Igazi Time magazin-féle internet-jelenség: a független és nem szakmabeli kritika mintha jobb lenne. Jó tudni, hogy nincs egyedül az ember a lelkesedésével.
-  *[TIA]: This is Africa
+
+<span class="footnote">TIA: This is Africa</span>

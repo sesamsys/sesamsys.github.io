@@ -21,4 +21,5 @@ I never regarded the whole movie experience something social: I incline to watch
 There is no point in doing things superficially.
 
 Some drink to forget, I watch movies.
-  *[gaidai]: 外国語大学 / Univ. of Foreign Studies
+
+<span class="footnote">* gaidai: 外国語大学 / Univ. of Foreign Studies</span>

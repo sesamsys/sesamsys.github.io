@@ -30,4 +30,5 @@ A [Legislative Observatory](http://www.europarl.europa.eu/oeil/file.jsp?id=52636
 Valamint az EP holnapi döntése sem jelenti még az irányelv hatályba lépését. Ehhez még az Európa Tanácsnak is meg kell szavaznia a tervezetet, méghozzá minősített többséggel. Ha a két szerv véleménye nem egyezik meg, a javalsat újra az EP elé fog kerülni egy második olvasásra, ahol akár véglegesen el is utasíthatják azt.
 
 Az EFF mindenesetre nagyban [buzdítja](http://www.copycrime.eu/action) az európaiakat, hogy üzenjenek a képviselőiknek a javaslat ellenzését kérve. Persze a mi képviselőink között olyan is van, akinek [még email címe sincs](http://velemenyemvan.freeblog.hu/archives/2007/04/23/Beloled_is_bunozot_farag_az_EU)...
-  *[EFF]: Electronic Frontier Foundation
+
+<span class="footnote">EFF: Electronic Frontier Foundation</span>
