@@ -12,7 +12,7 @@ tags:
 - ChatGPT
 ---
 
-I opted in to provide data to [flightradar24](https://www.flightradar24.com/) which has several benefits, the best of which is that I get a Business subscription for free. The stuff runs on a software-defined radio receiver connected to a Raspberry Pi.
+I opted in to provide data to [flightradar24](https://www.flightradar24.com/){:target="_blank"} which has several benefits, the best of which is that I get a Business subscription for free. The stuff runs on a software-defined radio receiver connected to a Raspberry Pi.
 
 Unfortunately — unknown to me as to why —  the software can become flaky and disconnect without notifying me. So I made it my mission to have some sort of monitoring.
 
