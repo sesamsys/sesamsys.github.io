@@ -100,6 +100,17 @@ header {
 
     a {
         border-bottom: none;
+        
+        svg {
+            .logo-path {
+                fill: #4a4a4a;
+                transition: fill .4s ease-in-out;
+            }
+        }
+        
+        &:hover svg .logo-path {
+            fill: rgb(214, 44, 125);
+        }
     }
 
     p {
